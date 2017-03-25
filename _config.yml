@@ -3,6 +3,15 @@ theme: jekyll-theme-minimal
 title: [Jose V. Die]
 description: [A short description of your site's purpose]
 
+author :
+  name : Jose V. Die
+  email : jose.die@uco.es
+  github : jdieramon
+  twitter : jdieramon
+
+production_url : http://jdieramon.github.io
+
+
 ## Optional variables
 show_downloads: ["false"] # [to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
