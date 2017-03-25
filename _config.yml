@@ -10,6 +10,7 @@ author :
   twitter : jdieramon
 
 production_url : http://jdieramon.github.io
+site.github.repository_url: http://jdieramon.github.io # pruebo esto
 
 
 ## Optional variables
