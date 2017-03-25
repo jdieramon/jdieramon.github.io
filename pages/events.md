@@ -32,8 +32,10 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 
 * AUGUST 23, Deadline for Free access link:  
 [Elucidating cold acclimation pathway in blueberry by transcriptome profiling, Die and Rowland (2014).](http://www.sciencedirect.com/science/article/pii/S0098847213002281)  
+
 * AUGUST 21-22, Laurel, MD (US)    
 [31th MAPMBS Conference](http://wp.towson.edu/mapmbs/)  
+
 * JUNE 23-26, Atlantic City, NJ (US)  
 12th North American Blueberry Research and Extension Workers (NABREW) Conference  
 
@@ -42,6 +44,7 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 
 * AUGUST 15-16, Laurel, MD (US)  
 [30th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
+
 * MARCH 14, Beltsville (US)  
 [GIFVL meeting. Talk: “Quality controls in qPCR”](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)  
 
@@ -50,6 +53,7 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 
 * AUGUST 16-17, Laurel, MD (US)  
 [29th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
+
 * APRIL 16-20, Almería (Spain)  
 [XIII Congreso Nacional Ciencias Hortícolas (SECH)](http://www.sech.info/)  
 
