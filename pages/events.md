@@ -19,11 +19,22 @@ description: Jose V. Die's events
 
 ### <a name="2015"></a>2015
 
-
-* JUN 4, Córdoba (Spain)
+* SUMMER 2015, USDA-ARS, Beltsville (MD)  
+Mentorship and supervision to **Andrea Irizarry** (Inter American University of Puerto Rico).
+  
+* JUN 25-26, San Diego (CA)  
+Session Chairman “Plant, Food and Environmental Case Studies”. [qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/digital-and-qpcr/).    
+    
+* JUN 25-26, San Diego (CA)
+Invited speaker: “Quality control and Technical Variance in plant qPCR analysis”. [qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/digital-and-qpcr/).    
+  
+* JUN 11, Beltsville (MD)  
+[GIFVL meeting](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/). Seminar: “Global patterns of protein abundance during the development of cold hardiness in blueberry”  
+    
+* JUN 4, Córdoba (Spain)  
 Report as External Referee on the PhD Thesis presented in the [University of Cordoba](http://www.uco.es/internacional/extranjeros/). “Suitability of summer squash cultivars to be processed as fresh-cut products”. PhD candidate: **María Teresa Blanco Díaz**.  
 
-* JAN 14, Almeria (Spain)  
+* JAN 14, Almeria (Spain)    
 Serving as a PhD final defense committee member. [University of Almeria](http://cms.ual.es/UAL/en/). “Nuevos recursos para la mejora genética de la especie *Cucurbita pepo*: colección de mutantes y plataforma de selección TILLING”. PhD candidate: **Nelly Vicente Dólera**.  
 [Teseo](https://www.educacion.gob.es/teseo/imprimirFichaConsulta.do?idFicha=376584)  
 
@@ -46,7 +57,7 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 [30th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
   
 * MARCH 14, Beltsville (US)  
-[GIFVL meeting. Talk: “Quality controls in qPCR”](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)  
+[GIFVL meeting](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/). Seminar: “Quality controls in qPCR”    
 
 
 ### <a name="2012"></a>2012
