@@ -17,7 +17,18 @@ description: Jose V. Die's events
 </div>
 
 
-### <a name="2016"></a>2016
+### <a name="2013"></a>2013
 
-APRIL 16-20, 2012, Almería (Spain)
+* AUGUST 15-16, Laurel, MD (US)  
+[30th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
+* MARCH 14, Beltsville (US)
+[GIFVL meeting. Talk: “Quality controls in qPCR”](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)  
+
+
+### <a name="2012"></a>2012
+
+* AUGUST 16-17, Laurel, MD (US)  
+[29th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
+* APRIL 16-20, Almería (Spain)  
 [XIII Congreso Nacional Ciencias Hortícolas (SECH)](http://www.sech.info/)  
+
