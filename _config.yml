@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [The title of your site]
 description: [A short description of your site's purpose]
+
+## Optional variables
+show_downloads: ["true"] # [to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
