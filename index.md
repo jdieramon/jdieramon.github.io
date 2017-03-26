@@ -63,7 +63,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
         * Algorithms for DNA sequencing. Apr 2016
         * Bioconductor for Genomic Data Science. Sep 2015
 
-### Bioethihcs    
+### Bioethics    
 * phlx101-01 Introduction to Bioethics. Georgetown University. Apr-Jun 2014
 
 ### Scientific Societies  
@@ -77,18 +77,18 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
 
 ### Peer-review Services  
-• Annals of Applied Biology   
-• BMC Plant Biology   
-• BMC Molecular Biology  
-• Ecotoxicology   
-• Journal of Experimental Botany   
-• Journal of Plant Physiology   
-• Molecular Biology Reports    
-• Plant Molecular Biology Reporter   
-• Planta   
-• PLos ONE  
-• Scientific Reports  
-• Weed Research    
+* Annals of Applied Biology   
+* BMC Plant Biology   
+* BMC Molecular Biology  
+* Ecotoxicology   
+* Journal of Experimental Botany   
+* Journal of Plant Physiology   
+* Molecular Biology Reports    
+* Plant Molecular Biology Reporter   
+* Planta   
+* PLos ONE  
+* Scientific Reports  
+* Weed Research    
   
 ### Jekyll Themes
 
