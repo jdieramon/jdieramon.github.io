@@ -32,8 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * Bioinformatics: introduction to sequence analysis. COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
   
 * Massachusetts Institute of Technology, MITx.  
-      • 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013 Statement of accomplishment   
-      • 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014 Statement of accomplishment  
+  
+      * 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013   
+      * 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014  
       
 * NCBI-USDA Workshop. Nov 2014  
     
