@@ -3,7 +3,7 @@ layout: default
 title: events
 description: Jose V. Die's events
 ---
-
+### Calendar Events
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -16,19 +16,50 @@ description: Jose V. Die's events
     </div>
 </div>
 
-
+### <a name="2017"></a>2017    
+  
+  
+### <a name="2016"></a>2016  
+  
+* OCT 28, Granada (Spain)  
+Invited seminar: “Transparencia y buenas prácticas en experimentos qPCR”, [Estación Experimental del Zaidín-CSIC](http://www2.eez.csic.es/?q=es/node/7457).     
+  
+* OCT 20-21, London (UK)  
+Invited speaker: “Quality Control and Technical Variance in plant qPCR analysis”, [4th qPCR & Digital PCR Congress](http://www.global-engage.com/event/qpcr-digital-pcr/). 
+  
+* SUMMER 2016, USDA-ARS, Beltsville, MD (US)  
+Mentorship and supervision to **Luis Antonio Delgado** ([University of California, Riverside](http://www.ucr.edu/)).
+  
+* AUG 8-11, Atlanta, GA (US)   
+[American Society for Horticultural Science](http://www.ashs.org/?page=GeneralConference) (ASHS) annual meeting.  
+  
+* AUGUST 2016
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne.  
+  
+* JULY 2016
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
+  
+* MARCH
+Serving as Review Panel for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
+  
 ### <a name="2015"></a>2015
 
-* SUMMER 2015, USDA-ARS, Beltsville (MD)  
+* OCT
+Serving as External Expert Reviewer for grants panel. [National Science Centre](https://www.ncn.gov.pl/?language=en) (Poland).
+  
+* SEP 28, Bethesda, MD (US)  
+[Presenting Data & Information Course](https://www.edwardtufte.com/tufte/index) by **Edward Tufte**.
+  
+* SUMMER 2015, USDA-ARS, Beltsville, MD (US)    
 Mentorship and supervision to **Andrea Irizarry** (Inter American University of Puerto Rico).
   
-* JUN 25-26, San Diego (CA)  
+* JUN 25-26, San Diego, CA (US)    
 Session Chairman “Plant, Food and Environmental Case Studies”. [qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/digital-and-qpcr/).    
     
-* JUN 25-26, San Diego (CA)
+* JUN 25-26, San Diego, CA (US)  
 Invited speaker: “Quality control and Technical Variance in plant qPCR analysis”. [qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/digital-and-qpcr/).    
   
-* JUN 11, Beltsville (MD)  
+* JUN 11, Beltsville, MD (US)  
 [GIFVL meeting](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/). Seminar: “Global patterns of protein abundance during the development of cold hardiness in blueberry”  
     
 * JUN 4, Córdoba (Spain)  
