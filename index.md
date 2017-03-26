@@ -32,26 +32,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * Bioinformatics: introduction to sequence analysis. COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
   
 * Massachusetts Institute of Technology, MITx.
-
-    • 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013 Statement of accomplishment
-
-    • 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014 Statement of accomplishment
-
-
-* NCBI-USDA Workshop. Nov 2014.
-
-
-* HarvardX Data Analysis for Genomics series : 
-
-    • PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015
-
-    • PH525.2x Matrix Algebra and Linear Models. Feb 2015
-
-    • PH525.3x Advanced Statistics for the Life Sciences.  March 2015
-
-    • PH525.4x Introduction to Bioconductor. April 2015
-
-    • PH525.5x Case Study: RNA-seq data analysis. May 2015
+      • 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013 Statement of accomplishment   
+      • 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014 Statement of accomplishment  
+      
+* NCBI-USDA Workshop. Nov 2014  
+    
+* HarvardX Data Analysis for Genomics series:  
+      • PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015  
+      • PH525.2x Matrix Algebra and Linear Models. Feb 2015  
+      • PH525.3x Advanced Statistics for the Life Sciences.  March 2015  
+      • PH525.4x Introduction to Bioconductor. April 2015  
+      • PH525.5x Case Study: RNA-seq data analysis. May 2015
 
 
 * Johns Hopkins University. Data Science Specialization. Coursera: 
