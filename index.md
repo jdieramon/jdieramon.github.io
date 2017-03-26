@@ -28,6 +28,59 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Bioinformatics  
+* Bioinformatics: introduction to sequence analysis. COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
+  
+* Massachusetts Institute of Technology, MITx.
+
+    • 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013 Statement of accomplishment
+
+    • 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014 Statement of accomplishment
+
+
+* NCBI-USDA Workshop. Nov 2014.
+
+
+* HarvardX Data Analysis for Genomics series : 
+
+    • PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015
+
+    • PH525.2x Matrix Algebra and Linear Models. Feb 2015
+
+    • PH525.3x Advanced Statistics for the Life Sciences.  March 2015
+
+    • PH525.4x Introduction to Bioconductor. April 2015
+
+    • PH525.5x Case Study: RNA-seq data analysis. May 2015
+
+
+* Johns Hopkins University. Data Science Specialization. Coursera: 
+
+    • The Data Scientist’s Toolbox. July 2015 
+
+    • R Programming. June 2015
+
+    • Getting and Cleaning Data. July 2015
+
+    • Exploratory Data Analysis. August 2015
+
+    • Reproducible Research. September 2015
+
+    • Statistical Inference. February 2016
+
+
+* Johns Hopkins University. Genomic Data Science Specialization. Coursera:
+
+    • Introduction to Genomic Technologies. December 2015. 
+
+    • Python for Genomic Data Science. August 2015.
+
+    • Algorithms for DNA sequencing. April 2016 
+
+    • Bioconductor for Genomic Data Science, September 2015
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdieramon/jdieramon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
