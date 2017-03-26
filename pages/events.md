@@ -11,7 +11,6 @@ description: Jose V. Die's events
 | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
   
 <br>  
-<br>    
   
 ### <a name="2017"></a>2017    
 
