@@ -33,8 +33,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   
 * Massachusetts Institute of Technology, MITx.  
   
-      * 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013   
-      * 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014  
+        * 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013   
+        * 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014  
       
 * NCBI-USDA Workshop. Nov 2014  
     
