@@ -67,12 +67,29 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * phlx101-01 Introduction to Bioethics. Georgetown University. Apr-Jun 2014
 
 ### Scientific Societies  
-* American Society of Plant Biologists                 2015 - present  
-* The American Phytopathological Society               2015 - present  
-* Sociedad Española de Bioquímica y Biología Molecular 2014 - present  
-* Sociedad Española de Genética                        2008 - present  
+* American Society of Plant Biologists                 (2015 - present)  
+* The American Phytopathological Society               (2015 - present)  
+* Sociedad Española de Bioquímica y Biología Molecular (2014 - present)  
+* Sociedad Española de Genética                        (2008 - present)  
 
+### Awards
+* Extraordinary Doctorate Award. 2011. University of Cordoba. Córdoba, Spain
+* European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
 
+### Peer-review Services  
+•Annals of Applied Biology   
+•BMC Plant Biology   
+•BMC Molecular Biology  
+•Ecotoxicology   
+•Journal of Experimental Botany   
+•Journal of Plant Physiology   
+•Molecular Biology Reports    
+•Plant Molecular Biology Reporter   
+•Planta   
+•PLos ONE  
+•Scientific Reports  
+•Weed Research    
+  
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdieramon/jdieramon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
