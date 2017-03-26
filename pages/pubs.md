@@ -1,7 +1,7 @@
 ---
 layout: default
 title: publications
-description: Karl Broman's publications
+description: Jose V. Die's publications
 ---
 
 <div class="navbar">
