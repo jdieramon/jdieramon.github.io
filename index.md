@@ -38,31 +38,29 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * NCBI-USDA Workshop. Nov 2014  
     
 * HarvardX Data Analysis for Genomics series:  
-      • PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015  
-      • PH525.2x Matrix Algebra and Linear Models. Feb 2015  
-      • PH525.3x Advanced Statistics for the Life Sciences.  March 2015  
-      • PH525.4x Introduction to Bioconductor. April 2015  
-      • PH525.5x Case Study: RNA-seq data analysis. May 2015
+        
+        * PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015
+        * PH525.2x Matrix Algebra and Linear Models. Feb 2015
+        * PH525.3x Advanced Statistics for the Life Sciences.  Mar 2015
+        * PH525.4x Introduction to Bioconductor. Apr 2015
+        * PH525.5x Case Study: RNA-seq data analysis. May 2015
   
 * Johns Hopkins University. Data Science Specialization. Coursera: 
   
-        * The Data Scientist’s Toolbox. July 2015
-        * R Programming. June 2015  
-        * Getting and Cleaning Data. July 2015  
-        * Exploratory Data Analysis. August 2015  
-        * Reproducible Research. September 2015  
-        * Statistical Inference. February 2016
+        * The Data Scientist’s Toolbox. Jul 2015
+        * R Programming. Jun 2015  
+        * Getting and Cleaning Data. Jul 2015  
+        * Exploratory Data Analysis. Aug 2015  
+        * Reproducible Research. Sep 2015  
+        * Statistical Inference. Feb 2016
 
 
 * Johns Hopkins University. Genomic Data Science Specialization. Coursera:
 
-    • Introduction to Genomic Technologies. December 2015. 
-
-    • Python for Genomic Data Science. August 2015.
-
-    • Algorithms for DNA sequencing. April 2016 
-
-    • Bioconductor for Genomic Data Science, September 2015
+        * Introduction to Genomic Technologies. Dec 2015
+        * Python for Genomic Data Science. Aug 2015
+        * Algorithms for DNA sequencing. Apr 2016
+        * Bioconductor for Genomic Data Science. Sep 2015
 
 
 
