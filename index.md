@@ -77,18 +77,18 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
 
 ### Peer-review Services  
-•Annals of Applied Biology   
-•BMC Plant Biology   
-•BMC Molecular Biology  
-•Ecotoxicology   
-•Journal of Experimental Botany   
-•Journal of Plant Physiology   
-•Molecular Biology Reports    
-•Plant Molecular Biology Reporter   
-•Planta   
-•PLos ONE  
-•Scientific Reports  
-•Weed Research    
+• Annals of Applied Biology   
+• BMC Plant Biology   
+• BMC Molecular Biology  
+• Ecotoxicology   
+• Journal of Experimental Botany   
+• Journal of Plant Physiology   
+• Molecular Biology Reports    
+• Plant Molecular Biology Reporter   
+• Planta   
+• PLos ONE  
+• Scientific Reports  
+• Weed Research    
   
 ### Jekyll Themes
 
