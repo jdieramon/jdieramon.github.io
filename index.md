@@ -46,8 +46,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   
 * Johns Hopkins University. Data Science Specialization. Coursera: 
   
-    • The Data Scientist’s Toolbox. July 2015    
-    • R Programming. June 2015  
+        * The Data Scientist’s Toolbox. July 2015    
+        * R Programming. June 2015  
     • Getting and Cleaning Data. July 2015  
     • Exploratory Data Analysis. August 2015  
     • Reproducible Research. September 2015  
