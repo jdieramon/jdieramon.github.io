@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+exclude: ["ReadMe.md", "License.md"]
+
 title: [Jose V. Die]
 description: [A short description of your site's purpose]
 
