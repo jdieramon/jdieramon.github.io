@@ -16,9 +16,21 @@ description: Jose V. Die's events
     </div>
 </div>
 
+
+| a | b | c |
+|---|---|---|
+| 1 | 2 | 3 |
+
+
+
 ### <a name="2017"></a>2017    
+
+* FEB 23, Córdoba (Spain)  
+Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, Ansalusian Institute of Agrarian Research and Training, Fisheries, Food and Organic Production.  
   
-  
+* FEB 10, Córdoba (Spain)  
+Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Seminarios Interdepartamentales Bioquímica, Biología Molecular y Genética](http://www.uco.es/dptos/bioquimica-biol-mol/seminarios_interdepartamentales/programa.pdf). [University of Cordoba](http://www.uco.es/internacional/extranjeros/).     
+    
 ### <a name="2016"></a>2016  
   
 * OCT 28, Granada (Spain)  
@@ -33,18 +45,18 @@ Mentorship and supervision to **Luis Antonio Delgado** ([University of Californi
 * AUG 8-11, Atlanta, GA (US)   
 [American Society for Horticultural Science](http://www.ashs.org/?page=GeneralConference) (ASHS) annual meeting.  
   
-* AUGUST 2016
+* AUGUST 2016  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne.  
   
-* JULY 2016
+* JULY 2016  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
   
-* MARCH
+* MARCH  
 Serving as Review Panel for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
   
 ### <a name="2015"></a>2015
 
-* OCT
+* OCT  
 Serving as External Expert Reviewer for grants panel. [National Science Centre](https://www.ncn.gov.pl/?language=en) (Poland).
   
 * SEP 28, Bethesda, MD (US)  
