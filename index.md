@@ -63,6 +63,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
         * Algorithms for DNA sequencing. Apr 2016
         * Bioconductor for Genomic Data Science. Sep 2015
 
+### Bioethihcs    
+* phlx101-01 Introduction to Bioethics. Georgetown University. Apr-Jun 2014
+
+### Scientific Societies  
+* American Society of Plant Biologists                 2015 - present  
+* The American Phytopathological Society               2015 - present  
+* Sociedad Española de Bioquímica y Biología Molecular 2014 - present  
+* Sociedad Española de Genética                        2008 - present  
 
 
 ### Jekyll Themes
