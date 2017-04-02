@@ -13,14 +13,8 @@ An [R](http://www.r-project.org/) package to get a graphical representation of y
 
 ---
 
-#### <a name="qtl2"></a>[R/qtl2](http://kbroman.org/qtl2)
+#### <a name="optimal"></a>[optimalPlan](https://github.com/jdieramon/BlueberryProject/blob/master/Optimal%20Plan/optimal_Plan.md)  
 
-A reimplementation of [R/qtl](http://www.rqtl.org), to better handle
-high-dimensional data and complex cross designs (such as the
-[Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
-[MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
-[heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
-and
-[Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
 
+[R]((http://www.r-project.org/)) script designed to identify the optimal sampling plan for a qPCR experiment within the limits of a given budget by using replicates (RNA, cDNA, qPCR)  when they are expected to have the greatest benefit.
 ---
