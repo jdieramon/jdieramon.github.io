@@ -6,7 +6,7 @@ description: Jose V. Die's software
 
 ---
 
-#### <a name="hindex"></a>[hIndexOveryears]({{ BASE_PATH }}/hIndex/blob/master/tutorial.md)  
+#### <a name="hindex"></a>[hIndexOveryears]({{ BASE_PATH }}/hIndex/blob/master/tutorial.html)  
 (https://github.com/jdieramon/hIndex/blob/master/tutorial.md)
 
 An [R](http://www.r-project.org/) package to get a graphical representation of your h Index over the years.  
