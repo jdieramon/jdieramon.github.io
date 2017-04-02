@@ -15,6 +15,6 @@ An [R](http://www.r-project.org/) package to get a graphical representation of y
 
 #### <a name="optimal"></a>[optimalPlan](https://github.com/jdieramon/BlueberryProject/blob/master/Optimal%20Plan/optimal_Plan.md)  
 
-
-[R]((http://www.r-project.org/)) script designed to identify the optimal sampling plan for a qPCR experiment within the limits of a given budget by using replicates (RNA, cDNA, qPCR)  when they are expected to have the greatest benefit.
+[R](http://www.r-project.org/) script designed to identify the optimal sampling plan for a qPCR experiment within the limits of a given budget by using replicates (RNA, cDNA, qPCR)  when they are expected to have the greatest benefit.  
+  
 ---
