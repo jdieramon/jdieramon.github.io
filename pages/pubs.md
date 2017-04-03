@@ -9,7 +9,6 @@ description: Jose V. Die's publications
         <ul class="nav">
             <li><a href="#articles">articles</a></li>
             <li><a href="#chapters">chapters</a></li>
-            <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
 </div>
