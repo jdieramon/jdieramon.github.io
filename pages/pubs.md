@@ -3,7 +3,8 @@ layout: default
 title: publications
 description: Jose V. Die's publications
 ---
-
+[Home](../index.html)
+  
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -13,7 +14,7 @@ description: Jose V. Die's publications
     </div>
 </div>
 
-
+  
 ### <a name="articles"></a>articles
 
 + **Die JV**, Roman B, Flores F, Rowland LJ. (2016) [Design and sampling plan optimization for RT-qPCR experiments in plants: a case study in blueberry](https://www.ncbi.nlm.nih.gov/pubmed/27014296). Frontiers in Plant Science, 7: 271.   
@@ -31,7 +32,9 @@ description: Jose V. Die's publications
 + **Die JV**, Obrero A, González-Verdejo CI, Román B. (2011) [Characterization of the 3': 5' ratio for reliable determination of RNA quality](https://www.ncbi.nlm.nih.gov/pubmed/21889484). Analytical Biochemistry, 419, pp. 336-338. 
   
 + **Die JV**, Dita MA, Krajinski F, Gonzalez-Verdejo CI, Rubiales D, Moreno MT, Roman B. (2007) Identification by suppression subtractive hybridization and expression analysis of Medicago truncatula putative defence genes in response to Orobanche crenata parasitization. Physiological and Molecular Plant Pathology, 70, pp. 49-59.   
-
+  
+    
+    
 ### <a name="chapters"></a>chapters
 + Román B., **Die JV**., Nadal S., González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
   
