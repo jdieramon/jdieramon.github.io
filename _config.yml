@@ -3,7 +3,8 @@ theme: jekyll-theme-minimal
 exclude: ["ReadMe.md", "License.md"]
 
 title: [Jose V. Die]
-description: [Postdoctoral]
+description: [Postdoctoral research fellow in the Department of Genetics 
+at University of Cordoba working in the research group of Juan Gil]
 
 author :
   name : Jose V. Die
