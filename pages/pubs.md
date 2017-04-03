@@ -37,10 +37,7 @@ description: Jose V. Die's publications
   
 + **Die JV**, Dita MA, Krajinski F, Gonzalez-Verdejo CI, Rubiales D, Moreno MT, Roman B. (2007) Identification by suppression subtractive hybridization and expression analysis of Medicago truncatula putative defence genes in response to Orobanche crenata parasitization. Physiological and Molecular Plant Pathology, 70, pp. 49-59.   
 
-### <a name="chapbook"></a>chapters book
-
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
-[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
-[![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
+### <a name="chapters"></a>chapters
++ Román B., **Die JV**., Nadal S., González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
+  
++ Pérez-de-Luque A., Lozano MD., Maldonado AM., Jorín JV., Dita MA., **Die JV**., Román B., Rubiales D. (2007) Medicago truncatula as a model for studying interactions between root parasitic plants and legumes. In: [The Medicago truncatula Handbook](https://www.noble.org/medicago-handbook/)., pp. 1-31. Mathesius U, Journet EP, Summer LW (eds). ISBN 0-9754303-1-9. 
