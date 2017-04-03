@@ -3,7 +3,8 @@ layout: default
 title: events
 description: Jose V. Die's events
 ---
-Return to [Hello Worlds](../index.html)
+[Home](../index.html)
+  
 ### Calendar Events
 
 |   |  |  |
