@@ -16,7 +16,7 @@ description: Jose V. Die's events
   
 ### <a name="2017"></a>2017    
 
-* MARCH
+* MARCH  
 Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
 
 * FEB 23, Córdoba (Spain)  
