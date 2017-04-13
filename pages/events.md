@@ -16,6 +16,9 @@ description: Jose V. Die's events
   
 ### <a name="2017"></a>2017    
 
+* MARCH
+Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
+
 * FEB 23, Córdoba (Spain)  
 Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, Ansalusian Institute of Agrarian Research and Training, Fisheries, Food and Organic Production.  
   
@@ -43,7 +46,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
   
 * MARCH  
-Serving as Review Panel for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
+Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
   
 ### <a name="2015"></a>2015
 
