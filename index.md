@@ -31,40 +31,39 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Bioinformatics  
 * Bioinformatics: introduction to sequence analysis. COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
   
-* Massachusetts Institute of Technology, MITx.  
+* Massachusetts Institute of Technology, [MITx](https://www.edx.org/school/mitx). 
   
-        * 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013   
-        * 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014  
+     * 6.00.1x Introduction to Computer Science and Programming. Oct-Dec 2013   
+     * 6.00.2x Introduction to Computational Thinking and Data Science. Oct-Dec 2014  
       
 * NCBI-USDA Workshop. Nov 2014  
     
-* HarvardX Data Analysis for Genomics series:  
+* HarvardX [Data Analysis for Genomics](https://www.edx.org/xseries/data-analysis-life-sciences) series:  
         
-        * PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015
-        * PH525.2x Matrix Algebra and Linear Models. Feb 2015
-        * PH525.3x Advanced Statistics for the Life Sciences.  Mar 2015
-        * PH525.4x Introduction to Bioconductor. Apr 2015
-        * PH525.5x Case Study: RNA-seq data analysis. May 2015
+    * PH525.1x Statistics and R for the Life Sciences. Jan-Feb 2015
+    * PH525.2x Matrix Algebra and Linear Models. Feb 2015
+    * PH525.3x Advanced Statistics for the Life Sciences.  Mar 2015
+    * PH525.4x Introduction to Bioconductor. Apr 2015
+    * PH525.5x Case Study: RNA-seq data analysis. May 2015
+
+* Johns Hopkins University. [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science). Coursera: 
   
-* Johns Hopkins University. Data Science Specialization. Coursera: 
-  
-        * The Data Scientist’s Toolbox. Jul 2015
-        * R Programming. Jun 2015  
-        * Getting and Cleaning Data. Jul 2015  
-        * Exploratory Data Analysis. Aug 2015  
-        * Reproducible Research. Sep 2015  
-        * Statistical Inference. Feb 2016
+    * The Data Scientist’s Toolbox. Jul 2015
+    * R Programming. Jun 2015  
+    * Getting and Cleaning Data. Jul 2015  
+    * Exploratory Data Analysis. Aug 2015  
+    * Reproducible Research. Sep 2015  
+    * Statistical Inference. Feb 2016
 
+* Johns Hopkins University. [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science). Coursera:
 
-* Johns Hopkins University. Genomic Data Science Specialization. Coursera:
-
-        * Introduction to Genomic Technologies. Dec 2015
-        * Python for Genomic Data Science. Aug 2015
-        * Algorithms for DNA sequencing. Apr 2016
-        * Bioconductor for Genomic Data Science. Sep 2015
+    * Introduction to Genomic Technologies. Dec 2015
+    * Python for Genomic Data Science. Aug 2015
+    * Algorithms for DNA sequencing. Apr 2016
+    * Bioconductor for Genomic Data Science. Sep 2015
 
 ### Bioethics    
-* phlx101-01 Introduction to Bioethics. Georgetown University. Apr-Jun 2014
+* Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x).GeorgetownX. Apr-Jun 2014
 
 ### Scientific Societies  
 * American Society of Plant Biologists                 (2015 - present)  
