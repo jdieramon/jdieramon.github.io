@@ -1,35 +1,21 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jdieramon/jdieramon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have worked as postdoctoral researcher funded by the Spanish Ministry of Science and Innovation through 
+the “Juan de la Cierva” (2010-2012) program. In 2012, I moved to USA and I worked with [Dr Lisa J. Rowland](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/people/lisa-rowland/) at the Genetic Improvement of Fruits and Vegetables Laboratory, USDA-ARS (Beltsville, MD, USA). In January 2017, I moved back to Spain to work in the research group of Dr Juan Gil "*Mejora Genetica Vegetal*". I look for ways to integrate bioinformatics with experimentation. My research is focused on identification and analysis of differentially expressed plant genes during several biotic/abiotic stresses. To achieve that goal, I combine transcriptomic approaches with computational analysis. I am an advocate of plant gene expression analyses in compliance with MIQE guidelines. I also enjoy working with big data sets. I like data, and I like to extract biological value out of data. If you are interested in working with us, feel free to contact me. I am always happy to work with motivated people.  Network with me on [Github](https://github.com/jdieramon), Linkedin or [Twitter](https://twitter.com/jdieramon).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[HolaKK]({{ BASE_PATH }}/pages/pubs.html)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+* 2009 Ph.D. Plant Genetics. Cum laude honors. [University of Cordoba](http://www.uco.es/internacional/extranjeros/). Córdoba, Spain
+* 2003 Agronomical Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
 
-```markdown
-Syntax highlighted code block
+### Transcriptomic & Bioinformatics Training
+* Workshop on Transcriptomics and Bioinformatics. [Center for Biotechnology](http://www.cebitec.uni-bielefeld.de), University of Bielefeld. Bielefeld, Germany. Nov 2004
 
-# Header 1
-## Header 2
-### Header 3
+* Rethink the way you do real-time PCR. Bio-Rad. Málaga, Spain. Jun 2008
 
-- Bulleted
-- List
+* Real-time PCR Course. TATAA Biocenter. Freising, Germany. Nov 2008
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Bioinformatics  
-* Bioinformatics: introduction to sequence analysis. COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
+* [Bioinformatics: introduction to sequence analysis](https://bioinf.comav.upv.es/courses.html). COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
   
 * Massachusetts Institute of Technology, [MITx](https://www.edx.org/school/mitx). 
   
@@ -63,7 +49,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     * Bioconductor for Genomic Data Science. Sep 2015
 
 ### Bioethics    
-* Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x).GeorgetownX. Apr-Jun 2014
+* Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x). GeorgetownX. Apr-Jun 2014
 
 ### Scientific Societies  
 * American Society of Plant Biologists                 (2015 - present)  
@@ -88,7 +74,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * PLos ONE  
 * Scientific Reports  
 * Weed Research    
-
 
 
 ### Jekyll Themes
