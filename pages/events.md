@@ -15,7 +15,7 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events
-8th International Conference on Legume Genetics and Genomics[ICGL2017](http://iclgg2017.hu), Siofok, Hungary. SEPT 18-22, 2017.
+8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)), Siofok, Hungary. SEPT 18-22, 2017.
   
 ### <a name="2017"></a>2017    
 
