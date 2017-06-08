@@ -8,12 +8,15 @@ In January 2017, I moved back to Spain where I currently live. I work in the res
 I look for ways to integrate bioinformatics with experimentation. I am an advocate of gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I also enjoy working with big data sets. I like data, and I like to extract biological value out of data. If you are interested in working with us, feel free to contact me. I am always happy to work with motivated people.  
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
 
-
+<br>
+  
 ### Education
 * 2009 Ph.D. Plant Genetics. *Cum laude* honors. [University of Cordoba](http://www.uco.es/internacional/extranjeros/). Córdoba, Spain. 
 
 * 2003 Agronomical Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
 
+
+  
 ### Transcriptomic & Bioinformatics Training
 * Workshop on Transcriptomics and Bioinformatics. [Center for Biotechnology](http://www.cebitec.uni-bielefeld.de), University of Bielefeld. Bielefeld, Germany. Nov 2004
 
@@ -54,19 +57,27 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
     * Algorithms for DNA sequencing. Apr 2016
     * Bioconductor for Genomic Data Science. Sep 2015
 
+
+  
 ### Bioethics    
 * Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x). GeorgetownX. Apr-Jun 2014
 
+
+  
 ### Scientific Societies  
 * American Society of Plant Biologists                 (2015 - present)  
 * The American Phytopathological Society               (2015 - present)  
 * Sociedad Española de Bioquímica y Biología Molecular (2014 - present)  
 * Sociedad Española de Genética                        (2008 - present)  
 
+
+  
 ### Awards
 * Extraordinary Doctorate Award. 2011. University of Cordoba. Córdoba, Spain
 * European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
 
+
+  
 ### Peer-review Services  
 * Annals of Applied Biology   
 * BMC Plant Biology   
@@ -80,6 +91,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * PLos ONE  
 * Scientific Reports  
 * Weed Research    
+
 
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
