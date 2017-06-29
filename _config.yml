@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 exclude: ["ReadMe.md", "License.md"]
 
-title: [Jose V. Die, Ph.D.]
+title: [Jose V. Die "," Ph.D.]
 description: [Postdoctoral research fellow in the Department of Genetics 
 at University of Cordoba]
 
