@@ -56,7 +56,8 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
     * Python for Genomic Data Science. Aug 2015
     * Algorithms for DNA sequencing. Apr 2016
     * Bioconductor for Genomic Data Science. Sep 2015
-
+    
+* HarvardX. [PH526x Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x). Jun 2017  
 
   
 ### Bioethics    
