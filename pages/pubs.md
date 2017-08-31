@@ -20,19 +20,19 @@ description: Jose V. Die's publications
 
 + **Die JV**, Roman B, Flores F, Rowland LJ. (2016) [Design and sampling plan optimization for RT-qPCR experiments in plants: a case study in blueberry](https://www.ncbi.nlm.nih.gov/pubmed/27014296). Frontiers in Plant Science, 7: 271.   
   
-+ **Die JV**, Arora R, Rowland LJ. (2016) Global patterns of protein abundance during the development of cold hardiness in blueberry. Environmental and Experimental Botany, 124: pp. 11-21. 
++ **Die JV**, Arora R, Rowland LJ. (2016) [Global patterns of protein abundance during the development of cold hardiness in blueberry](http://www.sciencedirect.com/science/article/pii/S0098847215300460). Environmental and Experimental Botany, 124: pp. 11-21. 
   
-+ **Die JV**, Rowland LJ. (2014) Elucidating cold acclimation pathway in blueberry by transcriptome profiling. Environmental and Experimental Botany, 106: pp. 87-98. 
++ **Die JV**, Rowland LJ. (2014) [Elucidating cold acclimation pathway in blueberry by transcriptome profiling](http://www.sciencedirect.com/science/article/pii/S0098847213002281). Environmental and Experimental Botany, 106: pp. 87-98. 
   
 + **Die JV**, Rowland LJ. (2013) [Superior cross-species reference genes: a blueberry case study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776805/). PLoS ONE 8(9): e73354.   
   
-+ **Die JV**, Rowland LJ. (2013) Advent of genomics in blueberry. Molecular Breeding, 32(3): pp. 493-504. 
++ **Die JV**, Rowland LJ. (2013) [Advent of genomics in blueberry](https://link.springer.com/article/10.1007/s11032-013-9893-1). Molecular Breeding, 32(3): pp. 493-504. 
   
 + **Die JV**, Román B. (2012) [RNA quality assessment : a view from qPCR plant studies](https://www.ncbi.nlm.nih.gov/pubmed/23045609). Journal of Experimental Botany, 63(17): pp. 6069-6077. 
   
 + **Die JV**, Obrero A, González-Verdejo CI, Román B. (2011) [Characterization of the 3': 5' ratio for reliable determination of RNA quality](https://www.ncbi.nlm.nih.gov/pubmed/21889484). Analytical Biochemistry, 419, pp. 336-338. 
   
-+ **Die JV**, Dita MA, Krajinski F, Gonzalez-Verdejo CI, Rubiales D, Moreno MT, Roman B. (2007) Identification by suppression subtractive hybridization and expression analysis of Medicago truncatula putative defence genes in response to Orobanche crenata parasitization. Physiological and Molecular Plant Pathology, 70, pp. 49-59.   
++ **Die JV**, Dita MA, Krajinski F, Gonzalez-Verdejo CI, Rubiales D, Moreno MT, Roman B. (2007) [Identification by suppression subtractive hybridization and expression analysis of Medicago truncatula putative defence genes in response to Orobanche crenata parasitization](http://www.sciencedirect.com/science/article/pii/S0885576507000525). Physiological and Molecular Plant Pathology, 70, pp. 49-59.   
   
     
     
