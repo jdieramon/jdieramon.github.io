@@ -15,10 +15,15 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events
-8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)), Siofok, Hungary. SEPT 18-22, 2017.
   
 ### <a name="2017"></a>2017    
 
+* SEPT 25, Córdoba, Spain.   
+Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la androesterilidad en apio" by **María Jurado Cañas** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.   
+
+* SEPT 18-22, Siofok, Hungary.     
+8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)).  
+    
 * MARCH  
 Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
 
