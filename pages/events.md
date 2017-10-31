@@ -18,6 +18,9 @@ description: Jose V. Die's events
   
 ### <a name="2017"></a>2017    
 
+* OCT 5, Córdoba, Spain.  
+Seminar 'Big Data en Genómica de Plantas'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
+
 * SEPT 25, Córdoba, Spain.   
 Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la androesterilidad en apio" by **María Jurado Cañas** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.   
 
