@@ -5,7 +5,7 @@ the program “Juan de la Cierva” (2010-2012). In 2012, I moved to USA to work
   
 In January 2017, I moved back to Spain where I currently live. I work in the research group of **Dr Juan Gil** "*Mejora Genetica Vegetal*". My research is focused on identification and analysis of differentially expressed genes during plant development and biotic/abiotic stresses. To achieve that goal, I combine transcriptomic approaches with computational analysis.  
   
-I look for ways to integrate bioinformatics with experimentation. I am an advocate of gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I also enjoy working with big data sets. I like data, and I like to extract biological value out of data. If you are interested in working with us, feel free to contact me. I am always happy to work with motivated people.  
+I look for ways to integrate bioinformatics with experimentation. I am an advocate of gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I also enjoy working with big data sets. I like data, and I like to extract biological value out of data. If you are interested in working with me, feel free to contact me. I am always happy to work with motivated and enthusiatic people.  
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
 
 <br>
