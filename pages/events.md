@@ -15,7 +15,6 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
-  
   * Dec 12, Córdoba, Spain.  
 Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  Building C4-B5. 6-7pm. 
 
