@@ -25,7 +25,7 @@ Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php).
 ### <a name="2017"></a>2017    
 
 * DECEMBER.   
-Serving as Reviewer for the open acces journal [Methods and Protocols](http://www.mdpi.com/journal/mps).  
+Serving as [Reviewer]((http://www.mdpi.com/journal/mps)) for the open acces journal Methods and Protocols.  
 
   
 * DEC 18, Córdoba, Spain.   
@@ -47,7 +47,7 @@ Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la a
 8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)).  
     
 * MARCH  
-Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
+Serving as [Reviewer]((http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx)) for the Student Travel Award. American Phytopathological Society Foundation.    
 
 * FEB 23, Córdoba (Spain)  
 Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, Ansalusian Institute of Agrarian Research and Training, Fisheries, Food and Organic Production.  
@@ -76,12 +76,12 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
   
 * MARCH  
-Serving as Reviewer for the Student Travel Award. [American Phytopathological Society Foundation](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx).    
+Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
   
 ### <a name="2015"></a>2015
 
 * OCT  
-Serving as External Expert Reviewer for grants panel. [National Science Centre](https://www.ncn.gov.pl/?language=en) (Poland).
+Serving as [External Expert Reviewer](https://www.ncn.gov.pl/?language=en) for grants panel. National Science Centre, Poland.
   
 * SEP 28, Bethesda, MD (US)  
 [Presenting Data & Information Course](https://www.edwardtufte.com/tufte/index) by **Edward Tufte**.
