@@ -15,18 +15,24 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
-  * Dec 12, Córdoba, Spain.  
-Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  Building C4-B5. 6-7pm. 
 
-* Dec 18, Córdoba, Spain.   
-Co-direction of the final thesis "Caracterización del QTLAR3 para resistencia a rabia en garbanzo (*Cicer arietinum* L.)" by **Julián García Muñoz** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
 
-* Dec 18-22, Valencia, Spain.   
+* DEC 18-22, Valencia, Spain.   
 Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php). 
 
 <br> 
 
 ### <a name="2017"></a>2017    
+
+* DECEMBER.   
+Serving as Reviewer for the open acces journal [Methods and Protocols](http://www.mdpi.com/journal/mps).  
+
+  
+* DEC 18, Córdoba, Spain.   
+Co-direction of the final thesis "Caracterización del QTLAR3 para resistencia a rabia en garbanzo (*Cicer arietinum* L.)" by **Julián García Muñoz** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
+
+* DEC 12, Córdoba, Spain.  
+Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  Building C4-B5. 6-7pm. 
 
 * OCT 19, Córdoba, Spain.  
 Lecture on 'Big Data en Genómica de Plantas'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
