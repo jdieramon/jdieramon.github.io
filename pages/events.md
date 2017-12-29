@@ -26,7 +26,7 @@ Looking forward to 2018!
 Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php).   
   
 * DECEMBER.   
-Serving as [Reviewer]((http://www.mdpi.com/journal/mps)) for the open acces journal Methods and Protocols.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open acces journal Methods and Protocols.  
 
   
 * DEC 18, Córdoba, Spain.   
@@ -48,7 +48,7 @@ Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la a
 8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)).  
     
 * MARCH  
-Serving as [Reviewer]((http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx)) for the Student Travel Award. American Phytopathological Society Foundation.    
+Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
 
 * FEB 23, Córdoba (Spain)  
 Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, Ansalusian Institute of Agrarian Research and Training, Fisheries, Food and Organic Production.  
