@@ -15,15 +15,16 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
+Looking forward to 2018!
 
-
-* DEC 18-22, Valencia, Spain.   
-Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php). 
 
 <br> 
 
 ### <a name="2017"></a>2017    
 
+* DEC 18-22, Valencia, Spain.     
+Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php).   
+  
 * DECEMBER.   
 Serving as [Reviewer]((http://www.mdpi.com/journal/mps)) for the open acces journal Methods and Protocols.  
 
