@@ -94,6 +94,8 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * Scientific Reports  
 * Weed Research    
 
+More information on [peer-review](https://publons.com/author/420232/jose-v-die#profile).  
+
 
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
