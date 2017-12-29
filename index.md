@@ -25,7 +25,10 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 
 * Real-time PCR Course. TATAA Biocenter. Freising, Germany. Nov 2008
 
-* [Bioinformatics: introduction to sequence analysis](https://bioinf.comav.upv.es/courses.html). COMAV’s Bioinformatic & Genomics course 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011
+* [Genomics & Bioinformatics](https://bioinf.comav.upv.es/courses.html) COMAV's Group:  
+  
+  * Bioinformatics: introduction to sequence analysis. 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011  
+  * NGS Sequence Analysis. 13rd edition. Universidad Politécnica de Valencia, Valencia, Spain. Dec 2017  
   
 * Massachusetts Institute of Technology, [MITx](https://www.edx.org/school/mitx). 
   
