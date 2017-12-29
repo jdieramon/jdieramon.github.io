@@ -28,7 +28,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * [Genomics & Bioinformatics](https://bioinf.comav.upv.es/courses.html) COMAV's Group:  
   
   * Bioinformatics: introduction to sequence analysis. 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011  
-  * NGS Sequence Analysis. 13rd edition. Universidad Politécnica de Valencia, Valencia, Spain. Dec 2017  
+  * NGS Sequence Analysis. 13th edition. Universidad Politécnica de Valencia, Valencia, Spain. Dec 2017  
   
 * Massachusetts Institute of Technology, [MITx](https://www.edx.org/school/mitx). 
   
