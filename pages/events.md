@@ -15,19 +15,19 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
-Looking forward to 2018!
-
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
 
 <br>
-### <a name="2017"></a>2018    
+
+### 2018    
 
 * FEB.   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the Plant Physiology and Biochemistry.  
 
 * JAN 13-17, San Diego, CA, USA.    
 Plant & Animal Genome Conference [PAG XXVI](http://www.intlpag.org).
+
 
 ### <a name="2017"></a>2017    
 
