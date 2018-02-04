@@ -17,8 +17,17 @@ description: Jose V. Die's events
 ### Coming Events. 
 Looking forward to 2018!
 
+* FEB 7, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
 
-<br> 
+<br>
+### <a name="2017"></a>2018    
+
+* FEB.   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the Plant Physiology and Biochemistry.  
+
+* JAN 13-17, San Diego, CA, USA.    
+Plant & Animal Genome Conference [PAG XXVI](http://www.intlpag.org).
 
 ### <a name="2017"></a>2017    
 
@@ -28,7 +37,6 @@ Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php).
 * DECEMBER.   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open acces journal Methods and Protocols.  
 
-  
 * DEC 18, Córdoba, Spain.   
 Co-direction of the final thesis "Caracterización del QTLAR3 para resistencia a rabia en garbanzo (*Cicer arietinum* L.)" by **Julián García Muñoz** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
 
@@ -47,7 +55,7 @@ Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la a
 * SEPT 18-22, Siofok, Hungary.     
 8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)).  
     
-* MARCH  
+* MAR  
 Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
 
 * FEB 23, Córdoba (Spain)  
@@ -76,7 +84,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne
 * JULY 2016  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
   
-* MARCH  
+* MAR  
 Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
   
 ### <a name="2015"></a>2015
@@ -109,10 +117,10 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 
 ### <a name="2014"></a>2014
 
-* AUGUST 23, Deadline for Free access link:  
+* AUG 23, Deadline for Free access link:  
 [Elucidating cold acclimation pathway in blueberry by transcriptome profiling, Die and Rowland (2014).](http://www.sciencedirect.com/science/article/pii/S0098847213002281)  
   
-* AUGUST 21-22, Laurel, MD (US)    
+* AUG 21-22, Laurel, MD (US)    
 [31th MAPMBS Conference](http://wp.towson.edu/mapmbs/)  
 
 * JUNE 23-26, Atlantic City, NJ (US)  
@@ -121,18 +129,18 @@ Serving as a PhD final defense committee member. [University of Almeria](http://
 
 ### <a name="2013"></a>2013
 
-* AUGUST 15-16, Laurel, MD (US)  
+* AUG 15-16, Laurel, MD (US)  
 [30th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
   
-* MARCH 14, Beltsville (US)  
+* MAR 14, Beltsville (US)  
 [GIFVL meeting](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/). Seminar: “Quality controls in qPCR”    
 
 
 ### <a name="2012"></a>2012
 
-* AUGUST 16-17, Laurel, MD (US)  
+* AUG 16-17, Laurel, MD (US)  
 [29th MAPMBS Conference](http://wp.towson.edu/mapmbs/)    
   
-* APRIL 16-20, Almería (Spain)  
+* APR 16-20, Almería (Spain)  
 [XIII Congreso Nacional Ciencias Hortícolas (SECH)](http://www.sech.info/)  
 
