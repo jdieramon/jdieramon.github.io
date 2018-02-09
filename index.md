@@ -62,7 +62,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
     * Bioconductor for Genomic Data Science. Sep 2015
     
 * HarvardX. [PH526x Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x). Jun 2017  
-
+* Johns Hopkins University. [The Unix Workbench](https://www.coursera.org/learn/unix) Jan 2018.  
   
 ### Bioethics    
 * Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x). GeorgetownX. Apr-Jun 2014
@@ -91,7 +91,8 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
 * Molecular Biology Reports    
-* Plant Molecular Biology Reporter   
+* Plant Molecular Biology Reporter 
+* Plant Physiology and Biochemistry
 * Planta   
 * PLos ONE  
 * Scientific Reports  
