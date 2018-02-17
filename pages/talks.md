@@ -7,7 +7,7 @@ description: Jose V. Die's talks
   
 
  * [Lectures](#lectures)
- * [Talks and Seminars)(#talks-and-seminars)
+ * [Talks and Seminars](#talks-and-seminars)
     
 ---
 ### Lectures
