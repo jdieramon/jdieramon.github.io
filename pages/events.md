@@ -15,7 +15,7 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
-* MAY6-8, Marrakech, Morocco.    
+* MAY 6-8, Marrakech, Morocco.    
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/)  
  
 
