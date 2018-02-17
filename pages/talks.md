@@ -6,11 +6,8 @@ description: Jose V. Die's talks
 [Home](../index.html)
   
 
-|   | 
-|---|
-| <a href="#Lectures">Lectures</a> | 
-| <a href="#Talks and Seminars">Talks</a> |
-  
+ * [Lectures](#lectures)
+ * [Talks and Seminars)(#talks-and-seminars)
     
 ---
 ### Lectures
