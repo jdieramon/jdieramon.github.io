@@ -14,10 +14,10 @@ description: Jose V. Die's talks
 Here I'll post some material that I use in my lectures:  
   
   * Plant genome sequencing — applications for crop improvement. Curr Op Plant Biol [2014](https://www.sciencedirect.com/science/article/pii/S0958166913006435)  
- * The sequence of sequencers: The history of sequencing DNA. Genomics [2016]()
+ * The sequence of sequencers: The history of sequencing DNA. Genomics [2016](jdieramon.github.io/pages/files/2016 History of Sequencing.pdf)
  * DNA Sequencing Caught in Deluge of Data. New York Times [2011](http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html)
 
-#### 2018  
+### 2018  
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
 
