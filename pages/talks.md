@@ -25,7 +25,9 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
 * OCT 5, Córdoba, Spain.  
 Seminar 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
 
-
+<br>
+  
+  
 ### Talks and Seminars
 #### 2017  
 
