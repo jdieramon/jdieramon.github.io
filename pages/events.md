@@ -15,12 +15,16 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
-* FEB 7, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
+* MAY6-8, Marrakech, Morocco.    
+ 7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/)  
+ 
 
 <br>
 
 ### 2018    
+
+* FEB 7, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
 
 * FEBRUARY.   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the Plant Physiology and Biochemistry.  
