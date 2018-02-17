@@ -11,14 +11,22 @@ description: Jose V. Die's talks
 | <a href="#Lectures">Lectures</a> | 
 | <a href="#Talks and Seminars">Talks</a> |
   
-| <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | 
-
     
 ---
 ### Lectures
 #### 2018  
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
+
+### 2017
+* DEC 12, Córdoba, Spain.  
+Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  Building C4-B5. 6-7pm. 
+
+* OCT 19, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
+
+* OCT 5, Córdoba, Spain.  
+Seminar 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
 
 
 ### Talks and Seminars
