@@ -5,10 +5,23 @@ description: Jose V. Die's talks
 --- 
 [Home](../index.html)
   
-    
+
+|   | 
+|---|
+| <a href="#Lectures">Lectures</a> | 
+| <a href="#Talks and Seminars">Talks</a> |
+  
+| <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | 
+
     
 ---
+### Lectures
+#### 2018  
+* FEB 7, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
 
+
+### Talks and Seminars
 #### 2017  
 
 * **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain),  February 23, 2017.  
