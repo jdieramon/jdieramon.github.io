@@ -17,11 +17,11 @@ Here I'll post some material that I use in my lectures:
  * The sequence of sequencers: The history of sequencing DNA. Genomics [2016](jdieramon.github.io/pages/files/2016 History of Sequencing.pdf)
  * DNA Sequencing Caught in Deluge of Data. New York Times [2011](http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html)
 
-### 2018  
+#### 2018  
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
 
-### 2017
+#### 2017
 * DEC 12, Córdoba, Spain.  
 Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba. 
 
