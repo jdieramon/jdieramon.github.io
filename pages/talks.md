@@ -11,11 +11,6 @@ description: Jose V. Die's talks
     
 ---
 ### Lectures
-Here I'll post some material that I use in my lectures:  
-  
-  * Plant genome sequencing — applications for crop improvement. Curr Op Plant Biol [2014](https://www.sciencedirect.com/science/article/pii/S0958166913006435)  
- * The sequence of sequencers: The history of sequencing DNA. Genomics [2016](files/2016%20History%20of%20Sequencing.pdf)
- * DNA Sequencing Caught in Deluge of Data. New York Times [2011](http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html)
 
 #### 2018  
 * FEB 7, Córdoba, Spain.  
@@ -29,7 +24,7 @@ Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y s
 Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
 
 * OCT 5, Córdoba, Spain.  
-Seminar 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
+Lecture on 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
 
 <br>
   
