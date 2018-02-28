@@ -15,8 +15,11 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events. 
+* AUG 27-31, Dubrovnik, Croatia.    
+ 69th Annual Meeting of the European Federation of Animal Science [EEAP](http://www.eaap2018.org).   
+ 
 * MAY 6-8, Marrakech, Morocco.    
- 7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/)  
+ 7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
  
 
 <br>
