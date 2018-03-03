@@ -14,7 +14,7 @@ description: Jose V. Die's events
   
 <br>  
   
-### Coming Events. 
+### Coming Events 
 * AUG 27-31, Dubrovnik, Croatia.    
  69th Annual Meeting of the European Federation of Animal Science [EEAP](http://www.eaap2018.org).   
  
