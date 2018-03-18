@@ -24,7 +24,7 @@ Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y s
 Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
 
 * OCT 5, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
 
 <br>
   
