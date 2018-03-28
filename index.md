@@ -78,7 +78,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 
   
 ### Honors and Awards
-* Seal of Excellence. 2017. Marie Swska-Curie actions call H2020-MSCA-IF-2017. European Comission 
+* Seal of Excellence. 2017. Marie Sklodowska-Curie actions call H2020-MSCA-IF-2017. European Comission 
 * Extraordinary Doctorate Award. 2011. University of Cordoba. Córdoba, Spain
 * European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
 
