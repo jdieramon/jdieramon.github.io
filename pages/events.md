@@ -25,13 +25,13 @@ description: Jose V. Die's events
 ### 2018    
 
 * APRIL.   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Gene.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Gene.  
 
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
 
 * FEBRUARY.   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Plant Physiology and Biochemistry.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Plant Physiology and Biochemistry.  
 
 * JAN 13-17, San Diego, CA, USA.  
 Plant & Animal Genome Conference [PAG XXVI](http://www.intlpag.org).
@@ -87,10 +87,10 @@ Mentorship and supervision to **Luis Antonio Delgado** ([University of Californi
 [American Society for Horticultural Science](http://www.ashs.org/?page=GeneralConference) (ASHS) annual meeting.  
   
 * AUGUST 2016  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for PlosOne.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal PlosOne.  
   
 * JULY 2016  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for Scientific Reports.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Scientific Reports.  
   
 * MAR  
 Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
