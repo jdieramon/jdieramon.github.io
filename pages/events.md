@@ -20,7 +20,7 @@ description: Jose V. Die's events
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
  
   * MAY Bethesda (MD), USA.    
- Scientific Visitor Programm, National Center for Biotechnology Information (NCBI-NIH).   
+ Scientific Visitor Program, National Center for Biotechnology Information (NCBI-NIH).   
  
 
 <br>
