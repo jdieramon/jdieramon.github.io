@@ -19,13 +19,25 @@ description: Jose V. Die's events
  * MAY 6-8, Marrakech, Morocco.    
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
  
+  * MAY Bethesda (MD), USA.    
+ Scientific Visitor Programm, National Center for Biotechnology Information (NCBI-NIH).   
+ 
 
 <br>
 
 ### 2018    
 
-* APRIL.   
+* APRIL  
+Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
+
+* APRIL   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Gene.  
+
+* APR 16, Córdoba, Spain.  
+Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
+
+* APR 12, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'-  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.  
 
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba.  
@@ -64,7 +76,8 @@ Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la a
 8th International Conference on Legume Genetics and Genomics ([ICGL2017](http://iclgg2017.hu)).  
     
 * MAR  
-Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
+Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
+   
 
 * FEB 23, Córdoba (Spain)  
 Invited seminar: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, Ansalusian Institute of Agrarian Research and Training, Fisheries, Food and Organic Production.  
@@ -93,7 +106,8 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Scientific Reports.  
   
 * MAR  
-Serving as [Reviewer](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the Student Travel Award. American Phytopathological Society Foundation.    
+Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
+ 
   
 ### <a name="2015"></a>2015
 
