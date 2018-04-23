@@ -16,6 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
++ **Die JV**, Gil J, Millan T. (2018) Genome-wide identification of the auxin response factor gene family in *Cicer arietinum*  BMC Genomics. https://doi.org/10.1186/s12864-018-4695-9
+
 + **Die JV**, Roman B, Qi X, Rowland LJ. (2018) [Genome-scale examination of NBS-encoding genes in blueberry](https://www.nature.com/articles/s41598-018-21738-7). Scientific Reports, 8: 3429.   
 
 + **Die JV**, Arora R, Rowland LJ. (2017) [Proteome dynamics of cold-acclimating Rhododendron species contrasting in their freezing tolerance and thermonasty behavior](https://www.ncbi.nlm.nih.gov/pubmed/?term=Proteome%20dynamics%20of%20cold-acclimating%20Rhododendron%20species%20contrasting%20in%20their%20freezing%20tolerance%20and%20thermonasty%20behavior). PLoS ONE 12(5): e0177389.  
