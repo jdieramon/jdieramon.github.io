@@ -20,6 +20,12 @@ Here I'll post some material that I use in my lectures:
   
 
 #### 2018  
+* APR 16, Córdoba, Spain.  
+Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
+
+* APR 12, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'-  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.  
+
 * FEB 7, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
 
