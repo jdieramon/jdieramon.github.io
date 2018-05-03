@@ -19,13 +19,14 @@ description: Jose V. Die's events
  * MAY 6-8, Marrakech, Morocco.    
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
  
-  * MAY Bethesda (MD), USA.    
- Scientific Visitor Program, National Center for Biotechnology Information (NCBI-NIH).   
  
 
 <br>
 
 ### 2018    
+
+* MAY 1-30, Bethesda (MD), USA.    
+Scientific Visitor Program, [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) (NCBI-NIH).   
 
 * APRIL  
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
