@@ -16,10 +16,8 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
- * MAY 6-8, Marrakech, Morocco.    
- 7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
- 
- 
+ * AUG 6-8, Orono, Maine, US.     
+ North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/) 
 
 <br>
 
@@ -27,6 +25,9 @@ description: Jose V. Die's events
 
 * MAY 1-30, Bethesda (MD), USA.    
 Scientific Visitor Program, [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) (NCBI-NIH).   
+
+ * MAY 12-15, Marrakech, Morocco.    
+ 7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
 
 * APRIL  
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
