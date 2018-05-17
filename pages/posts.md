@@ -8,6 +8,7 @@ description: Jose V. Die's blog
 
 ## PyCon Charlas
 Bethesda (MD), May 17, 2018.  
+
 Recientemente he tenido el honor de participar en la selección de las charlas que han formado parte de las PyCon Charlas en la 
 [PyCon](https://us.pycon.org/2018/) que acaba de celebrarse en Cleveland (OH). Es la primera vez que en una conferencia PyCon US, 
 las presentaciones se hacen en un idioma distinto del inglés. Se trata de una gran iniciativa coordinada por **Mayela Sánchez**, 
@@ -26,5 +27,5 @@ Pero por encima de todo, el criterio relevante que decidió el voto fue el de ¡
   
 La temática de las PyCon Charlas han cubierto la ciencia de datos, las ciencias naturales, el ecosistema y la comunidad Python, 
 el software libre y la inteligencia artificial, el aprendizaje automático y la tecnología cívica. 
-Hoy, podemos decir que las PyCon Charlas han sido todo un éxito. Esperemos que esta gran iniciativa se consolide en las próximas sesiones. 
+Hoy, podemos decir que las **PyCon Charlas** han sido todo un éxito. Esperemos que esta gran iniciativa se consolide en las próximas sesiones. 
 Nos vemos todos en las PyCon 2019. 
