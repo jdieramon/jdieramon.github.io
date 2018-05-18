@@ -5,6 +5,8 @@ description: Jose V. Die's blog
 ---
 [Home](../index.html)
 
+<a href="#Pycon-charlas">2017</a>
+
 
 ## PyCon Charlas
 Bethesda (MD), May 17, 2018.  
