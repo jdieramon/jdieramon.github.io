@@ -5,7 +5,7 @@ description: Jose V. Die's blog
 ---
 [Home](../index.html)
 
-<a href="#Pycon-charlas">2017</a>
+<a href="#pycon-charlas">2017</a>
 
 
 ## PyCon Charlas
