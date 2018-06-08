@@ -30,6 +30,9 @@ Scientific Visitor Program, [National Center for Biotechnology Information](http
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
 
 * APRIL  
+Talk Selection Committee “PyCon Charlas” PyCon US. Cleveland 2018.   
+  
+* APRIL 
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
 
 * APRIL   
