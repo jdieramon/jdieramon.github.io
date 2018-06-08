@@ -32,7 +32,7 @@ Scientific Visitor Program, [National Center for Biotechnology Information](http
 * APRIL  
 Talk Selection Committee “PyCon Charlas” PyCon US. Cleveland 2018.   
   
-* APRIL 
+* APRIL   
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
 
 * APRIL   
