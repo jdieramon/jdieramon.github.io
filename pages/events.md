@@ -21,7 +21,7 @@ description: Jose V. Die's events
 
  * JUL 9-13, Córdoba, Spain.     
 Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba.
-![](files/Rcurso.png) <element height="50%" width="50%">
+![](files/Rcurso.png =250x250)
 
 <br>
 
