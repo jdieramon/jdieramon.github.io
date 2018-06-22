@@ -19,6 +19,10 @@ description: Jose V. Die's events
  * AUG 6-8, Orono, Maine, USA.     
  North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
 
+ * JUL 9-13, Córdoba, Spain.     
+I am academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba.
+![](figures/Rcurso.png)  
+
 <br>
 
 ### 2018    
