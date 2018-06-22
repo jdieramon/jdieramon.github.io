@@ -20,6 +20,9 @@ Here I'll post some material that I use in my lectures:
   * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.
 
 #### 2018  
+* JUL 9-13, Córdoba, Spain.  
+Introduction to R programming for Data Science. 30h. University of Cordoba.   
+
 * APR 16, Córdoba, Spain.  
 Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
 
