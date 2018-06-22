@@ -21,7 +21,10 @@ Here I'll post some material that I use in my lectures:
 
 #### 2018  
 * JUL 9-13, Córdoba, Spain.  
-Introduction to R programming for Data Science. 30h. University of Cordoba.   
+Introduction to R programming for Data Science. 1st edition. 30h. University of Cordoba.   
+
+* MAY 25, Bethesda, MD.
+Lecture on Data Analysis, and Visualization for The City University of New York (CUNY). 2h. Visiting Bioinformaticians Program. National Center for Biotechnlogy Information.    
 
 * APR 16, Córdoba, Spain.  
 Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
