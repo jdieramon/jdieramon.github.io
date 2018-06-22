@@ -23,7 +23,7 @@ Here I'll post some material that I use in my lectures:
 * JUL 9-13, Córdoba, Spain.  
 Introduction to R programming for Data Science. 1st edition. 30h. University of Cordoba.   
 
-* MAY 25, Bethesda, MD.
+* MAY 25, Bethesda, MD.  
 Lecture on Data Analysis, and Visualization for The City University of New York (CUNY). 2h. Visiting Bioinformaticians Program. National Center for Biotechnlogy Information.    
 
 * APR 16, Córdoba, Spain.  
