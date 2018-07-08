@@ -92,7 +92,8 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * Gene
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
-* Molecular Biology Reports    
+* Molecular Biology Reports  
+* Molecules  
 * Plant Molecular Biology Reporter 
 * Plant Physiology and Biochemistry
 * Planta   
