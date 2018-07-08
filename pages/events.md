@@ -24,7 +24,7 @@ Academic director and lecturer of the 'Introduction to R programming for Data Sc
  #resize
  #<img src="https://github.com/jdieramon/jdieramon.github.io/blob/master/pages/files/Rcurso.png" width="120"> #for md. 
 
-![](files/Rcurso.png | width=100)
+![](files/Rcurso2.png)
 <br>
 
 ### 2018    
