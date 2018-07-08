@@ -23,10 +23,13 @@ description: Jose V. Die's events
 Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba.   
     <img src="https://github.com/jdieramon/jdieramon.github.io/blob/master/pages/files/Rcurso.png" width="120">
 
-
+![](files/Rcurso.png)  
 <br>
 
 ### 2018    
+
+* JUL 
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open access journal Molecules.  
 
 * MAY 1-30, Bethesda (MD), USA.    
 Scientific Visitor Program, [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) (NCBI-NIH).   
