@@ -14,7 +14,6 @@ Today, I got a manuscript review invitation. The authors studied a metabolic pat
 
 For the reasons I have just explained I wanted to review the manuscript. The deadline was not acceptable, though. So, for the first time, I used the great 'small blow against the system' by [Stephen Heard](https://scientistseessquirrel.wordpress.com/2018/03/06/i-refuse-all-review-requests-with-deadlines-3-weeks-heres-why-and-how/). I sent to them the following:
 
-<br>
 
 *Dear Editor,*
 
@@ -26,12 +25,12 @@ For the reasons I have just explained I wanted to review the manuscript. The dea
 
 *Jose V. Die*
 
-<br>
 
 
 They got back to me in 2 hours and were supportive wiht the idea that I needed more time.
 
 
+<br>
 
 
 ## PyCon Charlas
