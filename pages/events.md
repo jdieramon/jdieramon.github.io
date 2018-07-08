@@ -24,12 +24,12 @@ Academic director and lecturer of the 'Introduction to R programming for Data Sc
  #resize
  #<img src="https://github.com/jdieramon/jdieramon.github.io/blob/master/pages/files/Rcurso.png" width="120"> #for md. 
 
-![](files/Rcurso.png =250x250)  #for github pages
+![](files/Rcurso.png | width=100)
 <br>
 
 ### 2018    
 
-* JUL   
+* JULa   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open access journal Molecules.  
 
 * MAY 1-30, Bethesda (MD), USA.    
