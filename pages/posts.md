@@ -10,7 +10,7 @@ description: Jose V. Die's blog
 ## Our small blow against the system  
 Córdoba, July 2, 2018.
 
-Today, I got a manuscript review invitation. The authors studied a metabolic pathway, which I am very interested in. It's fruit quality-related. The methodolical approach was sound to me as well. The journal is open access and I try to support that philosophy by publishing in those journal or accepting their invitations. So, I almost made my decision when I read that they were expecting my comments within a week.   
+Today, I got a manuscript review invitation. The authors studied a metabolic pathway, which I am very interested in. It's fruit quality-related. The methodolical approach was sound to me as well. The journal was open access and I try to support that philosophy by publishing in those journal or accepting their invitations. So, I almost made my decision when I read that they were expecting my comments within a week.   
 
 For the reasons I have just explained I wanted to review the manuscript. The deadline was not acceptable, though. So, for the first time, I used the great 'small blow against the system' by [Stephen Heard](https://scientistseessquirrel.wordpress.com/2018/03/06/i-refuse-all-review-requests-with-deadlines-3-weeks-heres-why-and-how/). I sent to them the following:
 
