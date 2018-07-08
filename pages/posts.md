@@ -15,7 +15,7 @@ Recientemente he tenido el honor de participar en la selección de las charlas q
 [PyCon](https://us.pycon.org/2018/) que acaba de celebrarse en Cleveland (OH). Es la primera vez que en una conferencia PyCon US, 
 las presentaciones se hacen en un idioma distinto del inglés. Se trata de una gran iniciativa coordinada por **Mayela Sánchez**, 
 **Mario Corchero** y **Naomi Ceder**, y una oportunidad para toda la comunidad pythonista hispanohablante, 
-cada vez más numerosa tanto en América Latina como en Europa, de exponerse ante la conferencia Python más grande del mundo.   
+cada vez más numerosa tanto en América Latina como en Europa, de exponerse ante la conferencia Python más grande del mundo... [keep reading](files/2018_05_17.md) 
   
 La selección de las charlas se llevó a cabo por un equipo de 15 personas. Se recibieron 46 propuestas y la selección de las 8 aceptadas 
 no fue sencilla. Las propuestas se evaluaron sin identificar su autoría, aunque incluían una reseña biográfica del conferenciante, 
