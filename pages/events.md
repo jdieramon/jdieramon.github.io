@@ -28,7 +28,7 @@ Academic director and lecturer of the 'Introduction to R programming for Data Sc
 
 ### 2018    
 
-* JULi  
+* JUL 
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open access journal Molecules.  
 
 * MAY 1-30, Bethesda (MD), USA.    
