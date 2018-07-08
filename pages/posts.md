@@ -7,7 +7,7 @@ description: Jose V. Die's blog
 
 <a href="#pycon-charlas">2018 May</a>
 
-## Our small blow against the system . 
+## Our small blow against the system  
 Córdoba, July 2, 2018.
 
 Today, I got a manuscript review invitation. The authors studied a metabolic pathway, which I am very interested in. It's fruit quality-related. The methodolical approach was sound to me as well. The journal is open access and I try to support that philosophy by publishing in those journal or accepting their invitations. So, I almost made my decision when I read that they were expecting my comments within a week.   
