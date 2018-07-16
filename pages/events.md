@@ -16,17 +16,19 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
+ *  AUG 27-31, Dubrovnik, Croatia.   
+ 69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)]. 
+ 
  * AUG 6-8, Orono, Maine, USA.     
  North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
 
- * JUL 9-13, Córdoba, Spain.     
-Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba.   
- 
-![](files/Rcurso2.png)
-
-<br>
 
 ### 2018    
+
+ * JUL 9-13, Córdoba, Spain.     
+Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](@q72pecam@uco.es) us**.
+
+![](files/Rcurso2.png)
 
 * JUL  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open access journal Molecules.  
