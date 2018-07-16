@@ -17,7 +17,7 @@ description: Jose V. Die's events
 ### Coming Events 
   
  *  AUG 27-31, Dubrovnik, Croatia.   
- 69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)]. 
+ 69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)). 
  
  * AUG 6-8, Orono, Maine, USA.     
  North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
