@@ -18,7 +18,9 @@ Here I'll post some material that I use in my lectures:
   * The real cost of sequencing. [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-8-125), 2011
   * Plant genome sequencing — applications for crop improvement. [Curr Op Plant Biol](files/2014PlantGenomes.pdf), 2014.  
   * The sequence of sequencers: The history of sequencing DNA. [Genomics](files/2016%20History%20of%20Sequencing.pdf), 2016.  
-  * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.
+  * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.  
+  * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
+  
 
 #### 2018  
 * JUL 9-13, Córdoba, Spain.  
