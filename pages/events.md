@@ -19,24 +19,31 @@ description: Jose V. Die's events
  *  AUG 27-31, Dubrovnik, Croatia.   
  69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)). 
  
- * AUG 6-8, Orono, Maine, USA.     
- North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
+
 
 
 ### 2018    
 
- * JUL 9-13, Córdoba, Spain.     
+* AUG  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** Journal of Plant Breeding and Crop Science.    
+
+
+* AUG 12-15, Orono, Maine, USA.     
+ North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
+ 
+ 
+* JUL 9-13, Córdoba, Spain.     
 Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
 
 ![](files/Rcurso2.png)
 
 * JUL  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open access journal Molecules.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules.  
 
 * MAY 1-30, Bethesda (MD), USA.    
 Scientific Visitor Program, [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) (NCBI-NIH).   
 
- * MAY 12-15, Marrakech, Morocco.    
+* MAY 12-15, Marrakech, Morocco.    
  7th International Food Legume Research Conference [IFLRC-VII](http://www.iflrc.org/).   
 
 * APRIL  
@@ -70,7 +77,7 @@ Plant & Animal Genome Conference [PAG XXVI](http://www.intlpag.org).
 Course 'NGS sequence analysis'. [COMAV](https://www.comav.upv.es/index.php).   
   
 * DECEMBER.   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the open acces journal Methods and Protocols.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Methods and Protocols.  
 
 * DEC 18, Córdoba, Spain.   
 Co-direction of the final thesis "Caracterización del QTLAR3 para resistencia a rabia en garbanzo (*Cicer arietinum* L.)" by **Julián García Muñoz** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
