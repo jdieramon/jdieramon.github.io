@@ -27,22 +27,19 @@ description: Jose V. Die's events
 * AUG  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** Journal of Plant Breeding and Crop Science.    
 
-
 * AUG 12-15, Orono, Maine, USA.     
- North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
+North American Blueberry Research and Extension Workers Conference ([NABREW 2018](https://digitalcommons.library.umaine.edu/nabrew2018/))
  
+* JUL  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules.  
  
 * JUL 9-13, Córdoba, Spain.     
 Academic director and lecturer of the 'Introduction to R programming for Data Science'. 1st edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
 
 ![](files/Rcurso2.png)
 
-* JUL  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules.  
-  
-Serving as check   
-
-Serving as External Reviewer of the final thesis "Evaluación de la resistencia a odio en *Vicia faba*" by **Lucía García Castilla** (Master Science degree). Dept. Biochemistry and Molecular Biology, University of Cordoba.    
+* JUL 9-13, Córdoba, Spain.  
+Serving as Reviewer of the final thesis "Evaluación de la resistencia a odio en *Vicia faba*" by **Lucía García Castilla** (Master Science degree). Dept. Biochemistry and Molecular Biology, University of Cordoba.    
 
 * MAY 1-30, Bethesda (MD), USA.    
 Scientific Visitor Program, [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) (NCBI-NIH).   
