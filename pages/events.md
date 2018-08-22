@@ -38,7 +38,8 @@ Academic director and lecturer of the 'Introduction to R programming for Data Sc
 ![](files/Rcurso2.png)
 
 * JUL  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules.   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules. 
+Serving as check   
 Serving as External Reviewer of the final thesis "Evaluación de la resistencia a odio en *Vicia faba*" by **Lucía García Castilla** (Master Science degree). Dept. Biochemistry and Molecular Biology, University of Cordoba.    
 
 * MAY 1-30, Bethesda (MD), USA.    
