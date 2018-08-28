@@ -16,11 +16,16 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
+ 
+ *  SEP 5-7, Ancona, Italy.   
+XXIV National Congress of the Italian Phytopathological Sciety (SIPaV).    
+ 
+ 
  *  AUG 27-31, Dubrovnik, Croatia.   
  69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)). 
  
 
-
+<br>
 
 ### 2018    
 
