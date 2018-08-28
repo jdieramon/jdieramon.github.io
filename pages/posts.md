@@ -41,3 +41,18 @@ Recientemente he tenido el honor de participar en la selección de las charlas q
 las presentaciones se hacen en un idioma distinto del inglés. Se trata de una gran iniciativa coordinada por **Mayela Sánchez**, 
 **Mario Corchero** y **Naomi Ceder**, y una oportunidad para toda la comunidad pythonista hispanohablante, 
 cada vez más numerosa tanto en América Latina como en Europa, de exponerse ante la conferencia Python más grande del mundo... [read more >>](files/2018_05_17.md) .  
+
+
+## Auxin response factor gene family in chickpea genome 
+Bethesda (MD), May 2, 2018.  
+
+We performed a genome-wide analysis and comprehensive characterization of 24 ARF genes in the chickpea reference genome. Here, some take-away message :   
+    1. Phylogenetic analysis suggests that recent duplications have played a very limited role in the expansion of the ARF family.
+    2. Diversification of the ARF gene family is based on duplications, variations in domain organization and alternative splicing. Concerning duplications, segmental, but not tandem duplications, have contributed to the expansion.
+    3. Duplicated pair genes have evolved mainly under the influence of purifying selection pressure with restricted functional divergence.
+    4. Promoter sequence analysis reveals an enrichment of several *cis*-regulatory elements related to symbiosis, and modulation of plant gene expression during the interaction with microbes.
+Read the paper in [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4695-9).  
+
+
+
+
