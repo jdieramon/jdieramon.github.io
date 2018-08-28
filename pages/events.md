@@ -18,7 +18,7 @@ description: Jose V. Die's events
   
  
  *  SEP 5-7, Ancona, Italy.   
-XXIV National Congress of the Italian Phytopathological Sciety (SIPaV).    
+XXIV National Congress of the Italian Phytopathological Society (SIPaV).    
  
  
  *  AUG 27-31, Dubrovnik, Croatia.   
