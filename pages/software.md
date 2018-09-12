@@ -8,6 +8,16 @@ description: Jose V. Die's software
     
     
 ---
+Annotation packages . 
+
+  * BSgenome.Carietinum.NCBI.v1
+  * [BSgenome.Aofficinalis.NCBI.V1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Aofficinalis.NCBI.V1.html){:target="_blank"}
+#### <a name="hindex"></a>[hIndexOveryears](https://github.com/jdieramon/hIndex/blob/master/tutorial.md)  
+
+An [R](http://www.r-project.org/) package to get a graphical representation of your h Index over the years.  
+
+
+---
 
 #### <a name="hindex"></a>[hIndexOveryears](https://github.com/jdieramon/hIndex/blob/master/tutorial.md)  
 
