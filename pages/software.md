@@ -10,8 +10,8 @@ description: Jose V. Die's software
 ---
 #### Annotation packages . 
 Full genome sequences stored in Biostrings objects. You can install them from Bioconductor. 
-  * [BSgenome.Carietinum.NCBI.v1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Carietinum.NCBI.v1.html)
-  * [BSgenome.Aofficinalis.NCBI.V1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Aofficinalis.NCBI.V1.html)
+  * [BSgenome.Carietinum.NCBI.v1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Carietinum.NCBI.v1.html){:target="_blank"}
+  * [BSgenome.Aofficinalis.NCBI.V1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Aofficinalis.NCBI.V1.html){:target="_blank"}
 
 ---
 
