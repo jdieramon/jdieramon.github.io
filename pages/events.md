@@ -17,18 +17,19 @@ description: Jose V. Die's events
 ### Coming Events 
   
  
- *  SEP 5-7, Ancona, Italy.   
-XXIV National Congress of the Italian Phytopathological Society (SIPaV).    
+* OCT 22-23, Córdoba, Spain.  
+**Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico Técnica y VI Jornadas Asociación Española de Leguminosas (AEL).
  
- 
- *  AUG 27-31, Dubrovnik, Croatia.   
- 69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)). 
- 
-
 <br>
 
 ### 2018    
 
+*  SEP 5-7, Ancona, Italy.   
+XXIV National Congress of the Italian Phytopathological Society (SIPaV).    
+ 
+*  AUG 27-31, Dubrovnik, Croatia.   
+ 69th Annual Meeting of the European Federation of Animal Science ([EAAP 2018](http://www.eaap2018.org)). 
+ 
 * AUG  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** Journal of Plant Breeding and Crop Science.    
 
