@@ -18,7 +18,7 @@ description: Jose V. Die's events
   
  
 * OCT 22-23, Córdoba, Spain.  
-**Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico Técnica y VI Jornadas Asociación Española de Leguminosas (AEL).
+**Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico Técnica y VI Jornadas Asociación Española de Leguminosas ([AEL](http://www.leguminosas.es/leguminosas-en-la-agricultura-y-la-alimentacion/)).
  
 <br>
 
