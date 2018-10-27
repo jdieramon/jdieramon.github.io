@@ -52,6 +52,11 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
   
   
 ### Talks and Seminars
+
+#### 2018 .   
+
+* **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Cordoba October 22-23, 2018.  
+
 #### 2017  
 
 * **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain),  February 23, 2017.  
