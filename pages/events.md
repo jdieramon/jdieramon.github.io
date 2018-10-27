@@ -23,9 +23,9 @@ description: Jose V. Die's events
 ### 2018    
 
 * OCT 22-23, Córdoba, Spain.  
-**Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico Técnica y VI Jornadas Asociación Española de Leguminosas ([AEL](http://www.leguminosas.es/leguminosas-en-la-agricultura-y-la-alimentacion/)).
+**Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico-Técnica y VI Jornadas Asociación Española de Leguminosas ([AEL](http://www.leguminosas.es/leguminosas-en-la-agricultura-y-la-alimentacion/)).
 
-*  OCT 18 
+*  OCT 18, Córdoba, Spain.  
 Co-direction of the final thesis "Identification and characterization of the superfamily ALDH in chickpea (*Cicer arietinum*  L.) using bioinformatics open-based tools" by **Rocio Carmona Molero** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
 
 *  SEP 5-7, Ancona, Italy.   
