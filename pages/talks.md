@@ -55,11 +55,11 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
 
 #### 2018 .   
 
-* **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Cordoba October 22-23, 2018.  
+* **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Córdoba (Spain), October 22-23, 2018.  
 
 #### 2017  
 
-* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain),  February 23, 2017.  
+* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain), February 23, 2017.  
 
 * **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Seminarios Interdepartamentales Bioquímica, Biología Molecular, Genética](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjQgb747ZLUAhXLfhoKHcZVBV0QFggoMAA&url=https%3A%2F%2Fwww.uco.es%2Fdptos%2Fbioquimica-biol-mol%2Fseminarios_interdepartamentales%2Fprograma.pdf&usg=AFQjCNGr_ns-nmxsNuJX66ArlYidqQuECg&sig2=mU2J_beht13Ohe7N0tGUGg). Universidad de Córdoba, Córdoba (Spain),  February 10, 2017.  
 
