@@ -15,7 +15,8 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events 
-  
+NOV 27-29, Córdoba, Spain.  
+Lectures on 'Introduction to R programming for Data Science'- [Master's Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). 9h. University of Cordoba.    
  
  
 <br>
