@@ -16,6 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
++ Die JV, Elmassry MM, Leblanc KH, Awe OI, Dillman A, Busby B (2018) [GeneHummus: A pipeline to define gene families and their expression in legumes and beyond](https://www.biorxiv.org/content/early/2018/10/11/436659). bioRxiv 436659; doi: https://doi.org/10.1101/436659
+
 + **Die JV**, Gil J, Millan T. (2018) [Genome-wide identification of the auxin response factor gene family in *Cicer arietinum*](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4695-9) BMC Genomics, 19:301.
 
 + **Die JV**, Roman B, Qi X, Rowland LJ. (2018) [Genome-scale examination of NBS-encoding genes in blueberry](https://www.nature.com/articles/s41598-018-21738-7). Scientific Reports, 8: 3429.   
