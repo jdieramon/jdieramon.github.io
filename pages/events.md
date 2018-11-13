@@ -138,6 +138,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   
 * JULY 2016  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Scientific Reports.  
+Advisory Panel for the [2nd qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/4bio-qpcr/). JUL 11-12, Philadelphia, PA.  
   
 * MAR  
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
