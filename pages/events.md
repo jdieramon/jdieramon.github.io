@@ -23,6 +23,9 @@ Lectures on 'Introduction to R programming for Data Science'- [Master's Degree i
 
 ### 2018    
 
+* NOV   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Genes.  
+
 * OCT 22-23, Córdoba, Spain.  
 **Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico-Técnica y VI Jornadas Asociación Española de Leguminosas ([AEL](http://www.leguminosas.es/leguminosas-en-la-agricultura-y-la-alimentacion/)).
 
@@ -65,7 +68,7 @@ Talk Selection Committee “PyCon Charlas” [PyCon US](https://us.pycon.org/201
 Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
 
 * APRIL   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Gene.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Genes.  
 
 * APR 16, Córdoba, Spain.  
 Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
