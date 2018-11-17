@@ -89,7 +89,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * BMC Plant Biology   
 * BMC Molecular Biology  
 * Ecotoxicology   
-* Gene
+* Genes
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
 * Molecular Biology Reports  
