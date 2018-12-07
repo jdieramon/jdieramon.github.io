@@ -28,7 +28,7 @@ JAN 15 2019, San Diego, CA, USA.
 * DEC 10-20, Córdoba, Spain.     
 Academic director and lecturer of the 'Introduction to R programming for Data Science'. 2nd edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
 
-NOV 27-29, Córdoba, Spain.  
+* NOV 27-29, Córdoba, Spain.  
 Lectures on 'Introduction to R programming for Data Science'- [Master's Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). 9h. University of Cordoba.  
 
 * NOV   
