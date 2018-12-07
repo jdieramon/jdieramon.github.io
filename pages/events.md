@@ -19,13 +19,17 @@ description: Jose V. Die's events
 JAN 15 2019, San Diego, CA, USA.   
 **Invited Presentation** GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species. Plant and Animal Genome XXVII Conference ([PAG](http://www.intlpag.org/2019/)). January 15, 2019 at 12:00h  
 
-NOV 27-29, Córdoba, Spain.  
-Lectures on 'Introduction to R programming for Data Science'- [Master's Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). 9h. University of Cordoba.    
- 
- 
+  
 <br>
-
+  
+  
 ### 2018    
+
+* DEC 10-20, Córdoba, Spain.     
+Academic director and lecturer of the 'Introduction to R programming for Data Science'. 2nd edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
+
+NOV 27-29, Córdoba, Spain.  
+Lectures on 'Introduction to R programming for Data Science'- [Master's Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). 9h. University of Cordoba.  
 
 * NOV   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Genes.  
