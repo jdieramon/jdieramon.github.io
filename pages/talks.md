@@ -23,6 +23,12 @@ Here I'll post some material that I use in my lectures:
   
 
 #### 2018  
+* DEC 10-20, Córdoba, Spain.  
+Introduction to R programming for Data Science. 2nd edition. 30h. University of Cordoba. 
+
+* NOV 27-29, Córdoba, Spain.  
+Lecture series on 'Introduction to R programming for Data Science’'. 10h. [Master’s Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). University of Cordoba. 
+
 * JUL 9-13, Córdoba, Spain.  
 Introduction to R programming for Data Science. 1st edition. 30h. University of Cordoba.   
 
