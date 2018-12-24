@@ -59,7 +59,7 @@ North American Blueberry Research and Extension Workers Conference ([NABREW 2018
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules.  
  
 * JUL 9-13, Córdoba, Spain.     
-Academic director and lecturer of the '[Introduction to R programming for Data Science](#CursoAnalisisDatos/)'. 1st edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
+Academic director and lecturer of the '[Introduction to R programming for Data Science](../CursoAnalisisDatos/)'. 1st edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
 
 ![](files/Rcurso2.png)
 
