@@ -26,7 +26,11 @@ JAN 15 2019, San Diego, CA, USA.
 ### 2018    
 
 * DEC     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals Genes, International Journal of Molecular Sciences, and PeerJ. 
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals   
+  * Genes
+  * International Journal of Molecular Sciences
+  * PeerJ
+  * Plan Methods  
 
 * DEC 10-20, Córdoba, Spain.     
 Academic director and lecturer of the '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. 2nd edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.
