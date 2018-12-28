@@ -1,3 +1,4 @@
+# Revisar mi experimental design: https://www.frontiersin.org/articles/10.3389/fpls.2016.00271/full#h2
 # Revisar mi 3'5' ratio
 # revisar mi mRNA quality review 
 
@@ -12,6 +13,7 @@
 * Perez-Novo CA, Claeys C, Speleman F, Cauwenberge PV, Bachert C, Vandesompele J (2005) Impact of RNA quality on reference gene expression stability. BioTechniques 39:52–56
 * Fleige S, Walf V, Huch S, Prgomet C, Sehm J, Pfaffl MW (2006) Comparison of relative mRNA quantification models and the impact of RNA integrity in quantitative real-time RT- PCR. Biotechnol Lett 28:1601–1613
 * Fleige S, Pfaffl MW (2006) RNA integrity and the effect on the real-time qRT-PCR performance. Mol Aspects Med 27:126–139
+* Rieu, I., and Powers, S. J. (2009). Real-time quantitative RT-PCR: design, calculations, and statistics. Plant Cell 21, 1031–1033. doi: 10.1105/tpc.109.066001
 * Derveaux S, Vandesompele J, Hellemans J (2010) How to do successful gene expression analysis using real-time PCR. Methods 50: 227–230.
 
 
@@ -26,6 +28,9 @@ lead to erroneous results and conclusions (Derveaux et al. 2010; Hugget et al. 2
 This is a summary of major steps steps required throughout the entire workflow that may influence the accuracy and reliability 
 of results.
 
+
+### Experimental design
+It is astonishing how few publications have explored the reliability and reproducibility of results on the basis of the experimental design itself (Rieu and Powers, 2009).
 
 ### DNAse treatement
 A suitable strategy is to perform a proper DNase treatment followed by a careful check for the absence of DNA through qPCR 
