@@ -5,7 +5,18 @@ description: Jose V. Die's blog
 ---
 [Home](../index.html)
 
-<a href="#pycon-charlas">2018 May</a>
+<a href="our-small-blow-against-the-system">2018 July</a>    
+<a href="#pycon-charlas">2018 May</a>   
+
+## Recent NBS-LRR Gene Expansion in the Asparagus Genome
+Córdoba, Nov 25, 2018.
+We performed a genome-wide analysis and comprehensive characterization of 49 NBS-LRR loci in the asparagus reference genome.  Take-away message:  
+ 1. NBS genes are unevenly distributed through the genome and nearly 50% of the genes are present in clusters. Chromosome 6 is significantly NBS-enriched and one single cluster hosts 10% of the genes.
+ 2. Recent duplications are likely to have dominated the NBS expansion with both tandem genes and duplication events across multiple chromosomes. Almost all the segmental duplications that we can detect have evolved from these recent events.
+ 3. Expression data revealed that most of the duplicated members within a group exhibited the same expression pattern, suggesting that the functional conservation of the duplicated family members is a major feature of the evolution of these genes.  
+    
+Read the paper in [Genes](https://www.mdpi.com/2073-4425/9/12/568/htm).    
+
 
 ## Our small blow against the system  
 Córdoba, July 2, 2018.
@@ -51,10 +62,10 @@ cada vez más numerosa tanto en América Latina como en Europa, de exponerse ant
 Bethesda (MD), May 2, 2018.  
 
 We performed a genome-wide analysis and comprehensive characterization of 24 ARF genes in the chickpea reference genome. Take-away message:  
-          1. Phylogenetic analysis suggests that recent duplications have played a very limited role in the expansion of the ARF family.
-          2. Diversification of the ARF gene family is based on duplications, variations in domain organization and alternative splicing. Concerning duplications, segmental, but not tandem duplications, have contributed to the expansion.
-          3. Duplicated pair genes have evolved mainly under the influence of purifying selection pressure with restricted functional divergence.
-          4. Promoter sequence analysis reveals an enrichment of several *cis*-regulatory elements related to symbiosis, and modulation of plant gene expression during the interaction with microbes.  
+ 1. Phylogenetic analysis suggests that recent duplications have played a very limited role in the expansion of the ARF family.
+ 2. Diversification of the ARF gene family is based on duplications, variations in domain organization and alternative splicing. Concerning duplications, segmental, but not tandem duplications, have contributed to the expansion.
+ 3. Duplicated pair genes have evolved mainly under the influence of purifying selection pressure with restricted functional divergence.
+ 4. Promoter sequence analysis reveals an enrichment of several *cis*-regulatory elements related to symbiosis, and modulation of plant gene expression during the interaction with microbes.  
           
           
 Read the paper in [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4695-9).  
