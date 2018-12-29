@@ -5,7 +5,7 @@ description: Jose V. Die's blog
 ---
 [Home](../index.html)
 
-<a href="our-small-blow-against-the-system">2018 July</a>    
+<a href="#our-small-blow-against-the-system">2018 July</a>    
 <a href="#pycon-charlas">2018 May</a>   
 
 ## Recent NBS-LRR Gene Expansion in the Asparagus Genome
