@@ -9,7 +9,7 @@ description: Jose V. Die's blog
 <a href="#pycon-charlas">2018 May</a>   
 
 ## Recent NBS-LRR Gene Expansion in the Asparagus Genome
-Córdoba, Nov 25, 2018.
+Córdoba, Nov 25, 2018.  
 We performed a genome-wide analysis and comprehensive characterization of 49 NBS-LRR loci in the asparagus reference genome.  Take-away message:  
  1. NBS genes are unevenly distributed through the genome and nearly 50% of the genes are present in clusters. Chromosome 6 is significantly NBS-enriched and one single cluster hosts 10% of the genes.
  2. Recent duplications are likely to have dominated the NBS expansion with both tandem genes and duplication events across multiple chromosomes. Almost all the segmental duplications that we can detect have evolved from these recent events.
