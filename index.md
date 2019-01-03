@@ -90,15 +90,16 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 * BMC Molecular Biology  
 * Ecotoxicology   
 * Genes
-* International Journal of Molecular Sciences
+
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
+* International Journal of Molecular Sciences
 * Molecular Biology Reports  
 * Molecules  
 * PeerJ
+* Plant Methods
 * Plant Molecular Biology Reporter 
 * Plant Physiology and Biochemistry
-* Plant Methods
 * Planta   
 * PLos ONE  
 * Scientific Reports  
