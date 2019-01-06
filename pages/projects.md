@@ -8,7 +8,7 @@ This is a summary of different projects we are working on.
 
   * **[Chickpea project](https://jdieramon.github.io/ChickpeaProject/)**.
 
-  * **[Asparagus project]((https://jdieramon.github.io/ChickpeaProject/)**. 
+  * **[Asparagus project](https://jdieramon.github.io/ChickpeaProject/)**. 
     
     <br>
  
