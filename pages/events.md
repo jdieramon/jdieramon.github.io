@@ -9,14 +9,23 @@ description: Jose V. Die's events
 
 |   |  |  |
 |---|---|---|
-| <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | 
-| <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
+| <a href="#2017">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> |
+| <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
   
 <br>  
   
 ### Coming Events 
 
-JAN 15 2019, San Diego, CA, USA.   
+<br>
+  
+  
+### 2019
+
+* JAN     
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal International Journal of Molecular Sciences.  
+
+
+* JAN 15 2019, San Diego, CA, USA.   
 **Invited Presentation** GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species. Plant and Animal Genome XXVII Conference ([PAG](http://www.intlpag.org/2019/)). January 15, 2019 at 12:00h  
 
   
