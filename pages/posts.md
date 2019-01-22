@@ -8,6 +8,11 @@ description: Jose V. Die's blog
 <a href="#our-small-blow-against-the-system">2018 July</a>    
 <a href="#pycon-charlas">2018 May</a>   
 
+## Data Analytics. Case study: A Ciencia Cierta
+Córdoba, Jan 22, 2019.     
+**A Ciencia Cierta** is a scientific dissemination Spanish radio show on 'CV radio'. You can find the podcasts on [IVOOX](https://www.ivoox.com/podcast-a-ciencia-cierta_sq_f1350590_1.html). I made a video-tutorial to study how the episodes length changed over time. The video is available on [YouTube](https://www.youtube.com/watch?v=nbSIXl6I8-4) and you can find the code [here](2019_21_01.md).   
+
+
 ## Recent NBS-LRR Gene Expansion in the Asparagus Genome
 Córdoba, Nov 25, 2018.  
 We performed a genome-wide analysis and comprehensive characterization of 49 NBS-LRR loci in the asparagus reference genome.  Take-away message:  
