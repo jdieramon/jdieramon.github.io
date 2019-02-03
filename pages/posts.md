@@ -8,6 +8,10 @@ description: Jose V. Die's blog
 <a href="#our-small-blow-against-the-system">2018 July</a>    
 <a href="#pycon-charlas">2018 May</a>   
 
+## h Index
+Córdoba, Feb 2, 2019.   
+I just updated my old pkg. `h Index Over Years`. The R pkg. is based on the Citation record from SCOPUS and plots the h Index over the years for a given author. You can also estimate how long it takes on average to get 1 citation for your most highly accessed papers. You can download and install it from my [github](https://github.com/jdieramon/hIndex) repo in 3 very simple steps. 
+
 ## Data Analytics. Case study: A Ciencia Cierta
 Córdoba, Jan 22, 2019.     
 **A Ciencia Cierta** is a scientific dissemination Spanish radio show on 'CV radio'. You can find the podcasts on [IVOOX](https://www.ivoox.com/podcast-a-ciencia-cierta_sq_f1350590_1.html). I made a video-tutorial to study how the episodes length changed over time. The video is available on [YouTube](https://www.youtube.com/watch?v=nbSIXl6I8-4) and you can find the code [here](files/2019_21_01.md).   
