@@ -21,9 +21,16 @@ description: Jose V. Die's events
   
 ### 2019
 
+* FEB     
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal International Journal of Molecular Sciences.  
+  
+  
 * JAN     
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal International Journal of Molecular Sciences.  
 
+
+* JAN 31 2019, Córdoba, Spain.  
+Molecular Breeding Group Lab Meeting. Seminar "Museo del Prado, Hermanos Lumière y Datos Abiertos en la Era Molecular".   
 
 * JAN 15 2019, San Diego, CA, USA.   
 **Invited Presentation** GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species. Plant and Animal Genome XXVII Conference ([PAG](http://www.intlpag.org/2019/)). January 15, 2019 at 12:00h  
