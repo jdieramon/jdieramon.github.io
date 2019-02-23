@@ -37,13 +37,15 @@ From species name to taxonomy id :
             "Cicer arietinum")
     
     mytaxids = sapply(mycicer, function(x) get_tax_id(x), USE.NAMES = FALSE)
-      mytaxids
+    
+    mytaxids
       [1] "200949" "200948" "107682" "92720"  "92719"  "92718" 
       [7] "90899"  "90898"  "90897"  "47088"  "3827" 
 
 From taxonomy id to scientific name : 
        
     mynames = sapply(mytaxids, function(x) get_scientific_name(x), USE.NAMES = FALSE)
+    
     mynames
      [1] "Cicer macracanthum"  "Cicer canariense"  
      [3] "Cicer chorassanicum" "Cicer cuneatum"     
