@@ -81,6 +81,10 @@ Córdoba, Jan 22, 2019.
 **A Ciencia Cierta** is a scientific dissemination Spanish radio show on 'CV radio'. You can find the podcasts on [IVOOX](https://www.ivoox.com/podcast-a-ciencia-cierta_sq_f1350590_1.html). I made a video-tutorial to study how the episodes length changed over time. The video is available on [YouTube](https://www.youtube.com/watch?v=nbSIXl6I8-4) and you can find the code [here](files/2019_21_01.md).   
 
   
+<br>
+
+
+
 ## Recent NBS-LRR Gene Expansion in the Asparagus Genome
 Córdoba, Nov 25, 2018.    
   
