@@ -8,7 +8,49 @@ description: Jose V. Die's blog
 <a href="#our-small-blow-against-the-system">2018 July</a>    
 <a href="#pycon-charlas">2018 May</a>   
   
+
+## Taxonomy identifiers and scientific names (NCBI) 
+Córdoba, Feb 25, 2019.  
+
+I have a long list of species names and my goal is to get the taxonomy identifiers from GenBank. 
+I wrote some functions to fetch the NCBI ids. 
+
     
+    get_tax_id <- function(scientific_name) {
+      myterm = paste0(scientific_name,"[SCIN]")
+      esearch = entrez_search(db = "taxonomy", term = myterm)
+      esearch$ids
+      }
+      
+    get_scientific_name <- function(taxid) {
+      esumm <- entrez_summary(db="taxonomy", id=taxid)
+      esumm$scientificname
+      }
+      
+From species name to taxonomy id :
+
+    mycicer <- c("Cicer macracanthum", "Cicer canariense", "Cicer chorassanicum", "Cicer cuneatum", "Cicer judaicum", 
+            "Cicer yamashitae", "Cicer bijugum", "Cicer reticulatum", "Cicer echinospermum", "Cicer pinnatifidum", 
+            "Cicer arietinum")
+    
+    mytaxids = sapply(mycicer, function(x) get_tax_id(x), USE.NAMES = FALSE)
+      mytaxids
+      [1] "200949" "200948" "107682" "92720"  "92719"  "92718" 
+      [7] "90899"  "90898"  "90897"  "47088"  "3827" 
+
+From taxonomy id to scientific name : 
+       
+    mynames = sapply(mytaxids, function(x) get_scientific_name(x), USE.NAMES = FALSE)
+    mynames
+     [1] "Cicer macracanthum"  "Cicer canariense"  
+     [3] "Cicer chorassanicum" "Cicer cuneatum"     
+     [5] "Cicer judaicum"      "Cicer yamashitae"   
+     [7] "Cicer bijugum"       "Cicer reticulatum"  
+     [9] "Cicer echinospermum" "Cicer pinnatifidum" 
+     [11] "Cicer arietinum" 
+
+
+
 ## h Index
 Córdoba, Feb 2, 2019.  
   
