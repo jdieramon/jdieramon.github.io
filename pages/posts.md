@@ -15,7 +15,10 @@ Córdoba, Feb 25, 2019.
 I have a long list of species names and my goal is to get the taxonomy identifiers from GenBank. 
 I wrote some functions to fetch the NCBI ids. 
 
+    # Dependencies
+    library(rentrez)
     
+    # Define some functions : 
     get_tax_id <- function(scientific_name) {
       myterm = paste0(scientific_name,"[SCIN]")
       esearch = entrez_search(db = "taxonomy", term = myterm)
