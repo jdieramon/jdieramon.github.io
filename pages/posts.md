@@ -9,6 +9,10 @@ description: Jose V. Die's blog
 <a href="#pycon-charlas">2018 May</a>   
   
 
+<br>
+
+
+
 ## Taxonomy identifiers and scientific names (NCBI) 
 Córdoba, Feb 25, 2019.  
 
@@ -55,13 +59,21 @@ From taxonomy id to scientific name :
      [11] "Cicer arietinum" 
 
 
+<br>
+
+
+
 
 ## h Index
 Córdoba, Feb 2, 2019.  
   
 I just updated my old pkg. `h Index Over Years`. The R pkg. is based on the Citation record from SCOPUS and plots the h Index over the years for a given author. You can also estimate how long it takes on average to get 1 citation for your most highly accessed papers. You can download and install it from my [github](https://github.com/jdieramon/hIndex) repo in 3 very simple steps. 
   
-    
+   
+<br>
+
+
+ 
     
 ## Data Analytics. Case study: A Ciencia Cierta
 Córdoba, Jan 22, 2019.     
@@ -78,6 +90,10 @@ We performed a genome-wide analysis and comprehensive characterization of 49 NBS
  3. Expression data revealed that most of the duplicated members within a group exhibited the same expression pattern, suggesting that the functional conservation of the duplicated family members is a major feature of the evolution of these genes.  
     
 Read the paper in [Genes](https://www.mdpi.com/2073-4425/9/12/568/htm).    
+
+
+<br>
+
 
 
 ## Our small blow against the system  
