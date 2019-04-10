@@ -15,18 +15,24 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events 
-
+International Conference on Legume Genetics and Genomics. May 13-17, 2019. Dijon, France.   
+  
 <br>
   
   
 ### 2019
+* APR   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Agronomy. 
+
+* MAR   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules. 
 
 * FEB     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal International Journal of Molecular Sciences.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal International Journal of Molecular Sciences.  
   
   
 * JAN     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal International Journal of Molecular Sciences.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal International Journal of Molecular Sciences.  
 
 
 * JAN 31 2019, Córdoba, Spain.  
@@ -42,7 +48,7 @@ Molecular Breeding Group Lab Meeting. Seminar "Museo del Prado, Hermanos Lumièr
 ### 2018    
 
 * DEC     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals   
   * Genes
   * International Journal of Molecular Sciences
   * PeerJ
