@@ -22,8 +22,8 @@ I want to pull all taxIDs or accessions in a taxonomic family.
     # Define a function : 
     extract_ids <- function(family) {
       myterm = paste0(family, "[SBTR]")
-      myfamily = entrez_search(db = "taxonomy", term = "Cucurbitaceae[SBTR]")
-      myfamily = entrez_search(db = "taxonomy", term = "Cucurbitaceae[SBTR]", 
+      myfamily = entrez_search(db = "taxonomy", term = myterm)
+      myfamily = entrez_search(db = "taxonomy", term = myterm, 
                                retmax = myfamily$count)
       
       myfamily$ids
