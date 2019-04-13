@@ -11,6 +11,34 @@ description: Jose V. Die's blog
 
 <br>
 
+## Getting descendent taxa 
+Córdoba, Apr 13, 2019.  
+  
+I want to pull all taxIDs or accessions in a taxonomic family.
+
+    # Dependencies
+    library(rentrez)
+    
+    # Define a function : 
+    extract_ids <- function(family) {
+      myterm = paste0(family, "[SBTR]")
+      myfamily = entrez_search(db = "taxonomy", term = "Cucurbitaceae[SBTR]")
+      myfamily = entrez_search(db = "taxonomy", term = "Cucurbitaceae[SBTR]", 
+                               retmax = myfamily$count)
+      
+      myfamily$ids
+      
+      }
+
+Now, I call the function for the *Cucurbitaceae* family.  
+  
+    cucurbis <- extract_ids("Cucurbitaceae")
+        
+    cucurbis[1:10]
+     [1] "2528464" "2507986" "2507985" "2507984" "2507586"
+     [6] "2501430" "2497034" "2490558" "2478897" "2421479"
+
+    
 
 
 ## Taxonomy identifiers and scientific names (NCBI) 
