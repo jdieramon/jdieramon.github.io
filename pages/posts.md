@@ -14,6 +14,8 @@ description: Jose V. Die's blog
 ## PubMed titles
 I just saw [@GARNetweets](https://twitter.com/GARNetweets/status/1121424430775848962) tweet on increased number of rice publications in [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) journals and wanted to figure out my research interests compared to the world. I see great potential for growth!
 
+
+
 Here is the code : 
     
     # Dependencies
@@ -37,8 +39,7 @@ Here is the code :
                           ggtitle("PubMed publications including in the title ...", )
                           
                       
-  ![](data/pubMed.png)
-
+![](files/pubMed.png)
 
 
 ## Getting descendent taxa 
