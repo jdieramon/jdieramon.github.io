@@ -11,6 +11,36 @@ description: Jose V. Die's blog
 
 <br>
 
+## PubMed titles
+I just saw [@GARNetweets](https://twitter.com/GARNetweets/status/1121424430775848962) tweet on increased number of rice publications in [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) journals and wanted to figure out my research interests compared to the world. I see great potential for growth!
+
+Here is the code : 
+    
+    # Dependencies
+    library(ggplot2)
+    library(dplyr)
+    
+    # Read the timeline csv file 
+    pubmed <- read.csv("files/pubmed.csv")
+    
+    # Tidy data
+    names(pubmed) <- c('year', 'chickpea', 'asparagus', 'Arabidopsis', 'rice')
+    pubmed = pubmed[-c(1:2),]
+    pubmed_by_year <- gather(pubmed, species, count, -year)
+    
+    
+    # Plot data
+    pubmed_by_year %>% mutate(year = as.double(as.character(pubmed_by_year$year)), 
+                          count = as.double(pubmed_by_year$count)) %>% 
+                          ggplot(aes(x = year, y = count, col = species)) + 
+                          geom_line(alpha = 0.7) + 
+                          ggtitle("PubMed publications including in the title ...", )
+                          
+                      
+  ![](data/pubMed.png)
+
+
+
 ## Getting descendent taxa 
 Córdoba, Apr 13, 2019.  
   
