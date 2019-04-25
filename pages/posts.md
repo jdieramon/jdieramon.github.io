@@ -12,6 +12,8 @@ description: Jose V. Die's blog
 <br>
 
 ## PubMed titles
+Córdoba, Apr 25, 2019.   
+
 I just saw [@GARNetweets](https://twitter.com/GARNetweets/status/1121424430775848962) tweet on increased number of rice publications in [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) journals and wanted to figure out my research interests compared to the world. I see great potential for growth!
 
 
