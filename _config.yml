@@ -3,9 +3,9 @@ theme: jekyll-theme-minimal
 exclude: ["ReadMe.md", "License.md"]
 
 title: [Jose V. Die]
-description: [Marie Curie Fellow\
-    Department of Genetics-ETSIAM\
-    University of Cordoba2]
+description: [Marie Curie Fellow <br> 
+    Department of Genetics-ETSIAM
+    University of Cordoba]
 
 author :
   name : Jose V. Die
