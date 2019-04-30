@@ -9,14 +9,14 @@ description: Jose V. Die's events
 
 |   |  |  |
 |---|---|---|
-| <a href="#2017">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> |
+| <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> | <a href="#2016">2016</a> |
 | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
   
 <br>  
   
 ### Coming Events 
 * International Conference on Legume Genetics and Genomics. May 13-17, 2019. Dijon, France.   
-* Lecturer on '[Introduction to R for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/)'. University of Cordoba. June 17-27, 2019.   
+* Lecturer on '[Introduction to R for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/)'. 30h. University of Cordoba. June 17-27, 2019.   
   
 <br>
   
