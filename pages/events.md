@@ -22,10 +22,13 @@ description: Jose V. Die's events
   
   
 ### 2019
-* APR   
+* APR
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals   
   * International Journal of Molecular Sciences
   * Agronomy
+
+* APR 30, 2019   
+Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'-  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.
 
 * MAR   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Molecules. 
