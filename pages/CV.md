@@ -1,4 +1,3 @@
-# Jose V. Die  
   
   
 ### Education
