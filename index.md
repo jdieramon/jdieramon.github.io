@@ -9,7 +9,7 @@ Currently, my research line is focused on unravelling the molecular basis contro
   
 I look for ways to integrate bioinformatics with experimentation. I am an advocate of gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I also enjoy working with big data sets. I like data, and I like to extract biological value out of data. If you are interested in working with me, feel free to contact me. I am always happy to work with motivated and enthusiatic people.  
 
-At the University of Córdoba, I teach an introductory [course for Data Analysis](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}) using the R programming language. The course always gets a good reaction from students and we have already run 3 editions. 
+At the University of Córdoba, I teach an introductory [course for Data Analysis](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}) using the `R` programming language. The course always gets a good reaction from students and we have already run 3 editions. 
   
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
 
