@@ -15,6 +15,8 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events 
+* **Invited Seminar** (Organized by PhD Students IdEP, UCO): Seminar "Museo del Prado, Lumière Brothers and Open Data en the Molecular Era". University of Cordoba. Jun 7, 2019.   
+  
 * Lecturer on '[Introduction to R for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/)'. 30h. University of Cordoba. June 17-27, 2019.   
   
 <br>
