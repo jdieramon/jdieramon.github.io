@@ -26,13 +26,10 @@ description: Jose V. Die's events
 * MAY  
 [International Conference on Legume Genetics and Genomics](http://iclgg2019.com/). May 13-17, 2019. Dijon, France.  
     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals   
-  * International Journal of Molecular Sciences  
-  * Frontiers in Plant Science    
-  * Genome 
-      
-     
-
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals : International Journal of Molecular Sciences, Frontiers in Plant Science .  
+  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Genome.       
+  
 * APR  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals   
   * International Journal of Molecular Sciences
