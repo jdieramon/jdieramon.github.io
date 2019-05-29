@@ -85,7 +85,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
 **Invited speaker**: "An automated pipeline to study plant gene families based on protein domain organization". Jornada Científico-Técnica y VI Jornadas Asociación Española de Leguminosas ([AEL](http://www.leguminosas.es/leguminosas-en-la-agricultura-y-la-alimentacion/)).
 
 *  OCT 18, Córdoba, Spain.  
-Co-direction of the final thesis "Identification and characterization of the superfamily ALDH in chickpea (*Cicer arietinum*  L.) using bioinformatics open-based tools" by **Rocio Carmona Molero** (Master Science degree). Dept. Genetics, ETSIAM, University of Cordoba.
+Co-direction of the final thesis "Identification and characterization of the superfamily ALDH in chickpea (*Cicer arietinum*  L.) using bioinformatics open-based tools" by **Rocio Carmona Molero** (Master Science degree). **Extraordinary MSc thesis Award.** Dept. Genetics, ETSIAM, University of Cordoba.    
 
 *  SEP 5-7, Ancona, Italy.   
 XXIV National Congress of the Italian Phytopathological Society (SIPaV).    
