@@ -24,8 +24,11 @@ description: Jose V. Die's events
   
 ### 2019
 * JUN   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal Scientific Reports.  
-**Invited Seminar** (Organized by PhD Students IdEP, UCO): "Museo del Prado, Lumière Brothers and Open Data in the Molecular Era". University of Cordoba. Jun 7, 2019.    
+**Invited Seminar** (Organized by PhD Students IdEP, UCO): "Museo del Prado, Lumière Brothers and Open Data in the Molecular Era". University of Cordoba. Jun 7, 2019.   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals : 
+  - Scientific Reports
+  - Agronomy  
+   
 
 * MAY  
 [International Conference on Legume Genetics and Genomics](http://iclgg2019.com/). May 13-17, 2019. Dijon, France.  
