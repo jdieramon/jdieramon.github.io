@@ -17,7 +17,7 @@ description: Jose V. Die's events
 ### Coming Events 
  
   
-* Lecturer on '[Introduction to R for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. 30h. University of Cordoba. June 17-27, 2019.   
+* Academic director and lecturer of the '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. 2nd edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.  
   
 <br>
   
