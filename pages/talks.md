@@ -24,7 +24,7 @@ Here I'll post some material that I use in my lectures:
   
 ### 2019  
 * JUN 17 - 27, Córdoba, Spain.  
-[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/). 3rd edition. 30h. University of Cordoba.  
+[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 3rd edition. 30h. University of Cordoba.  
   
 * APR 30, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.
