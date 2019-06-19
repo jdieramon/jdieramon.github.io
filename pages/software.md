@@ -8,8 +8,11 @@ description: Jose V. Die's software
     
     
 ---
-#### Annotation packages . 
-Full genome sequences stored in Biostrings objects. You can install them from Bioconductor. 
+#### Annotation packages    
+ * GeneHummus. An automated pipeline with high specificity and sensitivity in extracting proteins from the RefSeq database (National Center for Biotechnology Information) based on Protein Domain Organization. The pipeline is convenient if you are interested in plant gene families characterization, or you'd like to perform some downstream analysis such as phylogenetic construction or gene expression profiling, to name a few examples. [GitHub](https://github.com/NCBI-Hackathons/GeneHummus) [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html)
+ 
+* Full genome sequences stored in Biostrings objects. You can install them from Bioconductor. 
+  
   * [BSgenome.Carietinum.NCBI.v1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Carietinum.NCBI.v1.html){:target="_blank"}
   * [BSgenome.Aofficinalis.NCBI.V1](https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Aofficinalis.NCBI.V1.html){:target="_blank"}
 
