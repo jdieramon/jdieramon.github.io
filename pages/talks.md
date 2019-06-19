@@ -21,9 +21,14 @@ Here I'll post some material that I use in my lectures:
   * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.  
   * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
   
+  
 ### 2019  
+* JUN 17 - 27, Córdoba, Spain.  
+Introduction to R programming for Data Science. 3rd edition. 30h. University of Cordoba.  
+  
 * APR 30, Córdoba, Spain.  
 Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.
+
 
 #### 2018  
 * DEC 10-20, Córdoba, Spain.  
