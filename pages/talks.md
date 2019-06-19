@@ -21,6 +21,9 @@ Here I'll post some material that I use in my lectures:
   * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.  
   * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
   
+### 2019  
+* APR 30, Córdoba, Spain.
+Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.
 
 #### 2018  
 * DEC 10-20, Córdoba, Spain.  
@@ -59,7 +62,12 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
   
 ### Talks and Seminars
 
-#### 2018 .   
+#### 2019    
+  
+* **Invited Seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
+
+
+#### 2018    
 
 * **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Córdoba (Spain), October 22-23, 2018.  
 
