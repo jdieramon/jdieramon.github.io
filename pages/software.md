@@ -9,7 +9,8 @@ description: Jose V. Die's software
     
 ---
 #### Annotation packages    
- * GeneHummus. An automated pipeline with high specificity and sensitivity in extracting proteins from the RefSeq database (National Center for Biotechnology Information) based on Protein Domain Organization. The pipeline is convenient if you are interested in plant gene families characterization, or you'd like to perform some downstream analysis such as phylogenetic construction or gene expression profiling, to name a few examples. [GitHub](https://github.com/NCBI-Hackathons/GeneHummus) [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html)
+ * [GeneHummus](https://github.com/NCBI-Hackathons/GeneHummus){:target="_blank"}. An automated pipeline with high specificity and sensitivity in extracting proteins from the RefSeq database (National Center for Biotechnology Information) based on Protein Domain Organization. The pipeline is convenient if you are interested in plant gene families characterization, or you'd like to perform some downstream analysis such as phylogenetic construction or gene expression profiling, to name a few examples. Also available on [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html){:target="_blank"}  
+ 
  
 * Full genome sequences stored in Biostrings objects. You can install them from Bioconductor. 
   
