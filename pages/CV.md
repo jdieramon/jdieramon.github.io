@@ -82,6 +82,7 @@
 * BMC Plant Biology   
 * BMC Molecular Biology  
 * Ecotoxicology   
+* Frontiers in Plant Science
 * Genes
 * International Journal of Molecular Sciences
 * Journal of Experimental Botany   
