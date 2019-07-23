@@ -23,6 +23,13 @@ description: Jose V. Die's events
   
   
 ### 2019
+* JUL  
+Co-direction of the final thesis "Búsqueda bioinformática de familias génicas en genomas de cultivos" by **Rocío Sánchez Gil** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.     
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+      
+   - Frontiers in Plant Science
+   
+   
 * JUN   
 **Invited Seminar** (Organized by PhD Students IdEP, UCO): "Museo del Prado, Lumière Brothers and Open Data in the Molecular Era". University of Cordoba. Jun 7, 2019.   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals : 
