@@ -26,7 +26,7 @@ description: Jose V. Die's events
 * JUL  
 Co-direction of the final thesis "Búsqueda bioinformática de familias génicas en genomas de cultivos" by **Rocío Sánchez Gil** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.     
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
-      
+   - BMC Genomics
    - Frontiers in Plant Science
    
    
