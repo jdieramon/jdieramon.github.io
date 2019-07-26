@@ -62,8 +62,8 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **O
   
   
 * JAN     
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal International Journal of Molecular Sciences.  
-
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal International Journal of Molecular Sciences.    
+Serving as Reviewer for PyCon 2019 Charlas. [PYCON 2019](https://us.pycon.org/2019/), Cleveland, May 2019.   
 
 * JAN 31 2019, Córdoba, Spain.  
 Molecular Breeding Group Lab Meeting. Seminar "Museo del Prado, Hermanos Lumière y Datos Abiertos en la Era Molecular".   
