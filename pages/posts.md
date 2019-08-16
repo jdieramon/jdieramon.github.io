@@ -22,7 +22,7 @@ description: Jose V. Die's blog
 ## geneHummus : automated pipeline for gene annotation  
 Córdoba, Jul 20, 2019.    
 
-We designed *geneHummus*, a novel R package to identify and characterize members of a plant gene family. Our pipeline is suitable for any taxonomic plant, vastly improving the speed and ease of genomic data processing. The pipeline was mostly designed at the National Center for Biotechnology Information in Bethesda (MD) during May 2018 and we have been working ever since.Documentation is available on [Github](https://github.com/NCBI-Hackathons/GeneHummus/blob/master/vignettes/genHummus.md) and the package is available on [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html).  
+We designed *geneHummus*, a novel R package to identify and characterize members of a plant gene family. Our pipeline is suitable for any taxonomic plant, vastly improving the speed and ease of genomic data processing. The pipeline was mostly designed at the National Center for Biotechnology Information in Bethesda (MD) during May 2018 and we have been working ever since. Documentation is available on [Github](https://github.com/NCBI-Hackathons/GeneHummus/blob/master/vignettes/genHummus.md) and the package is available on [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html).  
   
 Read the paper on [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5952-2).  
 
