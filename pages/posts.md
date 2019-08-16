@@ -6,7 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2019
- * <a href="#geneHummus-:-automated-pipeline-for-gene-annotation">JUL</a>    
+ * <a href="#genehummus--automated-pipeline-for-gene-annotation">Jul</a>    
  * <a href="#pubmed-titles">Apr</a>    
  * <a href="#taxonomy-identifiers-and-scientific-names-ncbi">Feb</a>    
  * <a href="#data-analytics-case-study-a-ciencia-cierta">Jan</a>    
