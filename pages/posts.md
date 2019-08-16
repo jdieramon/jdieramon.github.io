@@ -6,18 +6,19 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2019
+ * <a href="#geneHummus-:-automated-pipeline-for-gene-annotation">JUL</a>    
  * <a href="#pubmed-titles">Apr</a>    
  * <a href="#taxonomy-identifiers-and-scientific-names-ncbi">Feb</a>    
  * <a href="#data-analytics-case-study-a-ciencia-cierta">Jan</a>    
   
 ### 2018   
-<a href="#recent-nbs-lrr-gene-expansion-in-the-asparagus-genome">Nov</a>    
-<a href="#our-small-blow-against-the-system">July</a>    
-<a href="#pycon-charlas">May</a>   
+* <a href="#recent-nbs-lrr-gene-expansion-in-the-asparagus-genome">Nov</a>    
+* <a href="#our-small-blow-against-the-system">July</a>    
+* <a href="#pycon-charlas">May</a>   
   
 
 <br>
-## geneHummus : automated pipeline for gene annotation
+## geneHummus : automated pipeline for gene annotation   
 Córdoba, Jul 20, 2019.     
 We designed *geneHummus*, a novel R package to identify and characterize members of a plant gene family. Our pipeline is suitable for any taxonomic plant, vastly improving the speed and ease of genomic data processing. The pipeline was mostly designed at the National Center for Biotechnology Information in Bethesda (MD) during May 2018 and we have been working ever since.Documentation is available on [Github](https://github.com/NCBI-Hackathons/GeneHummus/blob/master/vignettes/genHummus.md) and the package is available on [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html).  
 Read the paper on [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5952-2).  
