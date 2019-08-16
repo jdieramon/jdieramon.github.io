@@ -16,8 +16,9 @@ description: Jose V. Die's blog
 * <a href="#our-small-blow-against-the-system">July</a>    
 * <a href="#pycon-charlas">May</a>   
   
-
 <br>
+  
+  
 ## geneHummus : automated pipeline for gene annotation  
 Córdoba, Jul 20, 2019.    
 
