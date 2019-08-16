@@ -6,8 +6,8 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 <a href="#pubmed-titles">2019 Apr</a>    
-<a href="#taxonomy-identifiers-and-scientific-names-ncbi">2019 Feb</a>    
-<a href="#data-analytics-case-study-a-ciencia-cierta">2019 Jan</a>    
+ * <a href="#taxonomy-identifiers-and-scientific-names-ncbi">Feb</a>    
+ * <a href="#data-analytics-case-study-a-ciencia-cierta">Jan</a>    
   
     
 <a href="#recent-nbs-lrr-gene-expansion-in-the-asparagus-genome">2018 Nov</a>    
