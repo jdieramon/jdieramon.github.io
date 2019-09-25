@@ -22,8 +22,10 @@ description: Jose V. Die's events
   
 ### 2019
 * SEP   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Plant Physiology and Biochemistry  
-  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Plant Physiology and Biochemistry . 
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the  **Open Access** International Journal of Molecular Sciences . 
+
+    
   
 * AUG  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Genome    
