@@ -16,6 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
++ Caballo C, Castro P, Gil J, Millan T, Rubio J, **Die JV**. (2019) [Candidate genes expression profiling during wilting in chickpea caused by *Fusarium oxysporum* f. sp. *ciceris* race 5](https://www.ncbi.nlm.nih.gov/pubmed/?term=Candidate+genes+expression+profiling+during+wilting+in+chickpea+caused+by+Fusarium+oxysporum+f.+sp.+ciceris+race+5). PLoS ONE 14(10): e0224212.    
+  
 + **Die JV**, Elmassry MM, Leblanc KH, Awe OI, Dillman A, Busby B. (2019) [GeneHummus: A pipeline to define gene families and their expression in legumes and beyond](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5952-2). BMC Genomics, 20:591.    
   
 + **Die JV**, Castro P, Millan T, Gil J. (2018) [Segmental and Tandem Duplications Driving the Recent NBS-LRR Gene Expansion in the Asparagus Genome](https://www.mdpi.com/2073-4425/9/12/568/htm). Genes, 9(12), 568; doi: 10.3390/genes9120568    
