@@ -17,7 +17,8 @@ description: Jose V. Die's events
 ### Coming Events 
 
   * NOV 14 - 16. Madrid. [XI Jornadas de Usuarios R](http://r-es.org/XIjuR/). Presentación paquete [geneHummus](https://cran.r-project.org/web/packages/geneHummus/index.html) : anotación automática de familias génicas.     
-  \newline
+<br>   
+
   * NOV 25 - DEC 4. Cordoba. **New edition** of our course '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**
  
   
@@ -25,13 +26,18 @@ description: Jose V. Die's events
 <br>
   
 ### 2019
-* OCT .    
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Plant Physiology and Biochemistry .   
+* OCT       
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+  
+  - Plant Physiology and Biochemistry
+  - International Journal of Molecular Sciences
   
 
 * SEP   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal Plant Physiology and Biochemistry .   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the  **Open Access** International Journal of Molecular Sciences . 
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+  
+  - Plant Physiology and Biochemistry
+  - International Journal of Molecular Sciences
 
     
   
