@@ -169,9 +169,17 @@ We performed a genome-wide analysis and comprehensive characterization of 49 NBS
  2. Recent duplications are likely to have dominated the NBS expansion with both tandem genes and duplication events across multiple chromosomes. Almost all the segmental duplications that we can detect have evolved from these recent events.
  3. Expression data revealed that most of the duplicated members within a group exhibited the same expression pattern, suggesting that the functional conservation of the duplicated family members is a major feature of the evolution of these genes.  
     
-Read the paper in [Genes](https://www.mdpi.com/2073-4425/9/12/568/htm).    
-
-
+Read the paper in [Genes](https://www.mdpi.com/2073-4425/9/12/568/htm).      
+  
+## Reducing complexity
+Córdoba, Nov 17, 2018.  
+  
+Note for others (and my future self) : I am preparing some material for an introductory course for Data Analysis using R. When thinking about reducing complexity, these posts helped me to see the appealing side of the `tidyverse` for beginners :   
+  
+  * Don't teach students the hard way first (by [David Robinson](http://varianceexplained.org/r/teach-hard-way/))  
+  * Teach the tidyverse to beginners (by [David Robinson](http://varianceexplained.org/r/teach-tidyverse/))  
+  * Teaching R to New Users - From tapply to the Tidyverse (by [Roger D. Peng](https://simplystatistics.org/2018/07/12/use-r-keynote-2018/))  
+  
 <br>
 
 
