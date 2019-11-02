@@ -3,7 +3,7 @@
 ### Education
 * 2009 Ph.D. Plant Genetics. *Cum laude* honors. [University of Cordoba](http://www.uco.es/internacional/extranjeros/). Córdoba, Spain. 
 
-* 2003 Agronomical Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
+* 2003 Agronomic Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
 
 
 ### Projects
