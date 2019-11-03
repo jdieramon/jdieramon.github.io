@@ -5,7 +5,7 @@
 
 * 2003 Agronomic Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
   
-      \newline
+<br>
   
 ### Projects
 * FORCE – Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Projet ID: 844431, PI: Jose V. Die. European Comission, 160,932.48€, 2018-2020.
@@ -58,7 +58,8 @@
 * Johns Hopkins University. [The Unix Workbench](https://www.coursera.org/learn/unix) Jan 2018.  
   
   
-\newline
+<br>
+
   
   
 ### Bioethics    
@@ -77,7 +78,8 @@
 
 
    
-\newline
+<br>
+
   
  
 ### Honors and Awards
@@ -87,7 +89,8 @@
 
 
   
-\newline
+<br>
+
   
   
 ### Peer-review Services  
@@ -117,7 +120,8 @@
 
 More information on [peer-review](https://publons.com/author/420232/jose-v-die#profile).  
   
-\newline
+<br>
+
   
 
 ### Contact
