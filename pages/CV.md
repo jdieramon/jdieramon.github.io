@@ -4,8 +4,9 @@
 * 2009 Ph.D. Plant Genetics. *Cum laude* honors. [University of Cordoba](http://www.uco.es/internacional/extranjeros/). Córdoba, Spain. 
 
 * 2003 Agronomic Engineering, Biotechnology and Breeding. [Polytechnic University of Valencia](https://www.upv.es/index-en.html). Valencia, Spain. Diploma Thesis in Institut für Planzenbau and Pflanzenzüchtung. [Georg-August-Universität](https://www.uni-goettingen.de/en/1.html), Göttingen, Germany.
-
-
+  
+\newline
+  
 ### Projects
 * FORCE – Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Projet ID: 844431, PI: Jose V. Die. European Comission, 160,932.48€, 2018-2020.
 
@@ -57,10 +58,16 @@
 * Johns Hopkins University. [The Unix Workbench](https://www.coursera.org/learn/unix) Jan 2018.  
   
   
+\newline
+  
+  
 ### Bioethics    
 * Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x). GeorgetownX. Apr-Jun 2014
 
 
+  
+\newline
+  
   
 ### Scientific Societies  
 * American Society of Plant Biologists                 (2015 - present)  
@@ -69,7 +76,10 @@
 * Sociedad Española de Genética                        (2008 - present)  
 
 
+   
+\newline
   
+ 
 ### Honors and Awards
 * Seal of Excellence. 2017. Marie Sklodowska-Curie actions call H2020-MSCA-IF-2017. European Comission 
 * Extraordinary Doctorate Award. 2011. University of Cordoba. Córdoba, Spain
@@ -77,13 +87,20 @@
 
 
   
+\newline
+  
+  
 ### Peer-review Services  
+* Agronomy  
 * Annals of Applied Biology   
-* BMC Plant Biology   
+* BMC Genomics    
 * BMC Molecular Biology  
+* BMC Plant Biology   
 * Ecotoxicology   
 * Frontiers in Plant Science
+* Gene   
 * Genes
+* Genome  
 * International Journal of Molecular Sciences
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
@@ -99,6 +116,9 @@
 * Weed Research    
 
 More information on [peer-review](https://publons.com/author/420232/jose-v-die#profile).  
+  
+\newline
+  
 
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
