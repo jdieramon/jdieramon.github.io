@@ -9,8 +9,9 @@
   
 ### Projects
 * FORCE – Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Projet ID: 844431, PI: Jose V. Die. European Comission, 160,932.48€, 2018-2020.
-
-
+  
+<br>
+  
 ### Transcriptomic & Bioinformatics Training
 * Workshop on Transcriptomics and Bioinformatics. [Center for Biotechnology](http://www.cebitec.uni-bielefeld.de), University of Bielefeld. Bielefeld, Germany. Nov 2004
 
@@ -57,41 +58,27 @@
 * HarvardX. [PH526x Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x). Jun 2017  
 * Johns Hopkins University. [The Unix Workbench](https://www.coursera.org/learn/unix) Jan 2018.  
   
-  
 <br>
-
-  
   
 ### Bioethics    
 * Georgetown University. phlx101-01 [Introduction to Bioethics](https://www.edx.org/course/introduction-bioethics-georgetownx-phlx-101x). GeorgetownX. Apr-Jun 2014
-
-
   
-\newline
-  
+<br>
   
 ### Scientific Societies  
 * American Society of Plant Biologists                 (2015 - present)  
 * The American Phytopathological Society               (2015 - present)  
 * Sociedad Española de Bioquímica y Biología Molecular (2014 - present)  
 * Sociedad Española de Genética                        (2008 - present)  
-
-
-   
-<br>
-
   
- 
+<br>
+  
 ### Honors and Awards
 * Seal of Excellence. 2017. Marie Sklodowska-Curie actions call H2020-MSCA-IF-2017. European Comission 
 * Extraordinary Doctorate Award. 2011. University of Cordoba. Córdoba, Spain
 * European Doctor Mention. 2009. University of Cordoba. Córdoba, Spain 
-
-
   
 <br>
-
-  
   
 ### Peer-review Services  
 * Agronomy  
@@ -121,8 +108,6 @@
 More information on [peer-review](https://publons.com/author/420232/jose-v-die#profile).  
   
 <br>
-
   
-
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
