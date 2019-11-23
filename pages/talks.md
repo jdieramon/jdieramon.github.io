@@ -23,6 +23,9 @@ Here I'll post some material that I use in my lectures:
   
   
 ### 2019  
+* NOV 25 - DEC4, Córdoba, Spain.  
+[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 4th edition. 30h. University of Cordoba.    
+
 * JUN 17 - 27, Córdoba, Spain.  
 [Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 3rd edition. 30h. University of Cordoba.  
   
@@ -69,7 +72,9 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
 
 #### 2019    
   
-* **Invited Seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
+* **Invited speaker** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
+
+* **Invited seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
 
 
 #### 2018    
