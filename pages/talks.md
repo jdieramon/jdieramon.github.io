@@ -10,6 +10,48 @@ description: Jose V. Die's talks
  * [Talks and Seminars](#talks-and-seminars)
     
 ---
+### Talks and Seminars
+
+#### 2019    
+  
+* **Invited speaker** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
+
+* **Invited seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
+
+
+#### 2018    
+
+* **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Córdoba (Spain), October 22-23, 2018.  
+
+#### 2017  
+
+* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain), February 23, 2017.  
+
+* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Seminarios Interdepartamentales Bioquímica, Biología Molecular, Genética](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjQgb747ZLUAhXLfhoKHcZVBV0QFggoMAA&url=https%3A%2F%2Fwww.uco.es%2Fdptos%2Fbioquimica-biol-mol%2Fseminarios_interdepartamentales%2Fprograma.pdf&usg=AFQjCNGr_ns-nmxsNuJX66ArlYidqQuECg&sig2=mU2J_beht13Ohe7N0tGUGg). Universidad de Córdoba, Córdoba (Spain),  February 10, 2017.  
+
+---
+
+#### 2016  
+* **Invited seminar**: “Transparencia y buenas prácticas en experimentos qPCR”, [Estación Experimental del Zaidín-CSIC](http://www2.eez.csic.es/?q=es/node/7457), Granada (Spain), October 28, 2016.  
+
+* **Invited speaker** at ‘[4th qPCR & Digital PCR Congress](http://www.global-engage.com/event/qpcr-digital-pcr/)´: “Quality Control and Technical Variance in plant qPCR analysis”, London, UK, October 20-21, 2016.
+
+* “Understanding anthocyanins molecular regulation in blueberry”, USDA, [Genetic Improvement Fruits Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) meeting, Beltsville (MD). March 9, 2016  
+
+---
+
+#### 2015    
+* **Invited speaker** at ´[qPCR & Digital PCR Congress USA]((http://www.global-engage.com/event/qpcr-digital-pcr/))´: “Quality Control and Technical Variance in plant qPCR analysis”, San Diego (CA), June 25-26, 2015.  
+
+* “Global patterns of protein abundance during the development of cold hardiness in blueberry”, USDA, [Genetic Improvement Fruits Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) meeting, Beltsville (MD). June 11, 2015.    
+
+---
+
+#### 2013    
+* “Quality controls in qPCR”, USDA, [Genetic Improvement Fruits Vegetables Laboratory]((https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)) meeting, Beltsville (MD). March 16, 2013.    
+
+</newline>
+  
 ### Lectures
 
 Here I'll post some material that I use in my lectures:  
@@ -22,7 +64,7 @@ Here I'll post some material that I use in my lectures:
   * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
   
   
-### 2019  
+#### 2019  
 * NOV 25 - DEC4, Córdoba, Spain.  
 [Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 4th edition. 30h. University of Cordoba.    
 
@@ -64,46 +106,3 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su us
 
 * OCT 5, Córdoba, Spain.  
 **Invited Lecture** on 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
-
-<br>
-  
-  
-### Talks and Seminars
-
-#### 2019    
-  
-* **Invited speaker** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
-
-* **Invited seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
-
-
-#### 2018    
-
-* **Invited speaker** at Jornada Científico-Técnica y VI Jornadas [Asociación Española de Leguminosas](http://www.leguminosas.es/): "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization". Córdoba (Spain), October 22-23, 2018.  
-
-#### 2017  
-
-* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica](http://www.juntadeandalucia.es/agriculturaypesca/ifapa/web/ifapa/elifapa), Córdoba (Spain), February 23, 2017.  
-
-* **Invited seminar**: “Regulación molecular de la biosíntesis de las antocianinas en arándano”, [Seminarios Interdepartamentales Bioquímica, Biología Molecular, Genética](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjQgb747ZLUAhXLfhoKHcZVBV0QFggoMAA&url=https%3A%2F%2Fwww.uco.es%2Fdptos%2Fbioquimica-biol-mol%2Fseminarios_interdepartamentales%2Fprograma.pdf&usg=AFQjCNGr_ns-nmxsNuJX66ArlYidqQuECg&sig2=mU2J_beht13Ohe7N0tGUGg). Universidad de Córdoba, Córdoba (Spain),  February 10, 2017.  
-
----
-
-#### 2016  
-* **Invited seminar**: “Transparencia y buenas prácticas en experimentos qPCR”, [Estación Experimental del Zaidín-CSIC](http://www2.eez.csic.es/?q=es/node/7457), Granada (Spain), October 28, 2016.  
-
-* **Invited speaker** at ‘[4th qPCR & Digital PCR Congress](http://www.global-engage.com/event/qpcr-digital-pcr/)´: “Quality Control and Technical Variance in plant qPCR analysis”, London, UK, October 20-21, 2016.
-
-* “Understanding anthocyanins molecular regulation in blueberry”, USDA, [Genetic Improvement Fruits Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) meeting, Beltsville (MD). March 9, 2016  
-
----
-
-#### 2015    
-* **Invited speaker** at ´[qPCR & Digital PCR Congress USA]((http://www.global-engage.com/event/qpcr-digital-pcr/))´: “Quality Control and Technical Variance in plant qPCR analysis”, San Diego (CA), June 25-26, 2015.  
-
-* “Global patterns of protein abundance during the development of cold hardiness in blueberry”, USDA, [Genetic Improvement Fruits Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) meeting, Beltsville (MD). June 11, 2015.    
-
----
-
-#### 2013    
-* “Quality controls in qPCR”, USDA, [Genetic Improvement Fruits Vegetables Laboratory]((https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)) meeting, Beltsville (MD). March 16, 2013.    
