@@ -50,7 +50,7 @@ description: Jose V. Die's talks
 #### 2013    
 * “Quality controls in qPCR”, USDA, [Genetic Improvement Fruits Vegetables Laboratory]((https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/)) meeting, Beltsville (MD). March 16, 2013.    
 
-</newline>
+---
   
 ### Lectures
 
