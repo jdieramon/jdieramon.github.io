@@ -1,9 +1,7 @@
 ## Welcome to my GitHub Page.
 
 I have worked as postdoctoral researcher funded by the Spanish Ministry of Science and Innovation through 
-the program “Juan de la Cierva” (2010-2012). In 2012, I moved to USA (2012- 2017) to work with **Dr Lisa J. Rowland** at the Genetic Improvement of Fruits and Vegetables Laboratory, [USDA-ARS](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/people/lisa-rowland/) (Beltsville, MD, USA). 
-  
-In January 2017, I moved back to Spain to work in the research group of **Dr Juan Gil** "*Mejora Genética Vegetal*" focused on identification and analysis of differentially expressed genes during plant development and biotic/abiotic stresses.   
+the program “Juan de la Cierva” (2010-2012). In 2012, I moved to USA (2012- 2017) to work with **Dr Lisa J. Rowland** at the Genetic Improvement of Fruits and Vegetables Laboratory, [USDA-ARS](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/people/lisa-rowland/) (Beltsville, MD, USA). In January 2017, I moved back to Spain to work in the research group of **Dr Juan Gil** "*Mejora Genética Vegetal*" focused on identification and analysis of differentially expressed genes during plant development and biotic/abiotic stresses.   
   
 Currently, I am a **Marie Sklodowska-Curie Fellow** funded by the European Comission under the [Horizon2020](https://cordis.europa.eu/project/rcn/221706/factsheet/en) program. My research line is focused on unravelling the molecular basis controlling flowering time in chickpea. Understanding how individual genetic variants combine to provide adaptation in specific situations is fundamental to accelerating introgression of new traits into adapted backgrounds. Flowering time is the major domestication trait defining the adaptation of chickpea to different agro-climatic conditions, and therefore is a major determinant of its productivity.  
   
