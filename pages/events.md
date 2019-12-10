@@ -21,9 +21,6 @@ description: Jose V. Die's events
 ### 2019
 * DEC  
 NOV 25 - DEC 4. Cordoba. **New edition** of our course '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**  
-  
-<br>
-  
 Serving as Reviewer for the journal : Revista Española de Estudios Agrosociales y Pesqueros ([REEAP](https://www.mapa.gob.es/es/ministerio/servicios/publicaciones/Revista_de_Estudios.aspx)).  
   
 * NOV  
