@@ -16,21 +16,20 @@ description: Jose V. Die's events
   
 ### Coming Events 
 
-  * NOV 14 - 16. Madrid. [XI Jornadas de Usuarios R](http://r-es.org/XIjuR/). Presentación paquete [geneHummus](https://cran.r-project.org/web/packages/geneHummus/index.html) : anotación automática de familias génicas.     
-<br>   
-
-  * NOV 25 - DEC 4. Cordoba. **New edition** of our course '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**
  
   
+### 2019
+* DEC  
+NOV 25 - DEC 4. Cordoba. **New edition** of our course '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**  
   
 <br>
   
-### 2019
+Serving as Reviewer for the journal : Revista Española de Estudios Agrosociales y Pesqueros ([REEAP](https://www.mapa.gob.es/es/ministerio/servicios/publicaciones/Revista_de_Estudios.aspx)).  
+  
 * NOV  
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal : International Journal of Molecular Sciences.   
-  
-    
-  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal : International Journal of Molecular Sciences.  
+**Invited speaker** : Presentación paquete [geneHummus](https://cran.r-project.org/web/packages/geneHummus/index.html) : anotación automática de familias génicas. [XI Jornadas de Usuarios R](http://r-es.org/XIjuR/). NOV 14 - 16. Madrid, Spain.          
+
 * OCT       
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
   
@@ -96,7 +95,7 @@ Serving as Reviewer for PyCon 2019 Charlas. [PYCON 2019](https://us.pycon.org/20
 Molecular Breeding Group Lab Meeting. Seminar "Museo del Prado, Hermanos Lumière y Datos Abiertos en la Era Molecular".   
 
 * JAN 15 2019, San Diego, CA, USA.   
-**Invited Presentation** GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species. Plant and Animal Genome XXVII Conference ([PAG](http://www.intlpag.org/2019/)). January 15, 2019 at 12:00h  
+**Invited speaker** GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species. Plant and Animal Genome XXVII Conference ([PAG](http://www.intlpag.org/2019/)). January 15, 2019 at 12:00h  
 
   
 <br>
