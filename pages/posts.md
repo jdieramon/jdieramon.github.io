@@ -17,7 +17,37 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
-  
+
+## Getting taxonomy description   
+Córdoba, Dec 12, 2019.    
+
+    # Dependencies
+    library(dplyr)
+    library(rentrez)
+    library(XML)
+    library(tidyr)
+    library(tibble)
+    
+    # Define a vector with species name 
+    orgs = c("Bradyrhizobium liaoningense", "Burkholderiaceae bacterium 26", 
+         "Ensifer sp. NM-2" , "Microvirga sp. BSC39", 
+         "Rhizobium laguerreae", "Variibacter gotjawalensis")
+
+
+    # Get taxonomy ids for each species
+    taxids <- c()
+    for(org in orgs) {
+      foo = entrez_search(db = "taxonomy", term = paste0(org,"[SCIN]"))
+      taxids <- c(taxids, foo$ids)
+    }
+
+    # Programatic access to ENTREZ : xml file
+    source("https://raw.githubusercontent.com/jdieramon/my_scripts/master/byRequest/functions.R")
+
+    vals <- get_taxonomy(taxids)
+
+![](files/taxonomy.png)
+
   
 ## geneHummus : automated pipeline for gene annotation  
 Córdoba, Jul 20, 2019.    
