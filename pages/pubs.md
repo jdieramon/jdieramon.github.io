@@ -16,6 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
++ Carmona-Molero R, Jimenez-Lopez JC, Gil J, Millan T, **Die JV**. Aldehyde dehydrogenase 3 is an expanded gene family with adaptive roles in chickpea. bioRxiv 2019.12.17.879213; doi: https://doi.org/10.1101/2019.12.17.879213    
+   
 + Caballo C, Castro P, Gil J, Millan T, Rubio J, **Die JV**. (2019) [Candidate genes expression profiling during wilting in chickpea caused by *Fusarium oxysporum* f. sp. *ciceris* race 5](https://www.ncbi.nlm.nih.gov/pubmed/?term=Candidate+genes+expression+profiling+during+wilting+in+chickpea+caused+by+Fusarium+oxysporum+f.+sp.+ciceris+race+5). PLoS ONE 14(10): e0224212.    
   
 + **Die JV**, Elmassry MM, Leblanc KH, Awe OI, Dillman A, Busby B. (2019) [GeneHummus: A pipeline to define gene families and their expression in legumes and beyond](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5952-2). BMC Genomics, 20:591.    
