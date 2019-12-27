@@ -17,6 +17,26 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
+## From UniProt ID to retrieving the gene name . 
+Valencia, Dec 27, 2019
+
+    uniprot_mapping <- function(ids) {
+        uri <- 'http://www.uniprot.org/uniprot/?query='
+        idStr <- paste(ids, collapse="+or+")
+        format <- '&format=tab'
+        fullUri <- paste0(uri,idStr,format)
+        dat <- read.delim(fullUri)
+        dat
+
+      }
+    
+    # Usage
+    ids = c("A0A2T3D680", "A0A0F0E143", "A0A0F0E266")
+    uniprot_mapping(ids)
+    
+![](files/uniprot.png)
+    
+    
 
 ## Getting taxonomy description   
 Córdoba, Dec 12, 2019.    
