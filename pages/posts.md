@@ -17,7 +17,7 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
-## From UniProt ID to retrieving the gene name . 
+## From UniProt ID to retrieving the gene name    
 Valencia, Dec 27, 2019
 
     uniprot_mapping <- function(ids) {
