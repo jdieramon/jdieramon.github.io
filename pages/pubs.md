@@ -16,6 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
++ Roman B, Gomez P, Pico B, **Die JV** [The NBS-LRR Gene Class is a Small Family in *Cucurbita pepo*](https://www.preprints.org/manuscript/202001.0048/v1). Preprints 2020, 2020010048   
+  
 + Carmona-Molero R, Jimenez-Lopez JC, Gil J, Millan T, **Die JV**. [Aldehyde dehydrogenase 3 is an expanded gene family with adaptive roles in chickpea](https://doi.org/10.1101/2019.12.17.879213). bioRxiv 2019.12.17.879213; doi:10.1101/2019.12.17.879213
    
 + Caballo C, Castro P, Gil J, Millan T, Rubio J, **Die JV**. (2019) [Candidate genes expression profiling during wilting in chickpea caused by *Fusarium oxysporum* f. sp. *ciceris* race 5](https://www.ncbi.nlm.nih.gov/pubmed/?term=Candidate+genes+expression+profiling+during+wilting+in+chickpea+caused+by+Fusarium+oxysporum+f.+sp.+ciceris+race+5). PLoS ONE 14(10): e0224212.    
