@@ -15,8 +15,18 @@ description: Jose V. Die's events
 <br>  
   
 ### Coming Events 
-
- 
+  
+![](files/xiijornadas.png)  
+    
+    
+### 2020  
+* FEB       
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+  
+  - The Journal of Horticultural Science & Biotechnology  
+  
+<br>
+  
   
 ### 2019
 * DEC  
