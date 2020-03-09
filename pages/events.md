@@ -24,6 +24,7 @@ description: Jose V. Die's events
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
   
   - The Journal of Horticultural Science & Biotechnology  
+  - Molecular Biology Reports
   
 <br>
   
