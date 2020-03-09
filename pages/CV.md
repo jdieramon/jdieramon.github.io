@@ -92,6 +92,7 @@
 * Gene   
 * Genes
 * Genome  
+* Horticultural Science & Biotechnology
 * International Journal of Molecular Sciences
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
