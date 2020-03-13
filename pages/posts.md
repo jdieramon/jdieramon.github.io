@@ -6,6 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2019
+ * <a href="#from-uniprot-id-to-retrieving-the-gene-name">Dec</a>   
  * <a href="#genehummus--automated-pipeline-for-gene-annotation">Jul</a>    
  * <a href="#pubmed-titles">Apr</a>    
  * <a href="#taxonomy-identifiers-and-scientific-names-ncbi">Feb</a>    
