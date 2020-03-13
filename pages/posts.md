@@ -18,6 +18,14 @@ description: Jose V. Die's blog
   
 <br>
   
+  
+## airqualityES
+Córdoba, Mar 3, 2020.  
+We are now on [CRAN](https://cran.r-project.org/web/packages/airqualityES/index.html)! The Government of Spain keeps records of air quality measurements. The raw data were originally scattered over a number of files and formats. [@caroisallin](https://twitter.com/caroisallin) and I have built a simple dataframe for convenience of researches, journalists or general public : https://github.com/jdieramon/airqualityES. 
+
+<br>
+  
+  
 ## From UniProt ID to retrieving the gene name  
 Valencia, Dec 27, 2019
 
