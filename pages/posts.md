@@ -19,10 +19,37 @@ description: Jose V. Die's blog
   
 <br>
   
-  
+## chickpea genes
+Córdoba, Mar 30, 2020.  
+As of end March 2020, the NCBI nucleotide database contains ~ 170,000 chickpea [records](https://www.ncbi.nlm.nih.gov/nuccore/?term=chickpea%5BOrganism%5D). Over 41,200 entries have a link to PubMed. 99.9% of the entries show a link to 1 paper. Only 53 genes have links to 2 or more papers. 
+
+    # Dependencies
+    library(ggplot2)
+
+    # Load data
+    load("files/pubs4chick_genes.rda")
+    
+    # Plot a subset of the sample 
+    p <- pubs4chick_genes %>% 
+    arrange(desc(npubs)) %>% 
+    slice(1:325)
+    
+    p %>% 
+    ggplot(aes(x = reorder(geneid, npubs), y = npubs)) + 
+    geom_jitter(width = 0.2, col = 2) + 
+    theme(axis.text.x = element_blank(), 
+        axis.ticks.x = element_blank()) +
+    labs(x = "", y = "N. publications") + 
+    ggtitle("Chickpea genes", subtitle = "Pubmed database")
+    
+![](files/chickpea_genes.png)
+    
+    
+
+
 ## airqualityES
 Córdoba, Mar 3, 2020.  
-We are now on [CRAN](https://cran.r-project.org/web/packages/airqualityES/index.html)! The Government of Spain keeps records of air quality measurements. The raw data were originally scattered over a number of files and formats. [@caroisallin](https://twitter.com/caroisallin) and I have built a simple dataframe for convenience of researches, journalists or general public : https://github.com/jdieramon/airqualityES. 
+We are now on [CRAN](https://cran.r-project.org/web/packages/airqualityES/index.html)! The Government of Spain keeps records of air quality measurements. The raw data were originally scattered over a number of files and formats. We have built a simple dataframe for convenience of researches, journalists or general public : https://github.com/jdieramon/airqualityES. 
 
 <br>
   
