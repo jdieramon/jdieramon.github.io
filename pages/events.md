@@ -20,6 +20,16 @@ description: Jose V. Die's events
     
     
 ### 2020  
+* MAY  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+  
+  - BMC Genomics
+  
+* APR  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
+  
+  - Scientific Reports
+  
 * MAR  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
   
