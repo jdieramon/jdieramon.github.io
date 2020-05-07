@@ -60,7 +60,10 @@ Here I'll post some material that I use in my lectures:
   * Plant genome sequencing — applications for crop improvement. [Curr Op Plant Biol](files/2014PlantGenomes.pdf), 2014.  
   * The sequence of sequencers: The history of sequencing DNA. [Genomics](files/2016%20History%20of%20Sequencing.pdf), 2016.  
   * A guide to sequence your favorite plant genomes. [Applications in Plant Sciences](files/2018%20Guide%20to%20sequence%20your%20genomes.pdf), 2018.  
-  * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
+  * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) .   
+  * Bad News Wrapped in Protein: Inside the Coronavirus Genome ([New York Times](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html), Apr 3, 2020).   
+  * How Coronavirus Mutates and Spreads ([New York Times](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html?smid=tw-nytimesscience&smtyp=cur), Apr 30, 2020). 
+  
   
   
 #### 2020.   
