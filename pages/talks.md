@@ -63,6 +63,11 @@ Here I'll post some material that I use in my lectures:
   * [Sequenced plant genomes](https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes) . 
   
   
+#### 2020.   
+* APR 21, Córdoba, Spain.  
+Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.  
+
+  
 #### 2019  
 * NOV 25 - DEC4, Córdoba, Spain.  
 [Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 4th edition. 30h. University of Cordoba.    
