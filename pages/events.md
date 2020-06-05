@@ -26,6 +26,8 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   - BMC Genomics
   
 * APR  
+Apr 21. Invited Lecturer. 'Big Data in Plant Genomics'. Subject: 'Biotechnology and Plant Breeding' -  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.
+
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
   
   - Scientific Reports
