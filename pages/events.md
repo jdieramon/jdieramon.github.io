@@ -43,8 +43,8 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   - The Journal of Horticultural Science & Biotechnology  
   - Molecular Biology Reports
   
-* Jan       
-Serving as PyCon Charlas [Reviewer](https://us.pycon.org/2020) PyCon Conference,  Pittsburgh, PA, USA. April 15-23, 2020.    
+* JAN       
+Serving as PyCon Charlas [Reviewer](https://us.pycon.org/2020) : PyCon Conference,  Pittsburgh, PA, USA. April 15-23, 2020.    
   
 <br>
   
