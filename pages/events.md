@@ -80,7 +80,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   
 * JUL  
 Academic director and lecturer of the '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. 3rd edition (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**.    
-Co-direction of the final thesis "Búsqueda bioinformática de familias génicas en genomas de cultivos" by **Rocío Sánchez Gil** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.     
+Direction of the final thesis "Búsqueda bioinformática de familias génicas en genomas de cultivos" by **Rocío Sánchez Gil** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.     
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
    - BMC Genomics
    - Frontiers in Plant Science
