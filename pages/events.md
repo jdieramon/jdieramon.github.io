@@ -20,6 +20,9 @@ description: Jose V. Die's events
     
     
 ### 2020  
+* JUL 
+COVID-19 PANDEMIC SHUTTERS CHICKPEA LAB : ‘The interruption of our projects might have an impact on our careers. We are not setting the stage for current work in our fields. But this crisis is an opportunity to promote civic responsibility.' Read more in the [Marie Curie Alumni Association Newsletter](https://www.mariecuriealumni.eu/newsletter/special-coverage-covid-19-newsletter-july-2020)  
+
 * MAY  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
   
