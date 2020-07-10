@@ -21,7 +21,13 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
+
+## Outbreak
+Córdoba, May 2020.   
   
+As part of the activities held in celebration of European Researchers’ Night at the University of Córdoba in Spain last September, MCAA fellows had the opportunity to brief Frank Marx about their projects. Meeting in the Mudéjar Hall, with its delicate ornamental plasterwork (one of the most beautiful rooms at the University Rectorate building), they informed him about nearly finished and ongoing projects. Marx heard about FORCE, a new project aimed to decipher the molecular basis of flowering time in chickpeas. As the enthusiastic new Principal Investigator, I briefed Marx about how the domestication trait defined the adaptation of the species to climatic conditions. I explained how flowering time is a major determinant of chickpea productivity. Adopting an integrative approach by combining computational plant biology and genetic resources exhibiting phenotypic diversity would allow us to understand how genetic variants combine to provide adaptation to specific environments. In the long run, we could use that knowledge for introgression of new traits into adapted genetic backgrounds. I tried but could not contain my excitement. Fast forward four months. On 13 March, we were sent home from our lab (as was the case with many other research institutions around the world). That morning, I picked some notebooks, papers, and notes from my desk. On this day, with the official numbers of COVID-19 cases reaching 4 000 and 120 confirmed deaths in Spain, all lab work and teaching activities were put on hold. I left the University without knowing I would not be able to return to my office in the following two months, maybe even more ... [read more >>](https://www.mariecuriealumni.eu/newsletter/special-coverage-covid-19-newsletter-july-2020) .  
+
+
 ## chickpea genes
 Córdoba, Mar 30, 2020.  
 As of end March 2020, the NCBI nucleotide database contains ~ 170,000 chickpea [records](https://www.ncbi.nlm.nih.gov/nuccore/?term=chickpea%5BOrganism%5D). Over 41,200 entries have a link to PubMed. 99.9% of the entries show a link to 1 paper. Only 53 genes have links to 2 or more papers. 
