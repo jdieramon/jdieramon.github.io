@@ -26,7 +26,7 @@ description: Jose V. Die's blog
 Córdoba, Jul 2020.   
 Let me introduce to you FORCE : understanding the molecular basis of flowering time in chickpea.   
 ![](files/force.png)  
-[video)(https://drive.google.com/file/d/156zGFnsj2r8tUOGc6sJAEw2zKROEgvKE/view?usp=sharing)
+[video](https://drive.google.com/file/d/156zGFnsj2r8tUOGc6sJAEw2zKROEgvKE/view?usp=sharing)
   
 
 
