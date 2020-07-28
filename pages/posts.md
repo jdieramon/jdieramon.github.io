@@ -22,6 +22,34 @@ description: Jose V. Die's blog
   
 <br>
 
+## Citations
+Córdoba, Jul 28, 2020.
+
+Using my package [h Index](https://github.com/jdieramon/hIndex) I have just estimated the citations that I will get by the end of this year : 25 more citations.   
+You can also estimate how long it takes on average to get 1 citation for your most highly accessed papers. You can download and install it from my github repo in 3 very simple steps!
+        
+    # Point to the file downloaded from SCOPUS
+    file <- "Downloads/CTOExport.csv"
+
+    # Load library
+    library(hIndexOverYears)
+
+    # Tidy data   
+    dat <- clean(file)
+  
+    # Make a plot with hindex over years 
+    h.plot(dat, 2007, 2020, 0)
+
+    # Get how long it takes 1 citation per paper
+    dat <- get1cite(dat)
+
+
+    # Expected citation for the next 5 months 
+    dat %>% 
+      filter(avgMonth < 6) %>% 
+      mutate(predicted = ceiling(5 / avgMonth))
+  
+  
 ## FORCE
 Córdoba, Jul 2020.   
 Let me introduce to you FORCE : understanding the molecular basis of flowering time in chickpea.   
