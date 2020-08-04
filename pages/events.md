@@ -18,10 +18,14 @@ description: Jose V. Die's events
   
 ![](files/xiijornadas.png)  
       
-[Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 27-31 2020. Plant Bioinformatic Resources Workshop. Talk on "Automated Clustering of Plant Gene Families from NCBI Databases".
+  
  
 ### 2020  
 * JUL   
+**Invited speaker** "Automated Clustering of Plant Gene Families from NCBI Databases". Plant Bioinformatic Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 27-31 2020.
+   
+Direction of the final thesis "Análisis bioinformático de genes candidatos para resistencia a *Fusarium oxysporum* en garbanzo" by **Alejandro Carmona Jiménez** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.    
+  
 Outbreak : COVID-19 PANDEMIC SHUTTERS CHICKPEA LAB. [Marie Curie Alumni Association Newsletter](https://www.mariecuriealumni.eu/newsletter/special-coverage-covid-19-newsletter-july-2020)  
 
 * JUN  
@@ -29,9 +33,9 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   
   - Scientific Reports  
   - Agronomy  
-     
+       
 Serving as a final degree thesis (TFG) defense committee member. ETSIAM, University of Cordoba. “Detección de la posible introgresión genética en una población de *Castanea sativa* Mill. en Galicia”. Undergraduate student :  **Mireya Salas Molina**.  JUN 25, 2020. 
-    
+      
       
 * MAY  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :  
