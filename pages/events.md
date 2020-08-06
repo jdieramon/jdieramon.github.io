@@ -289,8 +289,9 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
 Advisory Panel for the [2nd qPCR & Digital PCR Congress USA](http://www.global-engage.com/event/4bio-qpcr/). JUL 11-12, Philadelphia, PA.  
   
 * MAR  
-Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.
- 
+Serving as [Student Travel Award Committee](http://www.apsnet.org/members/foundation/apply/pages/studenttravelawards.aspx) for the American Phytopathological Society Foundation.  
+[GIFVL meeting](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/). Seminar: “Understanding the molecular regulation of anthocyanin biosynthesis in blueberry”, March 9.      
+   
   
 ### <a name="2015"></a>2015
 
