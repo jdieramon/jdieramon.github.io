@@ -6,7 +6,10 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
- * <a href="#chickpea-genes">Mar</a>   
+* <a href="#lockdown">Aug</a>   
+* <a href="#citations">Jul</a>   
+* <a href="#outbreak">May</a>   
+* <a href="#chickpea-genes">Mar</a>   
 
 ### 2019
  * <a href="#from-uniprot-id-to-retrieving-the-gene-name">Dec</a>   
@@ -21,6 +24,16 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
+
+## Lockdown
+Valencia, Aug 2020.  
+  
+Air pollution levels in Valencia. Comparative Jan-Jul 2019 vs 2020. Covid-19 pandemic lockdown was implemented from March 15 to Jun 20, 2020.   
+
+![](files/valencia_air.png) 
+Available [code](https://bookdown.org/josev_die/rpubs/rpubs.html). 
+
+
 
 ## Citations
 Córdoba, Jul 28, 2020.
