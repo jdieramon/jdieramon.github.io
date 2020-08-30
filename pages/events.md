@@ -21,6 +21,12 @@ description: Jose V. Die's events
   
  
 ### 2020  
+* AUG   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal BMC Plant Biology.    
+  
+    
+      
+      
 * JUL   
   
   * **Invited speaker** "Automated Clustering of Plant Gene Families from NCBI Databases". Plant Bioinformatic Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 27-31 2020. 
