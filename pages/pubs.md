@@ -51,10 +51,10 @@ description: Jose V. Die's publications
   
 + **Die JV**, Dita MA, Krajinski F, Gonzalez-Verdejo CI, Rubiales D, Moreno MT, Roman B. (2007) [Identification by suppression subtractive hybridization and expression analysis of Medicago truncatula putative defence genes in response to Orobanche crenata parasitization](http://www.sciencedirect.com/science/article/pii/S0885576507000525). Physiological and Molecular Plant Pathology, 70, pp. 49-59.   
   
-    
+  ---   
     
 ### <a name="chapters"></a>chapters
-+ Moreno R., Castro P., **Die JV**, Jil J. (2020). Asparagus (*Asparagus officinalis* L.) Breeding. In : Advances in Plant Breeding Strategies : Vol 9 Vegetables Crops. Springer, The Netherlands. *in press*
++ Moreno R., Castro P., **Die JV**, Gil J. (2020). Asparagus (*Asparagus officinalis* L.) Breeding. In : Advances in Plant Breeding Strategies : Vol 9 Vegetables Crops. Springer, The Netherlands. *in press*
   
 + Román B, **Die JV**., Nadal S, González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
   
