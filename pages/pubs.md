@@ -17,6 +17,8 @@ description: Jose V. Die's publications
   
 ### <a name="articles"></a>selected articles
    
++ **Die JV**, Jones RW, Ogden EL, Ehlenfeldt MK, Rowland LJ. (2020) [Characterization and Analysis of Anthocyanin-Related Genes in Wild-Type Blueberry and the Pink-Fruited Mutant Cultivar ‘Pink Lemonade’: New Insights into Anthocyanin Biosynthesis](https://www.mdpi.com/2073-4395/10/9/1296/htm). Agronomy (10), 1296.  
+  
 + Aguilar-Benitez D, Rubio J, Millán T, Gil J, **Die JV**, Castro P. (2020) [Genetic analysis reveals *PDH1* as a candidate gene for control of pod dehiscence in chickpea](https://link.springer.com/epdf/10.1007/s11032-020-01117-9?author_access_token=kj91XVl30_gEexDsIHyKkfe4RwlQNchNByi7wbcMAY4lpF-c0Q1tdLQjW1zgds35WKni1yFSCphvGLRCfcGDNYtfOKc_nZsf9S3X4OxWtglTKZierVWvgZUZqqvHPVVf8b-ianAk0KKOm2de7tuK8A%3D%3D). Molecular Breeding, 40 : 40. 
 
 + Carmona-Molero R, Jimenez-Lopez JC, Gil J, Millan T, **Die JV**. [Aldehyde dehydrogenase 3 is an expanded gene family with adaptive roles in chickpea](https://doi.org/10.1101/2019.12.17.879213). bioRxiv 2019.12.17.879213; doi:10.1101/2019.12.17.879213
