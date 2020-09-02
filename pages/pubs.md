@@ -54,6 +54,8 @@ description: Jose V. Die's publications
     
     
 ### <a name="chapters"></a>chapters
-+ Román B., **Die JV**., Nadal S., González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
++ Moreno R., Castro P., **Die JV**, Jil J. (2020). Asparagus (*Asparagus officinalis* L.) Breeding. In : Advances in Plant Breeding Strategies : Vol 9 Vegetables Crops. Springer, The Netherlands. *in press*
   
-+ Pérez-de-Luque A., Lozano MD., Maldonado AM., Jorín JV., Dita MA., **Die JV**., Román B., Rubiales D. (2007) Medicago truncatula as a model for studying interactions between root parasitic plants and legumes. In: [The Medicago truncatula Handbook](https://www.noble.org/medicago-handbook/)., pp. 1-31. Mathesius U, Journet EP, Summer LW (eds). ISBN 0-9754303-1-9. 
++ Román B, **Die JV**., Nadal S, González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
+  
++ Pérez-de-Luque A, Lozano MD, Maldonado AM, Jorín JV, Dita MA, **Die JV**, Román B, Rubiales D. (2007) Medicago truncatula as a model for studying interactions between root parasitic plants and legumes. In: [The Medicago truncatula Handbook](https://www.noble.org/medicago-handbook/)., pp. 1-31. Mathesius U, Journet EP, Summer LW (eds). ISBN 0-9754303-1-9. 
