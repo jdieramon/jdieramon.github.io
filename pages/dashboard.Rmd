@@ -1,0 +1,535 @@
+---
+title: "Populations"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r load_functions}
+source("functions.R")
+```
+
+RIP1
+======================================================
+
+Column raw data {data-width=360}
+-----------------------------------------------------------------------
+### Descriptive Statistics
+ 
+```{r load_data_rip1}
+rip <- readr::read_csv("data/RIP1.csv")
+rip %>% distinct(repetition, RIL) %>% 
+  count(repetition, name = "n. RILs") %>% 
+  knitr::kable(.)
+rip %>% count(repetition,name = "n. plants") %>% 
+  knitr::kable(.)
+```
+
+
+```{r}
+sin_emerger(rip) %>% knitr::kable(., digits = 2) 
+```
+
+ 
+```{r}
+if(nrow(muertas(rip)) ==0) {
+  print("Muertas : 0")
+} else {
+  muertas(rip) %>% knitr::kable(., digits = 2) 
+  }
+
+```
+
+ 
+```{r}
+
+if(nrow(dato_perdido(rip)) == 1) {
+  print("No hay datos perdidos en esta RIP")
+} else {
+  dato_perdido(rip) %>% knitr::kable(., digits = 2)   
+}
+
+```
+
+
+
+Column {data-width=375 .tabset}
+-----------------------------------------------------------------------
+
+### Density Plot 
+
+```{r}
+load("tmp/rip1.rda")
+```
+
+```{r}
+# Si han florecido > 150 dias no lo considero para esta figura 
+
+rip %>% filter(dias < 151) %>% 
+  ggplot(aes(dias)) + geom_density() + scale_x_continuous(limits = c(30, 160))
+```
+
+N. Plants with flowering > 150 days : `r rip %>% filter(dias > 150) %>% nrow()`
+
+
+### Histogram 
+```{r}
+rip %>% filter(dias < 151) %>% 
+  ggplot(aes(dias)) + geom_histogram(binwidth = 5) + 
+  scale_x_continuous(limits = c(30, 160))
+```
+
+
+
+
+Column {data-width=265}
+-----------------------------------------------------------------------
+
+### Flowering range (days)
+
+```{r}
+load("tmp/rip1.rda")
+interval <- paste(range(rip$dias)[1], "-", range(rip$dias)[2])
+valueBox(interval, caption = "Flowering Range (Days)",
+         icon = "fa-seedling")
+```
+
+### Datos de cámara
+
+```{r}
+rip <- readr::read_csv("data/RIP1.csv")
+#esto hay q corregirlo cuando haya plantas en camara para q saque el valor de n
+total = sin_dato(rip) %>% pull(n) %>% sum()
+con_dato = sin_dato(rip) %>% filter(sin_datoflor == FALSE) %>% pull(n) *100 / total
+
+gauge(value = con_dato, 
+      min = 0, 
+      max = 100,
+      sectors = gaugeSectors(
+        success = c(90, 100),
+        warning = c(70, 89),
+        danger = c(0, 69)
+      ),
+      symbol = "%")
+
+```
+
+
+### Parentales
+
+```{r}
+load("tmp/rip1.rda")
+parentales <- c("Ca2156(T)", "JG62(P)")
+rip %>% filter(RIL %in% parentales) %>% 
+  group_by(RIL, repetition) %>% 
+     summarize(plants = n(), 
+               avg.days = mean(dias), 
+             sd.days = sd(dias)) %>% 
+  arrange(RIL) %>% knitr::kable(., digits = 1)  
+
+```
+
+
+
+RIP8
+==================================================================
+
+
+Column raw data {data-width=360}
+-----------------------------------------------------------------------
+### Descriptive Statistics
+ 
+```{r load_data_rip8}
+rip <- readr::read_csv("data/RIP8.csv")
+rip %>% distinct(repetition, RIL) %>% 
+  count(repetition, name = "n. RILs") %>% 
+  knitr::kable(.)
+rip %>% count(repetition,name = "n. plants") %>% 
+  knitr::kable(.)
+```
+
+
+```{r}
+sin_emerger(rip) %>% knitr::kable(., digits = 2) 
+```
+
+ 
+```{r}
+if(nrow(muertas(rip)) ==0) {
+  print("Muertas : 0")
+} else {
+  muertas(rip) %>% knitr::kable(., digits = 2) 
+  }
+
+```
+
+ 
+```{r}
+
+if(nrow(dato_perdido(rip)) == 1) {
+  print("No hay datos perdidos en esta RIP")
+} else {
+  dato_perdido(rip) %>% knitr::kable(., digits = 2)   
+}
+
+```
+
+
+
+Column {data-width=375 .tabset}
+-----------------------------------------------------------------------
+
+### Density Plot 
+
+```{r}
+load("tmp/RIP8.rda")
+```
+
+```{r}
+# Si han florecido > 180 dias no lo considero para esta figura 
+
+transition = as.Date("2020-04-17")
+in.uco = as.numeric(transition - rip %>% summarize(siembra = min(emergence)) %>% pull())
+
+
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + 
+  geom_density() + 
+  scale_x_continuous(limits = c(30, 190)) +
+  geom_vline(xintercept = in.uco, linetype="dotted", 
+             color = "blue", size=1)
+
+```
+
+NO flowering plants (20 JUN 2020) : **`r rip %>% filter(flower_adj > as.Date("2020-06-15")) %>% nrow()`**  
+Plants with flowering > 180 days : **`r rip %>% filter(flower_adj < as.Date("2020-06-15") , dias > 180) %>% nrow()`**  
+  
+    
+The dotted blue line denotes the day of transition from IFAPA -> UCO.  
+
+
+
+
+### Histogram 
+```{r}
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + geom_histogram(binwidth = 5) + 
+  scale_x_continuous(limits = c(30, 190))
+```
+
+
+
+
+Column {data-width=265}
+-----------------------------------------------------------------------
+
+### Flowering range (days)
+
+```{r}
+load("tmp/RIP8.rda")
+interval <- paste(range(rip$dias)[1], "-", range(rip$dias)[2])
+valueBox(interval, caption = "Flowering Range (Days)",
+         icon = "fa-seedling")
+```
+
+### Datos de cámara
+
+```{r}
+rip <- readr::read_csv("data/RIP8.csv")
+#esto hay q corregirlo cuando haya plantas en camara para q saque el valor de n
+total = sin_dato(rip) %>% pull(n) %>% sum()
+con_dato = sin_dato(rip) %>% filter(sin_datoflor == FALSE) %>% pull(n) *100 / total
+
+gauge(value = con_dato, 
+      min = 0, 
+      max = 100,
+      sectors = gaugeSectors(
+        success = c(90, 100),
+        warning = c(70, 89),
+        danger = c(0, 69)
+      ),
+      symbol = "%")
+
+```
+
+
+### Parentales
+
+```{r}
+load("tmp/RIP8.rda")
+parentales <- c("ILC3279(T)", "WR315(P)")
+rip %>% filter(RIL %in% parentales) %>% 
+  group_by(RIL, repetition) %>% 
+     summarize(plants = n(), 
+               avg.days = mean(dias), 
+             sd.days = sd(dias)) %>% 
+  arrange(RIL) %>% knitr::kable(., digits = 1)  
+
+```
+
+
+RIP10
+==================================================================
+
+
+Column raw data {data-width=360}
+-----------------------------------------------------------------------
+### Descriptive Statistics
+ 
+```{r load_data_RIP10}
+rip <- readr::read_csv("data/RIP10.csv")
+rip %>% distinct(repetition, RIL) %>% 
+  count(repetition, name = "n. RILs") %>% 
+  knitr::kable(.)
+rip %>% count(repetition,name = "n. plants") %>% 
+  knitr::kable(.)
+```
+
+
+```{r}
+sin_emerger(rip) %>% knitr::kable(., digits = 2) 
+```
+
+ 
+```{r}
+if(nrow(muertas(rip)) ==0) {
+  print("Muertas : 0")
+} else {
+  muertas(rip) %>% knitr::kable(., digits = 2) 
+  }
+
+```
+
+ 
+```{r}
+
+if(nrow(dato_perdido(rip)) == 1) {
+  print("No hay datos perdidos en esta RIP")
+} else {
+  dato_perdido(rip) %>% knitr::kable(., digits = 2)   
+}
+
+```
+
+
+
+Column {data-width=375 .tabset}
+-----------------------------------------------------------------------
+
+### Density Plot 
+
+```{r}
+load("tmp/RIP10.rda")
+```
+
+```{r}
+# Si han florecido > 180 dias no lo considero para esta figura 
+
+transition = as.Date("2020-03-20")
+in.uco = as.numeric(transition - rip %>% summarize(siembra = min(emergence)) %>% pull())
+  
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + geom_density() + 
+  scale_x_continuous(limits = c(30, 190)) +
+  geom_vline(xintercept = in.uco, linetype="dotted", 
+                color = "blue", size=1)
+```
+
+NO flowering plants (20 JUN 2020) : **`r rip %>% filter(flower_adj > as.Date("2020-06-15")) %>% nrow()`**  
+Plants with flowering > 180 days : **`r rip %>% filter(flower_adj < as.Date("2020-06-15"), dias > 180) %>% nrow()`**  
+  
+  
+The dotted blue line denotes the day of transition from IFAPA -> UCO.  
+
+
+### Histogram 
+```{r}
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + geom_histogram(binwidth = 5) + 
+  scale_x_continuous(limits = c(30, 190))
+```
+
+
+
+
+Column {data-width=265}
+-----------------------------------------------------------------------
+
+### Flowering range (days)
+
+```{r}
+load("tmp/RIP10.rda")
+interval <- paste(range(rip$dias)[1], "-", range(rip$dias)[2])
+valueBox(interval, caption = "Flowering Range (Days)",
+         icon = "fa-seedling")
+```
+
+### Datos de cámara
+
+```{r}
+rip <- readr::read_csv("data/RIP10.csv")
+#esto hay q corregirlo cuando haya plantas en camara para q saque el valor de n
+total = sin_dato(rip) %>% pull(n) %>% sum()
+con_dato = sin_dato(rip) %>% filter(sin_datoflor == FALSE) %>% pull(n) *100 / total
+
+gauge(value = con_dato, 
+      min = 0, 
+      max = 100,
+      sectors = gaugeSectors(
+        success = c(90, 100),
+        warning = c(70, 89),
+        danger = c(0, 69)
+      ),
+      symbol = "%")
+
+```
+
+
+### Parentales
+
+```{r}
+load("tmp/RIP10.rda")
+parentales <- c("ILC72(T)", "JG62(P)")
+rip %>% filter(RIL %in% parentales) %>% 
+  group_by(RIL, repetition) %>% 
+     summarize(plants = n(), 
+               avg.days = mean(dias), 
+             sd.days = sd(dias)) %>% 
+  arrange(RIL) %>% knitr::kable(., digits = 1)  
+
+```
+
+
+
+RIP12
+==================================================================
+
+
+Column raw data {data-width=360}
+-----------------------------------------------------------------------
+### Descriptive Statistics
+ 
+```{r load_data_RIP12}
+rip <- readr::read_csv("data/RIP12.csv")
+rip %>% distinct(repetition, RIL) %>% 
+  count(repetition, name = "n. RILs") %>% 
+  knitr::kable(.)
+rip %>% count(repetition,name = "n. plants") %>% 
+  knitr::kable(.)
+```
+
+
+```{r}
+sin_emerger(rip) %>% knitr::kable(., digits = 2) 
+```
+
+ 
+```{r}
+if(nrow(muertas(rip)) ==0) {
+  print("Muertas : 0")
+} else {
+  muertas(rip) %>% knitr::kable(., digits = 2) 
+  }
+
+```
+
+ 
+```{r}
+
+if(nrow(dato_perdido(rip)) == 1) {
+  print("No hay datos perdidos en esta RIP")
+} else {
+  dato_perdido(rip) %>% knitr::kable(., digits = 2)   
+}
+
+```
+
+
+
+Column {data-width=375 .tabset}
+-----------------------------------------------------------------------
+
+### Density Plot 
+
+```{r}
+load("tmp/RIP12.rda")
+```
+
+```{r}
+# Si han florecido > 180 dias no lo considero para esta figura 
+
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + geom_density() + 
+  scale_x_continuous(limits = c(30, 190))
+```
+
+NO flowering plants (20 JUN 2020) : **`r rip %>% filter(flower > as.Date("2020-06-20")) %>% nrow()`**  
+Plants with flowering > 180 days : **`r rip %>% filter(flower < as.Date("2020-06-20"), dias > 180) %>% nrow()`**  
+
+
+
+
+### Histogram 
+```{r}
+rip %>% filter(dias < 181) %>% 
+  ggplot(aes(dias)) + geom_histogram(binwidth = 5) + 
+  scale_x_continuous(limits = c(30, 190))
+```
+
+
+
+
+Column {data-width=265}
+-----------------------------------------------------------------------
+
+### Flowering range (days)
+
+```{r}
+load("tmp/RIP12.rda")
+interval <- paste(range(rip$dias)[1], "-", range(rip$dias)[2])
+valueBox(interval, caption = "Flowering Range (Days)",
+         icon = "fa-seedling")
+```
+
+### Datos de cámara
+
+```{r}
+rip <- readr::read_csv("data/RIP12.csv")
+#esto hay q corregirlo cuando haya plantas en camara para q saque el valor de n
+total = sin_dato(rip) %>% pull(n) %>% sum()
+con_dato = sin_dato(rip) %>% filter(sin_datoflor == FALSE) %>% pull(n) *100 / total
+
+gauge(value = con_dato, 
+      min = 0, 
+      max = 100,
+      sectors = gaugeSectors(
+        success = c(90, 100),
+        warning = c(70, 89),
+        danger = c(0, 69)
+      ),
+      symbol = "%")
+
+```
+
+
+### Parentales
+
+```{r}
+load("tmp/RIP12.rda")
+parentales <- c("Cr5-9(T)", "ICCL81001(P)")
+rip %>% filter(RIL %in% parentales) %>% 
+  group_by(RIL, repetition) %>% 
+     summarize(plants = n(), 
+               avg.days = mean(dias), 
+             sd.days = sd(dias)) %>% 
+  arrange(RIL) %>% knitr::kable(., digits = 1)  
+
+```
+
