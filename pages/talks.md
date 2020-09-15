@@ -13,7 +13,7 @@ description: Jose V. Die's talks
 ### Talks and Seminars
 
 ### 2020
-* **Invited speaker** “Automated Clustering of Plant Gene Families from NCBI Databases”. Plant Bioinformatic Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 29, 2020.    
+* **Invited speaker** “Automated Clustering of Plant Gene Families from NCBI Databases”. Plant Bioinformatics Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 29, 2020.    
   
   
 #### 2019    
