@@ -29,7 +29,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
       
 * JUL   
   
-  * **Invited speaker** "Automated Clustering of Plant Gene Families from NCBI Databases". Plant Bioinformatic Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 27-31 2020. 
+  * **Invited speaker** "Automated Clustering of Plant Gene Families from NCBI Databases". Plant Bioinformatics Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 27-31 2020. 
   * Direction of the final thesis "Análisis bioinformático de genes candidatos para resistencia a *Fusarium oxysporum* en garbanzo" by **Alejandro Carmona Jiménez** (Bachelor degree). Dept. Genetics, ETSIAM, University of Cordoba.
   * Outbreak : COVID-19 PANDEMIC SHUTTERS CHICKPEA LAB. [Marie Curie Alumni Association Newsletter](https://www.mariecuriealumni.eu/newsletter/special-coverage-covid-19-newsletter-july-2020)  
 
