@@ -12,6 +12,10 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2020
+* **Invited speaker** “Automated Clustering of Plant Gene Families from NCBI Databases”. Plant Bioinformatic Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 29, 2020.    
+  
+  
 #### 2019    
   
 * **Invited speaker** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
