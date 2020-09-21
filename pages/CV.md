@@ -96,6 +96,7 @@
 * International Journal of Molecular Sciences
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
+* Microorganisms  
 * Molecular Biology Reports  
 * Molecules  
 * PeerJ
