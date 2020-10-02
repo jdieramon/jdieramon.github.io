@@ -22,7 +22,14 @@ description: Jose V. Die's events
  
 ### 2020  
 * SEP   
-Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the the **Open Access** journal : Microorganisms.  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the the **Open Access** journal : Microorganisms.    
+
+In our latest paper we found several mutations in highly conserved features of a blueberry *MYB* transcription factor that affect the regulation of the anthocyanin biosynthesis. You can read about it [here](https://www.mdpi.com/2073-4395/10/9/1296). We just knew that the paper was selected as the journal issue cover.  It's pretty exciting!  
+
+![](files/agronomycover.png)  
+        
+          
+            
     
 * AUG   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal BMC Plant Biology.    
