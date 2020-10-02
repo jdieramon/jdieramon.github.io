@@ -6,6 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
+* <a href="#understanding-molecular-mechanisms-regulating-anthocyanin-biosynthesis-in-blueberry">Sep</a>  
 * <a href="#lockdown">Aug</a>   
 * <a href="#citations">Jul</a>   
 * <a href="#outbreak">May</a>   
@@ -25,6 +26,19 @@ description: Jose V. Die's blog
   
 <br>
 
+## Understanding Molecular Mechanisms Regulating Anthocyanin Biosynthesis in Blueberry
+Córdoba, Sep 1, 2020.
+  
+Blueberries are one of the richest sources of antioxidants, such as anthocyanins, among fruits and vegetables. The characteristic dark blue colored fruit results from the accumulation of anthocyanins in the skin of the berry. 
+   
+In this study, we used the pink-fruited ‘Pink Lemonade’ to further our understanding of anthocyanin biosynthesis in blueberry and attempt to identify the affected gene in this mutant. Expression analysis of the metabolic structural genes combined with bioinformatic analyses led to the isolation and sequencing of a regulatory gene: the transcription factor *MYB1*. The presence of sequence variants in the *MYB1* gene, along with changes in highly conserved features of the sequence, provide a mechanistic explanation for the mutant phenotype. 
+   
+Collectively, these results provide valuable information on the regulation of flavonoid biosynthesis in blueberry.     
+  
+    
+Read the paper in [Agronomy](https://www.mdpi.com/2073-4395/10/9/1296)  
+    
+    
 ## Lockdown
 Valencia, Aug 2020.  
   
