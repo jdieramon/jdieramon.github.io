@@ -6,7 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
-* <a href="##cover">Sep</a>   
+* <a href="#cover">Sep</a>   
 * <a href="#understanding-molecular-mechanisms-regulating-anthocyanin-biosynthesis-in-blueberry">Sepo</a>  
 * <a href="#lockdown">Aug</a>   
 * <a href="#citations">Jul</a>   
