@@ -6,7 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
-* <a href="#cover">Sep</a>   
+* <a href="#weve-cover">Sep</a>   
 * <a href="#understanding-molecular-mechanisms-regulating-anthocyanin-biosynthesis-in-blueberry">Sep</a>  
 * <a href="#lockdown">Aug</a>   
 * <a href="#citations">Jul</a>   
@@ -27,7 +27,7 @@ description: Jose V. Die's blog
   
 <br>
 
-## Cover
+## We've Cover
 Córdoba, Sep 21, 2020.  
 In our latest paper we found several mutations in highly conserved features of a blueberry *MYB* transcription factor that affect the regulation of the anthocyanin biosynthesis. You can read about it [here](https://www.mdpi.com/2073-4395/10/9/1296). We just knew that the paper was selected as the journal issue cover.  It's pretty exciting!  
 
