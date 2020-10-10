@@ -6,7 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
-* <a href="#global-yields-">Oct</a>    
+* <a href="#global-yields">Oct</a>
 * <a href="#weve-got-a-cover-">Sep</a>    
 * <a href="#lockdown">Aug</a>   
 * <a href="#citations">Jul</a>   
