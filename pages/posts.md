@@ -6,6 +6,7 @@ description: Jose V. Die's blog
 [Home](../index.html)
 
 ### 2020
+* <a href="#global-yields-">Oct</a>    
 * <a href="#weve-got-a-cover-">Sep</a>    
 * <a href="#lockdown">Aug</a>   
 * <a href="#citations">Jul</a>   
@@ -26,11 +27,50 @@ description: Jose V. Die's blog
   
 <br>
 
+## Global yields
+Córdoba, Oct 10, 2020.    
+Original data comes from [Our World in Data](https://ourworldindata.org/crop-yields). There is a lot of data on that site. I focused on legumes because my research concerns these species. 
+          
+    # Dependencies
+    library(tidyverse)
+    
+    # Load data
+    crops <- read_csv("files/FAOSTAT_data_9-26-2020.csv")
+    
+    # Make tidy 
+    crops <- crops %>% 
+             select(Area,Item,Year, Unit, Value)
+    
+    # Check yield units
+    crops %>% 
+          count(Unit)
+          
+    crops <- crops %>% 
+            mutate(Value = Value / 10, Unit = "kg/ha")
+            
+              
+    # Make a plot
+    crops %>% 
+          group_by(Year) %>% 
+          summarize(yield = sum(Value)) %>%
+          ggplot(aes(Year, yield)) + 
+          geom_line(alpha = 0.8, size = 1.3, col = "steelblue") +
+          labs(x = "", y = "kg/ha", caption = "Data source: FAO (Sep 26, 2020)") + 
+          ggtitle("Legumes Global Yield") +
+          scale_y_continuous(labels = scales::comma_format())
+
+![](files/yield.png) 
+
+
 ## We've got a Cover !
 Córdoba, Sep 21, 2020.  
 In our latest paper we found several mutations in highly conserved features of a blueberry *MYB* transcription factor that affect the regulation of the anthocyanin biosynthesis. You can read about it [here](https://www.mdpi.com/2073-4395/10/9/1296). We just knew that the paper was selected as the journal issue cover.  It's pretty exciting!  
 
 ![](files/agronomycover.png) 
+
+ 
+<br>
+
 
 ## Understanding Molecular Mechanisms Regulating Anthocyanin Biosynthesis in Blueberry
 Córdoba, Sep 1, 2020.
@@ -43,6 +83,9 @@ Collectively, these results provide valuable information on the regulation of fl
   
     
 Read the paper in [Agronomy](https://www.mdpi.com/2073-4395/10/9/1296)  
+ 
+<br>
+
     
     
 ## Lockdown
@@ -52,6 +95,9 @@ Air pollution levels in Valencia. Comparative Jan-Jul 2019 vs 2020. Covid-19 pan
 
 ![](files/valencia_air.png) 
 Available [code](https://bookdown.org/josev_die/rpubs/rpubs.html). 
+
+ 
+<br>
 
 
 
@@ -81,6 +127,9 @@ You can also estimate how long it takes on average to get 1 citation for your mo
     dat %>% 
       filter(avgMonth < 6) %>% 
       mutate(predicted = ceiling(5 / avgMonth))
+ 
+<br>
+
   
   
 ## FORCE
@@ -89,6 +138,9 @@ Let me introduce to you FORCE : understanding the molecular basis of flowering t
 ![](files/force.png)  
 [video](https://twitter.com/jdieramon/status/1279787521954795525)
   
+ 
+<br>
+
 
 
   
@@ -97,6 +149,9 @@ Córdoba, May 2020.
 
 
 As part of the activities held in celebration of European Researchers’ Night at the University of Córdoba in Spain last September, MCAA fellows had the opportunity to brief Frank Marx about their projects. Meeting in the Mudéjar Hall, with its delicate ornamental plasterwork (one of the most beautiful rooms at the University Rectorate building), they informed him about nearly finished and ongoing projects. Marx heard about FORCE, a new project aimed to decipher the molecular basis of flowering time in chickpeas. As the enthusiastic new Principal Investigator, I briefed Marx about how the domestication trait defined the adaptation of the species to climatic conditions. I explained how flowering time is a major determinant of chickpea productivity. Adopting an integrative approach by combining computational plant biology and genetic resources exhibiting phenotypic diversity would allow us to understand how genetic variants combine to provide adaptation to specific environments. In the long run, we could use that knowledge for introgression of new traits into adapted genetic backgrounds. I tried but could not contain my excitement. Fast forward four months. On 13 March, we were sent home from our lab (as was the case with many other research institutions around the world). That morning, I picked some notebooks, papers, and notes from my desk. On this day, with the official numbers of COVID-19 cases reaching 4 000 and 120 confirmed deaths in Spain, all lab work and teaching activities were put on hold. I left the University without knowing I would not be able to return to my office in the following two months, maybe even more ... [read more >>](https://www.mariecuriealumni.eu/newsletter/special-coverage-covid-19-newsletter-july-2020) .  
+ 
+<br>
+
 
 
 ## chickpea genes
@@ -125,6 +180,9 @@ As of end March 2020, the NCBI nucleotide database contains ~ 170,000 chickpea [
 ![](files/chickpea_genes.png)
     
     
+ 
+<br>
+
 
 
 ## airqualityES
@@ -153,7 +211,10 @@ Valencia, Dec 27, 2019
     
 ![](files/uniprot.png)
     
-    
+  
+<br>
+
+   
 
 ## Getting taxonomy description   
 Córdoba, Dec 12, 2019.    
@@ -184,6 +245,9 @@ Córdoba, Dec 12, 2019.
     vals <- get_taxonomy(taxids)
 
 ![](files/taxonomy.png)
+ 
+<br>
+
 
   
 ## geneHummus : automated pipeline for gene annotation  
@@ -192,6 +256,9 @@ Córdoba, Jul 20, 2019.
 We designed *geneHummus*, a novel R package to identify and characterize members of a plant gene family. Our pipeline is suitable for any taxonomic plant, vastly improving the speed and ease of genomic data processing. The pipeline was mostly designed at the National Center for Biotechnology Information in Bethesda (MD) during May 2018 and we have been working ever since. Documentation is available on [Github](https://github.com/NCBI-Hackathons/GeneHummus/blob/master/vignettes/genHummus.md) and the package is available on [CRAN](https://cran.r-project.org/web/packages/geneHummus/index.html).  
   
 Read the paper on [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5952-2).  
+ 
+<br>
+
 
 ## PubMed titles
 Córdoba, Apr 25, 2019.   
@@ -224,6 +291,9 @@ Here is the code :
                           
                       
 ![](files/pubMed.png)
+ 
+<br>
+
 
 
 ## Getting descendent taxa 
@@ -303,8 +373,6 @@ From taxonomy id to scientific name :
 
 
 <br>
-
-
 
 
 ## h Index
