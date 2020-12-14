@@ -17,10 +17,20 @@ description: Jose V. Die's events
 ### Coming Events 
   
 ![](files/xiijornadas.png)  
-      
+
+[XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
+        
   
  
 ### 2020  
+* DEC  
+  * Direction of the final degree thesis "Estructura y composicion de las regiones no-recombinantes del garbanzo (*Cicer arietinum*)" by **Juan Casado Marmol**. Dept. Genetics, ETSIAM, University of Cordoba.  
+    
+    
+    
+* NOV    
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journal :  Sustainability.        
+
 * OCT   
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the **Open Access** journals :   
   
