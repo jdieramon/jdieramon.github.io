@@ -19,8 +19,23 @@ description: Jose V. Die's events
 ![](files/xiijornadas.png)  
 
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
+
+![](files/hackathon.png)  
+[Hackathon Biodata UCO](https://biodatauco.github.io/). Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).  
+
+
         
+### 2021  
+* FEB   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :   
   
+   * Science Reports    
+   * BMC Plant Biology  
+   * Forests
+   * Frontiers in Plant Science  
+  
+* JAN   
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal BMC Plant Biology.  
  
 ### 2020  
 * DEC  
