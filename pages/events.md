@@ -25,6 +25,8 @@ description: Jose V. Die's events
 ![](files/hackathon.png)  
 [Hackathon Biodata UCO](https://biodatauco.github.io/). Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).  
   
+Marie Skłodowska-Curie Actions [Fellow of the week](https://www.facebook.com/135877696485772/posts/5450071861732969/)!      
+    
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journals :   
   
    * Cytogenetic and Genome Research  
