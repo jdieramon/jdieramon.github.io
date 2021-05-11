@@ -21,6 +21,14 @@ description: Jose V. Die's events
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
 
 ### 2021    
+* MAY   
+Hackathon Biodata UCO [Awards](https://www.uco.es/investigacion/ucci/es/?option=com_k2&view=item&id=3365:entregados-los-premios-del-primer-hackathon-biodatauco-sobre-aprendizaje-automatico&Itemid=229).     
+
+* APR  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
+  
+   * Analytical Biochemistry   
+
 * MAR   
 ![](files/hackathon.png)  
 [Hackathon Biodata UCO](https://biodatauco.github.io/). Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).  
