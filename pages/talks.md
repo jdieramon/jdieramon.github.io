@@ -70,9 +70,13 @@ Here I'll post some material that I use in my lectures:
   
   
   
+#### 2021     
+* APR 14, Córdoba, Spain.  
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.  
+
 #### 2020.   
 * APR 21, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.  
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.  
 
   
 #### 2019  
@@ -83,7 +87,7 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breedi
 [Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}. 3rd edition. 30h. University of Cordoba.  
   
 * APR 30, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'- Master's Degree in Agronomic Engineering. University of Cordoba.
 
 
 #### 2018  
@@ -91,29 +95,29 @@ Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breedi
 Introduction to R programming for Data Science. 2nd edition. 30h. University of Cordoba. 
 
 * NOV 27-29, Córdoba, Spain.  
-Lecture series on 'Introduction to R programming for Data Science’'. 10h. [Master’s Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). University of Cordoba. 
+**Invited Lecture** series on 'Introduction to R programming for Data Science’'. 10h. [Master’s Degree in Representation and Design in Engineering and Architecture](https://www.uco.es/estudios/idep/masteres/representacion-diseno-ingenieria-arquitectura). University of Cordoba. 
 
 * JUL 9-13, Córdoba, Spain.  
 Introduction to R programming for Data Science. 1st edition. 30h. University of Cordoba.   
 
 * MAY 25, Bethesda, MD.  
-Lecture on Data Analysis, and Visualization for The City University of New York (CUNY). 2h. Visiting Bioinformaticians Program. National Center for Biotechnlogy Information.    
+**Invited Lecture** on Data Analysis, and Visualization for The City University of New York (CUNY). 2h. Visiting Bioinformaticians Program. National Center for Biotechnlogy Information.    
 
 * APR 16, Córdoba, Spain.  
-Lecture on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
+**Invited Lecture** on 'Molecular regulation of anthocyanins in blueberry'. -  [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
 
 * APR 12, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'-  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.  
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Biotechnology and Plant Breeding'-  [Master's Degree in Agronomic Engineering](https://www.uco.es/etsiam/master-ingenieria-agronomica/index.html). University of Cordoba.  
 
 * FEB 7, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Molecular markers in Plant Breeding'-  [Master's Degree in Biotechnology](https://www.uco.es/estudios/idep/masteres/biotecnologia). University of Cordoba. 
 
 #### 2017
 * DEC 12, Córdoba, Spain.  
-Lecture on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba. 
+**Invited Lecture** on 'Fundamentals of real-time qPCR'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba. 
 
 * OCT 19, Córdoba, Spain.  
-Lecture on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
+**Invited Lecture** on 'Big Data in Plant Genomics'. Course: 'Marcadores Moleculares y su uso en Mejora Vegetal'. [Master's Degree in Plant Production, Protection and Improvement](https://www.uco.es/estudios/idep/masteres/node/211). University of Cordoba.  
 
 * OCT 5, Córdoba, Spain.  
 **Invited Lecture** on 'Big Data in Plant Genomics'. Course: '[Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0](http://www.uco.es/etsiam/bigdata17/)'. University of Cordoba.  
