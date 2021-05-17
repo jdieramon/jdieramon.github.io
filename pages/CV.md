@@ -88,6 +88,7 @@
 * BMC Molecular Biology  
 * BMC Plant Biology   
 * Ecotoxicology   
+* Evolutionary Bioinformatics 
 * Frontiers in Plant Science
 * Gene   
 * Genes
