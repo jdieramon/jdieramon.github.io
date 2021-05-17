@@ -23,6 +23,9 @@ description: Jose V. Die's events
 ### 2021    
 * MAY   
 Hackathon Biodata UCO [Awards](https://www.uco.es/investigacion/ucci/es/?option=com_k2&view=item&id=3365:entregados-los-premios-del-primer-hackathon-biodatauco-sobre-aprendizaje-automatico&Itemid=229).     
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
+  
+   * Evolutionary Bioinformatics   
 
 * APR  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
