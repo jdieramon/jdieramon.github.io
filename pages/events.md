@@ -21,6 +21,10 @@ description: Jose V. Die's events
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
 
 ### 2021    
+* JUL  
+Invited Panel Discussion : "Investiga, Publica y Twittea". [XI Encuentro Estudiantes de Doctorado](https://www.ias.csic.es/xi-encuentro-de-estudiantes-de-doctorado-ias-2021-en-modalidad-online-2-julio-2021/). Instituto de Agricultura Sostenible - CSIC. Córdoba  
+
+
 * MAY   
 Hackathon Biodata UCO [Awards](https://www.uco.es/investigacion/ucci/es/?option=com_k2&view=item&id=3365:entregados-los-premios-del-primer-hackathon-biodatauco-sobre-aprendizaje-automatico&Itemid=229).     
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
