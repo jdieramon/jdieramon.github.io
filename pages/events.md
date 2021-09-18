@@ -21,6 +21,12 @@ description: Jose V. Die's events
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
 
 ### 2021    
+* SEP  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
+  
+   * Plant Physiology and Biochemistry   
+  
+
 * JUL  
 Invited Panel Discussion : "Investiga, Publica y Twittea". [XI Encuentro Estudiantes de Doctorado](https://www.ias.csic.es/xi-encuentro-de-estudiantes-de-doctorado-ias-2021-en-modalidad-online-2-julio-2021/). Instituto de Agricultura Sostenible - CSIC. Córdoba  
 Direction of the Final Master Degree thesis "Anotación estructural y funcional del cromosoma 4 de Cicer reticulatum " by **Alejandro Carmona Jiménez**. Dept. Genetics, ETSIAM, University of Cordoba.  
