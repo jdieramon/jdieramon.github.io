@@ -87,14 +87,17 @@
 * BMC Genomics    
 * BMC Molecular Biology  
 * BMC Plant Biology   
+* Cytogenetic and Genome Research
 * Ecotoxicology   
 * Evolutionary Bioinformatics 
+* Forests
 * Frontiers in Plant Science
 * Gene   
 * Genes
 * Genome  
 * Horticultural Science & Biotechnology
 * International Journal of Molecular Sciences
+* Journal of the American Society for Horticultural Science   
 * Journal of Experimental Botany   
 * Journal of Plant Physiology   
 * Microorganisms  
