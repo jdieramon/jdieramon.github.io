@@ -54,7 +54,7 @@ description: Jose V. Die's publications
   ---   
     
 ### <a name="chapters"></a>chapters
-+ Moreno R., Castro P., **Die JV**, Gil J. (2020). Asparagus (*Asparagus officinalis* L.) Breeding. In : Advances in Plant Breeding Strategies : Vol 9 Vegetables Crops. Springer, The Netherlands. *in press*
++ Moreno R., Castro P., **Die JV**, Gil J. (2021). Asparagus (*Asparagus officinalis* L.) Breeding. In : [Advances in Plant Breeding Strategies](https://www.springer.com/gp/book/9783030669607#aboutBook) : Vol 9 Vegetables Crops. Springer, The Netherlands. ISBN 978-3-030-66960-7.  
   
 + Román B, **Die JV**., Nadal S, González-Verdejo CI (2011) OROBANCHE. In: [Genetics, Genomics and Breeding of Cool Season Grain Legumes](https://www.crcpress.com/Genetics-Genomics-and-Breeding-of-Cool-Season-Grain-Legumes/de-la-Vega-Torres-Cubero-Kole/p/book/9781578087655). Perez M, Torres AM, Cubero JI, Kole C (eds). Science Publishers, Inc., New Hampshire, Jersey, Plymouth. ISBN 9781578087655. 
   
