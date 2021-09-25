@@ -24,8 +24,12 @@ description: Jose V. Die's events
 * SEP  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
   
-   * Plant Physiology and Biochemistry   
-  
+   * Plant Physiology and Biochemistry 
+   * Plant and Molecular Biology of Plants
+   * Horticulturae  
+
+Direction of the Final Degree thesis "Aprendizaje supervisado para determinación de emergencia en maceta" by **Rafael Postigo Luque**. Dept. Genetics, ETSIAM, University of Cordoba.
+
 
 * JUL  
 Invited Panel Discussion : "Investiga, Publica y Twittea". [XI Encuentro Estudiantes de Doctorado](https://www.ias.csic.es/xi-encuentro-de-estudiantes-de-doctorado-ias-2021-en-modalidad-online-2-julio-2021/). Instituto de Agricultura Sostenible - CSIC. Córdoba  
