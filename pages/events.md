@@ -21,6 +21,11 @@ description: Jose V. Die's events
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
 
 ### 2021    
+* OCT  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
+  
+   * Scientific Reports 
+
 * SEP  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
   
