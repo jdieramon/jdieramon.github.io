@@ -25,6 +25,7 @@ description: Jose V. Die's events
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
   
    * Scientific Reports 
+   * Gene
 
 * SEP  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
