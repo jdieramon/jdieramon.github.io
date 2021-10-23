@@ -14,6 +14,6 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 
 <br>
 Funding. 
-![](pages/filesrstudio.jpeg){ width=10% }
+![](pages/files/rstudio.jpeg){ width=10% }.   
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
