@@ -14,7 +14,11 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 
 <br>
 ### Funding    
-![](pages/files/aei.jpeg) ![](pages/files/feder.png) ![](pages/files/mariec.png)    
+![](pages/files/aei.jpeg)   
+<br>
+![](pages/files/feder.png) 
+<br>
+![](pages/files/mariec.png)    
 
 <br>
 
