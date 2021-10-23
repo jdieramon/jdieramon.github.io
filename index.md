@@ -13,7 +13,7 @@ At the University of Córdoba, I teach an introductory [Course for Data Analysis
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
 
 <br>
-
-
+Funding. 
+![](pages/filesrstudio.jpeg){ width=10% }
 ### Contact
 The best way to contact me is by [email](mailto:jose.die@uco.es).
