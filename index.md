@@ -14,7 +14,7 @@ If you like, network with me on [Github](https://github.com/jdieramon) or [Twitt
 
 <br>
 ### Funding    
-![](pages/files/aei.jpeg){ width=10% } ![](pages/files/feder.jpeg){ width=10% }    
+![](pages/files/aei.jpeg){ width=10% } ![](pages/files/feder.png){ width=10% }    
 
 <br>
 
