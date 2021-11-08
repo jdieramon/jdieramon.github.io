@@ -67,10 +67,11 @@
 <br>
   
 ### Scientific Societies  
-* American Society of Plant Biologists                 (2015 - present)  
-* The American Phytopathological Society               (2015 - present)  
-* Sociedad Española de Bioquímica y Biología Molecular (2014 - present)  
-* Sociedad Española de Genética                        (2008 - present)  
+* Sociedad Española de Bioinformática y Biología Computacional (2021 - present)  
+* American Society of Plant Biologists                         (2015 - present)  
+* The American Phytopathological Society                       (2015 - present)  
+* Sociedad Española de Bioquímica y Biología Molecular         (2014 - present)  
+* Sociedad Española de Genética                                (2008 - present)  
   
 <br>
   
