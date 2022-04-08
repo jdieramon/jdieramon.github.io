@@ -23,9 +23,12 @@ description: Jose V. Die's events
 
 ### 2022    
 * MAR  
-Serving as a PhD final defense committee member. [Universidad de Extremadura](https://www.unex.es/?set_language=en&cl=en). “ Diversidad de *Castanea sativa* Mill. en base a marcadores genéticos relacionados con el estrés hídrico y la tolerancia a *Phytophthora cinnamomi* Rands”. PhD candidate: Nelly Vicente Dólera.
+Serving as a PhD final defense committee member. [Universidad de Extremadura](https://www.unex.es/?set_language=en&cl=en). “Diversidad de *Castanea sativa* Mill. en base a marcadores genéticos relacionados con el estrés hídrico y la tolerancia a *Phytophthora cinnamomi* Rands”. PhD candidate: **Francisco Alcaide Romero**.
 
 ### 2021    
+* DEC  
+DEC 9-17. Cordoba. New edition of our course '[Introduction to R programming for Data Science](https://jdieramon.github.io/CursoAnalisisDatos/){:target="_blank"}'. (30h). University of Cordoba. **If you are interested in organize this course in your institution, please [contact](mailto:@q72pecam@uco.es) us**  
+
 * OCT  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
   
