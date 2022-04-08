@@ -20,6 +20,11 @@ description: Jose V. Die's events
 
 [XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
 
+
+### 2022    
+* MAR  
+Serving as a PhD final defense committee member. [Universidad de Extremadura](https://www.unex.es/?set_language=en&cl=en). “ Diversidad de *Castanea sativa* Mill. en base a marcadores genéticos relacionados con el estrés hídrico y la tolerancia a *Phytophthora cinnamomi* Rands”. PhD candidate: Nelly Vicente Dólera.
+
 ### 2021    
 * OCT  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
