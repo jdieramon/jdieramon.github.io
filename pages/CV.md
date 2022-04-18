@@ -105,6 +105,7 @@
 * Molecular Biology Reports  
 * Molecules  
 * PeerJ
+* Phytopathologia Mediterranea
 * Plant Methods
 * Plant Molecular Biology Reporter 
 * Plant Physiology and Biochemistry
