@@ -94,6 +94,7 @@
 * Forests
 * Frontiers in Plant Science
 * Gene   
+* Genetica  
 * Genes
 * Genome  
 * Horticultural Science & Biotechnology
