@@ -22,6 +22,12 @@ description: Jose V. Die's events
 
 
 ### 2022    
+* MAY  
+Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal : 
+  
+  * Plant Physiology and Biochemistry
+
+
 * APR  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal : 
   
@@ -29,7 +35,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   * Plant Physiology and Biochemistry
   * Genetica
   
-Editorial Board Member of the journal [Horticulturae](https://www.mdpi.com/journal/horticulturae).   
+Joining the Editorial Board Member of the journal [Horticulturae](https://www.mdpi.com/journal/horticulturae).   
  
 * MAR  
 Serving as a PhD final defense committee member. [Universidad de Extremadura](https://www.unex.es/?set_language=en&cl=en). “Diversidad de *Castanea sativa* Mill. en base a marcadores genéticos relacionados con el estrés hídrico y la tolerancia a *Phytophthora cinnamomi* Rands”. PhD candidate: **Francisco Alcaide Romero**.
