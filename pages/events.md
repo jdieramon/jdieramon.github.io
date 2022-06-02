@@ -23,6 +23,8 @@ description: Jose V. Die's events
 
 ### 2022    
 * MAY  
+MAY 23 - 27.  Teaching at [Universita di Napoli Federico II](https://twitter.com/jdieramon/status/1528670196558331904?s=20&t=9DFlcmqPEZPj9sR5ySSSYg), Italy. Stay supported by [Erasmus+](https://erasmus-plus.ec.europa.eu/es/acerca-de-erasmus/que-es-erasmus) Program and [ceiA3](http://www.ceia3.es/internacionalizacion/).  
+
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal : 
   
   * Plant Physiology and Biochemistry
