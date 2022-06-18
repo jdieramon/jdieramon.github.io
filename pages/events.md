@@ -16,7 +16,7 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
-  
+![](files/specia_issue.png)
    
 ### 2022    
 * JUN   
