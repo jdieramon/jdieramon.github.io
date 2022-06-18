@@ -16,12 +16,12 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
-![](files/xiijornadas.png)  
-
-[XV International Asparagus Symposium](https://www.ias2022.com/) (12-15th June 2022, Cordoba).  
-
-
+  
+   
 ### 2022    
+* JUN   
+ **Oral presentation** "Asparagus Breeding Program in Córdoba (Spain)". Session Genetics and Breeding. [XV International Asparagus Symposium](https://www.ias2022.com/), June 12-15 2022. 
+ 
 * MAY  
 MAY 23 - 27.  Teaching at [Universita di Napoli Federico II](https://twitter.com/jdieramon/status/1528670196558331904?s=20&t=9DFlcmqPEZPj9sR5ySSSYg), Italy. Stay supported by [Erasmus+](https://erasmus-plus.ec.europa.eu/es/acerca-de-erasmus/que-es-erasmus) Program and [ceiA3](http://www.ceia3.es/internacionalizacion/).  
 
