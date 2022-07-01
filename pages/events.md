@@ -20,6 +20,7 @@ description: Jose V. Die's events
    
 ### 2022    
 * JUN   
+ **Invited closing conference** Master in Biotechnology, University of Cordoba, class 2021/22 : "Open data in the post-genomic era". 30 JUN.      
  **Oral presentation** "Asparagus Breeding Program in Córdoba (Spain)". Session Genetics and Breeding. [XV International Asparagus Symposium](https://www.ias2022.com/), June 12-15 2022. 
  
 * MAY  
