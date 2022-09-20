@@ -19,6 +19,16 @@ description: Jose V. Die's events
 ![](files/specia_issue.png)
    
 ### 2022    
+* SEP  
+Guijo-Rubio D., Vargas, V. M., Barbero-Gómez, J., Die, J. V., & González-Moreno, P. (2022). Hackathonen docencia: Aprendizaje Automático aplicado a Ciencias de la Vida. [Revista de Innovación y Buenas Prácticas Docentes](http://www.uco.es/ucopress/ojs/index.php/ripadoc/article/view/14185/13506), 11(2), 19-37     
+         
+Serving as [Reviewer](https://www.webofscience.com/wos/author/record/460054) for the journal :   
+  
+  * Phytopathologia Mediterranea
+  * Plant Breeding  
+    
+      
+      
 * JUN   
  **Invited closing conference** Master in Biotechnology, University of Cordoba, class 2021/22 : "Open data in the post-genomic era". 30 JUN.      
  **Oral presentation** "Asparagus Breeding Program in Córdoba (Spain)". Session Genetics and Breeding. [XV International Asparagus Symposium](https://www.ias2022.com/), June 12-15 2022. 
