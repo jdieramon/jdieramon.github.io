@@ -19,7 +19,8 @@ description: Jose V. Die's events
 ![](files/specia_issue.png)
    
 ### 2022    
-* OCT 
+* OCT    
+  
 Serving as [Reviewer](https://www.webofscience.com/wos/author/record/460054) for the journal :   
   
   * Plant Breeding  
