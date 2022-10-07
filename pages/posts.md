@@ -413,7 +413,7 @@ Note for others (and my future self) : I am preparing some material for an intro
   
   * Don't teach students the hard way first (by [David Robinson](http://varianceexplained.org/r/teach-hard-way/))  
   * Teach the tidyverse to beginners (by [David Robinson](http://varianceexplained.org/r/teach-tidyverse/))  
-  * Teaching R to New Users - From tapply to the Tidyverse (by [Roger D. Peng](https://simplystatistics.org/2018/07/12/use-r-keynote-2018/))  
+  * Teaching R to New Users - From tapply to the Tidyverse (by [Roger D. Peng](https://simplystatistics.org/posts/2018-07-12-use-r-keynote-2018/))  
   
 <br>
 
