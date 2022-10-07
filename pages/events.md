@@ -71,6 +71,7 @@ Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the jou
   
    * Scientific Reports 
    * Gene
+   * Plant Breeding
 
 * SEP  
 Serving as [Reviewer](https://publons.com/author/420232/jose-v-die#) for the journal :   
