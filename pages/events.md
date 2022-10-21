@@ -24,6 +24,7 @@ description: Jose V. Die's events
 Serving as [Reviewer](https://www.webofscience.com/wos/author/record/460054) for the journal :   
   
   * Plant Breeding  
+  * Phytopathologia Mediterranea
 
 
 * SEP  
