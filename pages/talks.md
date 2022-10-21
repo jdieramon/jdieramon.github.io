@@ -12,6 +12,11 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2022
+* **Invited conference** "Open data in the post-genomic era". Graduation Master in Biotechnology, University of Cordoba, class 2021/22 : . 30 JUN.        
+
+* **Oral presentation** "Asparagus Breeding Program in Córdoba (Spain)". Session Genetics and Breeding. [XV International Asparagus Symposium](https://www.ias2022.com/), June 12-15 2022. 
+ 
 ### 2020
 * **Invited speaker** “Automated Clustering of Plant Gene Families from NCBI Databases”. Plant Bioinformatics Resources Workshop. [Plant Biology Worldwide Summit](https://plantbiology.aspb.org/), July 29, 2020.    
   
