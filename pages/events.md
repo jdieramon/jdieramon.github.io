@@ -20,7 +20,7 @@ description: Jose V. Die's events
    
 ### 2022    
 * NOV     
-![](files/joRnadas.png)
+![](files/JoRnadas.png)
   
 * OCT    
   
