@@ -19,6 +19,9 @@ description: Jose V. Die's events
 ![](files/specia_issue.png)
    
 ### 2022    
+* NOV     
+![](files/joRnadas.png)
+  
 * OCT    
   
 Serving as [Reviewer](https://www.webofscience.com/wos/author/record/460054) for the journal :   
