@@ -8,7 +8,10 @@
 <br>
   
 ### Projects
-* FORCE – Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Projet ID: 844431, PI: Jose V. Die. European Comission, 160,932.48€, 2018-2020.
+
+* Programa Operativo FEDER 2014-2020.  Integración de herramientas genéticas y genómicas para el estudio del carácter fecha de floración en el cultivo del garbanzo. **PI: Jose V. Die**. Junta de Andalucía. Budget: 23.953,00€ (2020-2021).
+
+* FORCE – Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Projet ID: 844431, **PI: Jose V. Die**. European Comission, 160,932.48€, 2018-2020.
   
 <br>
   
