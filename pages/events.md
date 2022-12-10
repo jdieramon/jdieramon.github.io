@@ -19,7 +19,13 @@ description: Jose V. Die's events
 ![](files/specia_issue.png)
    
 ### 2022    
-* NOV     
+* DIC  
+![](files/noveles.png)
+VII Congreso Científico de Investigadores Noveles (UCO).  Rectorado Universidad de Córdoba, 14 diciembre. [Programa](https://www.uco.es/investigacion/ucci/es/congreso-cientifico-de-investigadores-noveles).
+ 
+
+ 
+* * NOV     
 ![](files/JoRnadas.png)
   
 * OCT    
