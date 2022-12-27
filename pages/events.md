@@ -16,7 +16,8 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
-![](files/banner_hort2023.png)
+![](files/banner_hort2023.png).   
+We are pleased to invite you to submit a paper to this [special issue](https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding). Discounts available, please contact me if you are interested. 
    
 ### 2022    
 * DIC  
