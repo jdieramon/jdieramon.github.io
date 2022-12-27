@@ -38,7 +38,7 @@ Serving as [Reviewer](https://www.webofscience.com/wos/author/record/460054) for
 
 
 * SEP  
-Direction of the Final Master Degree thesis "Characterization of candidate genes for flowering time in chickpea using a pair of Near-isogenic lines" by **Adrián Pérez-Rial**. Dept. Genetics, ETSIAM, University of Cordoba.    
+Direction of the Final Master Degree thesis "Characterization of candidate genes for flowering time in chickpea using a pair of Near-isogenic lines" by **Adrián Pérez-Rial. Extraordinary MSc thesis Award**. Dept. Genetics, ETSIAM, University of Cordoba.    
 
 Guijo-Rubio D., Vargas, V. M., Barbero-Gómez, J., Die, J. V., & González-Moreno, P. (2022). Hackathon en docencia: Aprendizaje Automático aplicado a Ciencias de la Vida. [Revista de Innovación y Buenas Prácticas Docentes](http://www.uco.es/ucopress/ojs/index.php/ripadoc/article/view/14185/13506), 11(2), 19-37     
          
