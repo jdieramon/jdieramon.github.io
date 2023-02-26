@@ -26,6 +26,38 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
+  
+## From accession id. to sequence. 
+Córdoba, Feb 26, 2023.    
+  
+    # Dependencies 
+    library(Biostrings)
+    library(rentrez)
+    
+
+    # Define a function to extract the fasta secuence 
+     get_sequence <- function(id) {
+               target = rentrez::entrez_fetch(db = "nuccore", id = id, rettype = "fasta")
+               target_tidy = strsplit(target, "\n")
+               my_seq <- as.character(paste0(target_tidy[[1]][2:length(target_tidy[[1]])], collapse = ""))
+               my_seq }
+
+
+    # Accession ids 
+    ids = c("NM_139026.6", "NM_139027.6")
+        
+    # Run the function over your ids 
+    my_set <- sapply(ids, function(i) get_sequence(i))
+
+    # Result 
+    DNAStringSet(my_set)
+
+    DNAStringSet object of length 2:
+    width seq                                                                                                                                  names               
+    [1]  4306 ATTCCATACTGACCAGATTCCCAGTCACCAAGGCCCCCTCTCACTCCGCTCCACTCCTCGGGCTG...GTGGGGACTCTGGAAAAGCAGCCCCCATTTCCTCGGGTACCAATAAATAAAACATGCAGGCTGA NM_139026.6
+    [2]  4399 ATTCCATACTGACCAGATTCCCAGTCACCAAGGCCCCCTCTCACTCCGCTCCACTCCTCGGGCTG...GTGGGGACTCTGGAAAAGCAGCCCCCATTTCCTCGGGTACCAATAAATAAAACATGCAGGCTGA NM_139027.6
+
+
 
 ## Global yields
 Córdoba, Oct 10, 2020.    
