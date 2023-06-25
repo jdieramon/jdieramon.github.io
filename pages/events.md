@@ -28,6 +28,7 @@ VII Congreso Científico de Investigadores Noveles (UCO).  Rectorado Universidad
  
 * * NOV     
 ![](files/JoRnadas.png)
+  [Noticia](https://www.uco.es/ucci/es/noticias-gen/item/3997-un-congreso-en-la-uco-resalta-la-importancia-del-lenguaje-de-programacion-r) Unidad de Cultura Científica UCO
   
 * OCT    
   
