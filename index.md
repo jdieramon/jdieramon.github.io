@@ -8,7 +8,7 @@ Previously, I worked in the research groups of **Dr Juan Gil** (University of Co
 Currently, I am a member of the research team [Mejora Genética Vegetal](https://scholar.google.com/citations?authuser=1&user=jQPGxsAAAAAJ) focused on identification and analysis of differentially expressed genes during plant development and biotic/abiotic stresses. I look for ways to integrate bioinformatics with experimentation. I am an advocate of gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I also enjoy working with Big Data sets. I like data, and I like to extract biological value out of data.  
 If you are interested in working with me, feel free to contact me. I am always happy to work with motivated and enthusiatic people.  
 
-At the University of Córdoba, I teach an introductory [Course for Data Analysis](https://jdieramon.github.io/CursoAnalisisDatos/cursoR.html){:target="_blank"} using the `R` programming language.  We have already run 5 editions and the course usually gets some very nice reviews and positive feedbacks from our students.   
+At the University of Córdoba, I teach an introductory [Course for Data Analysis](https://jdieramon.github.io/CursoAnalisisDatos/cursoR.html){:target="_blank"} using the `R` programming language.  We have already run 6 editions and the course usually gets some very nice reviews and positive feedbacks from our students.   
   
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
 
