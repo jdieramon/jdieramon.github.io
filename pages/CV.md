@@ -85,6 +85,19 @@
   
 <br>
   
+### Editorial roles 
+* Senior academic editor in the journal HORTICULTURAE. Section "[Genetics, Genomics, Breeding, and Biotechnology](https://www.mdpi.com/journal/horticulturae/sectioneditors/genetics_genomics_breeding_biotechnology)”.
+    
+* Guest Associate Editor: Frontiers in bioinformatics (Jun 2023). Research Topic : [Widely applicable biological data science algorithms across the fields of genomics, clinical science, agriculture and drug design](https://www.frontiersin.org/research-topics/47337/widely-applicable-biological-data-science-algorithms-across-the-fields-of-genomics-clinical-science-agriculture-and-drug-design)
+* Guest Associate Editor: Horticulturae (Jun 2023). Special issue : [Advances in Asparagus Production, Genomics and Breeding]([https://www.frontiersin.org/research-topics/45062/advances-in-conservation-characterization-and-use-of-asparagus-genetic-resources](https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding))
+* Guest Associate Editor: Frontiers in Plant Science (Mar 2023). Research Topic : [Advances in Conservation, Characterization, and Use of Asparagus Genetic Resources](https://www.frontiersin.org/research-topics/45062/advances-in-conservation-characterization-and-use-of-asparagus-genetic-resources)
+* Guest Associate Editor, Frontiers in Genetics (Jan 2021)
+* Guest Associate Editor, Plants (Oct 2021) Special issue : [Development and Application of Advanced Genetics Methods to Orphan Crops](https://www.mdpi.com/journal/plants/special_issues/Development_Application)
+ 
+  
+<br>
+  
+
 ### Peer-review Services  
 * Agronomy  
 * Annals of Applied Biology   
