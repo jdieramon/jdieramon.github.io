@@ -16,7 +16,7 @@
 <br>
   
 ### Transcriptomic & Bioinformatics Training
-* Workshop on Transcriptomics and Bioinformatics. [Center for Biotechnology](http://www.cebitec.uni-bielefeld.de), University of Bielefeld. Bielefeld, Germany. Nov 2004
+* Workshop on Transcriptomics and Bioinformatics. [Center for Biotechnology](http://www.cebitec.uni-bielefeld.de), University of Bielefeld. Bielefeld, Germany. Nov 2004.
 
 * Rethink the way you do real-time PCR. Bio-Rad. Málaga, Spain. Jun 2008
 
