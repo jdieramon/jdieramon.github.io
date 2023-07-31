@@ -54,7 +54,7 @@ Using my package [h Index](https://github.com/jdieramon/hIndex) I have just esti
     # Linear model for h index 
     model.plot(dat, 2008, 2023, 2)
 
-![](files/lmhindex2023.png) 
+![](files/lm_hindex2023.png) 
 
 ## From accession id. to sequence. 
 Córdoba, Feb 26, 2023.    
