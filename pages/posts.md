@@ -27,6 +27,30 @@ description: Jose V. Die's blog
   
 <br>
   
+## Citations 2023
+Córdoba, Jul 31, 2023.    
+
+    # Load library
+    library(hIndexOverYears)
+
+    # Point to the file downloaded from SCOPUS
+    file <- "~/Downloads/CTOExport.csv"
+    
+    # Tidy data   
+    dat <- hIndexOverYears::clean(file)
+
+    # Make a plot with hindex over years 
+    h.plot(dat, 2008, 2023, 2)
+
+    # Data analysis
+    get1cite(dat) # my 10-most cited studies 
+    expected_citations(dat, 5) # based on my top10 cited studies 
+    h.model(dat, 2008, 2023, 2)
+
+
+
+
+
 ## From accession id. to sequence. 
 Córdoba, Feb 26, 2023.    
   
