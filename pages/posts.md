@@ -29,6 +29,8 @@ description: Jose V. Die's blog
   
 ## Citations 2023
 Córdoba, Jul 31, 2023.    
+Using my package [h Index](https://github.com/jdieramon/hIndex) I have just estimated the citations that I will get by the end of this year : ~15 more citations. You can also estimate how long it takes (on average) to get 1 citation for your most highly accessed papers. You can download and install it from my github repo in 3 very simple steps!
+
 
     # Load library
     library(hIndexOverYears)
@@ -47,9 +49,12 @@ Córdoba, Jul 31, 2023.
     expected_citations(dat, 5) # based on my top10 cited studies 
     h.model(dat, 2008, 2023, 2)
 
+![](files/model2023.png) 
 
+    # Linear model for h index 
+    model.plot(dat, 2008, 2023, 2)
 
-
+![](files/lmhindex2023.png) 
 
 ## From accession id. to sequence. 
 Córdoba, Feb 26, 2023.    
