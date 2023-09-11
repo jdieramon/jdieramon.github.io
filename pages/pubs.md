@@ -17,6 +17,8 @@ description: Jose V. Die's publications
   
 ### <a name="articles"></a>selected articles
   
++ Carmona A, Rubio J, Millán T, Gil J, **Die JV**, Castro P (2023) [Four haplotype blocks linked to Ascochyta blight disease resistance in chickpea under Mediterranean conditions](https://www.frontiersin.org/articles/10.3389/fpls.2023.1183287/full). Frontiers in Plant Science 14:1183287.  
+  
 + García V, Castro P, **Die JV**, Millán T, Gil J, Moreno R. (2023) [QTL Analysis of Morpho-Agronomic Traits in Garden Asparagus (*Asparagus officinalis* L.)](https://www.mdpi.com/2311-7524/9/1/41). Horticulturae 9(1):41.   
   
 + Carmona-Molero R, Jimenez-Lopez JC, Caballo C, Gil J, Millan T, **Die JV**. (2021) [Aldehyde dehydrogenase 3 is an expanded gene family with potential adaptive roles in chickpea](https://www.mdpi.com/2223-7747/10/11/2429/htm). Plants 10(11):2429.   
