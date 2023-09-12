@@ -19,7 +19,13 @@ description: Jose V. Die's events
 ![](files/banner_hort2023.png).   
 We are pleased to invite you to submit a paper to this [special issue](https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding). Discounts available, please contact me if you are interested. 
    
+### 2023       
+* JUL
+  
+  Direction of the Final Degree thesis “Identificación y caracterización de la respuesta molecular del Castaño a la sequía” by **Clara Ávila Ledesma**. Dept. Genetics, ETSIAM, University of Cordoba.
+
 ### 2022    
+  
 * DIC  
 ![](files/noveles.png)
 VII Congreso Científico de Investigadores Noveles (UCO).  Rectorado Universidad de Córdoba, 14 diciembre. [Programa](https://www.uco.es/investigacion/ucci/es/congreso-cientifico-de-investigadores-noveles).
