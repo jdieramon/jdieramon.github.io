@@ -16,11 +16,17 @@ description: Jose V. Die's events
   
 ### Coming Events 
   
-![](files/banner_hort2023.png).   
-We are pleased to invite you to submit a paper to this [special issue](https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding). Discounts available, please contact me if you are interested. 
-   
+![](files/front_bioinfo.png).   
+We are pleased to invite you to submit a paper to this [Research Topic]([https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding](https://www.frontiersin.org/research-topics/47337/widely-applicable-biological-data-science-algorithms-across-the-fields-of-genomics-clinical-science-agriculture-and-drug-design)).  
+     
 ### 2023       
-* JUL
+* SEP
+  
+Direction of the Final Master Degree thesis "Desarrollo de metodología qPCR para identificación de plantas ´supermacho´ poliploides en espárrago" by **Rafael Postigo Luque**. Dept. Genetics, ETSIAM, University of Cordoba. SEP 26, 2023      
+
+Direction of the Final Master Degree thesis "Genomics tools for the analysis of flowering time in chickpea" by **Ilaria Inserra**. Dept. Genetics, ETSIAM, University of Cordoba. SEP 26, 2023   
+  
+  * JUL
   
   Direction of the Final Degree thesis “Identificación y caracterización de la respuesta molecular del Castaño a la sequía” by **Clara Ávila Ledesma**. Dept. Genetics, ETSIAM, University of Cordoba.
 
