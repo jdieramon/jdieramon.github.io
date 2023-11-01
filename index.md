@@ -11,7 +11,7 @@ If you are interested in working with me, feel free to contact me. I am always h
 At the University of Córdoba, I teach an introductory [Course for Data Analysis](https://jdieramon.github.io/CursoAnalisisDatos/cursoR.html){:target="_blank"} using the `R` programming language.  We have already run 6 editions and the course usually gets some very nice reviews and positive feedbacks from our students.   
   
 If you like, network with me on [Github](https://github.com/jdieramon) or [Twitter](https://twitter.com/jdieramon).    
-test [here](https://jdieramon.github.io/CursoMLsupervised/robobok.html)
+
 <br>
 ### Funding    
 ![](pages/files/aei.jpeg)   
