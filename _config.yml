@@ -1,4 +1,4 @@
-theme: robobook
+remote_theme: Serif
 
 exclude: ["ReadMe.md", "License.md"]
 
