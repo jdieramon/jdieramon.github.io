@@ -1,4 +1,4 @@
-remote_theme: Serif
+theme: jekyll-theme-minimal    
 
 exclude: ["ReadMe.md", "License.md"]
 
