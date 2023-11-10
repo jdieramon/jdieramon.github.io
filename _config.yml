@@ -1,4 +1,4 @@
-theme: jekyll-theme-serif  
+theme: jekyll-theme-minimal
 
 exclude: ["ReadMe.md", "License.md"]
 
