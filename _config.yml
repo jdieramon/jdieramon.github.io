@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: robobook
 
 exclude: ["ReadMe.md", "License.md"]
 
