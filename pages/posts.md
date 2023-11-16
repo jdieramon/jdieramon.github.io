@@ -27,6 +27,10 @@ description: Jose V. Die's blog
   
 <br>
   
+## Editorial
+Córdoba, Nov 12, 2023.   
+Through five studies involving 21 researchers, this [Research Topic](https://www.frontiersin.org/articles/10.3389/fpls.2023.1332117/full) showcases recent advancements across various disciplines pertaining to the preservation, characterization, and utilization of asparagus genetic resources. The Research Topic highlights recent findings and literature demonstrating the potential and complexity of utilizing garden asparagus germplasm resources. 
+
 ## Citations 2023
 Córdoba, Jul 31, 2023.    
 Using my package [h Index](https://github.com/jdieramon/hIndex) I have just estimated the citations that I will get by the end of this year : ~15 more citations. You can also estimate how long it takes (on average) to get 1 citation for your most highly accessed papers. You can download and install it from my github repo in 3 very simple steps!
