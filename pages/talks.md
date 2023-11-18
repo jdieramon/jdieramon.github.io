@@ -12,6 +12,10 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2023
+* **Invited lecturer** "Open data in the post-genomic era". Jornada institucional Fundación Carolina, University of Cordoba, 8 NOV.
+
+    
 ### 2022
 * **Invited lecturer** "Open data in the post-genomic era". Closing Conference Graduation Master in Biotechnology, University of Cordoba, class 2021/22. 30 JUN.        
 
