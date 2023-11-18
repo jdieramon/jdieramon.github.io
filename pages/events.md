@@ -20,6 +20,10 @@ description: Jose V. Die's events
 We are pleased to invite you to submit a paper to this [Research Topic]([https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding](https://www.frontiersin.org/research-topics/47337/widely-applicable-biological-data-science-algorithms-across-the-fields-of-genomics-clinical-science-agriculture-and-drug-design)).  
      
 ### 2023       
+* Nov
+  
+Participación en la Jornada Institucional [Fundación Carolina](https://www.fundacioncarolina.es/mas-de-40-becarios-y-becarias-de-fundacion-carolina-se-reunen-en-cordoba/) con la conferencia "[Datos abiertos en la era post-genomica](https://www.uco.es/servicios/actualidad/noticiasactualidaddia/item/152283-41-estudiantes-de-america-latina-de-posgrado-becados-por-la-fundacion-carolina-se-reunen-en-la-universidad-de-cordoba)".  
+
 * SEP
   
 Direction of the Final Master Degree thesis "Desarrollo de metodología qPCR para identificación de plantas ´supermacho´ poliploides en espárrago" by **Rafael Postigo Luque**. Dept. Genetics, ETSIAM, University of Cordoba. SEP 26, 2023      
