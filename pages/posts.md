@@ -27,6 +27,41 @@ description: Jose V. Die's blog
   
 <br>
   
+## From protein accession to fasta file with CDS sequence.   
+See also this [post](#from-accession-id.-to-sequence).   
+
+    # Dependencies 
+    library(Biostrings)
+    library(rentrez)
+    
+  Make a vector with ids   
+  
+    xps = c("XP_023879721.1", "XP_023890186.1", "XP_023927413.1")
+
+  Use the function `getXM` ([package = 'refseqR'](https://github.com/jdieramon/refseqR)) to extract the mRNA ids   
+  
+    xms = sapply(xps, function(xp) getXM(xp), USE.NAMES = FALSE)
+    
+    
+  Use the function [`getCDS`](https://github.com/jdieramon/genomics/genomics.R) to extract the CDS sequence  
+    
+    cds = getCDS(xms)
+    cds
+    DNAStringSet object of length 3:
+    width seq                                                                                                                                     names               
+    [1]  2124 ATGTCGGATACTGAGACGTTTGCTTTCCAGGCTGAGATCAACCAGCTGTTGAGTTTGATCATCAAC...CCCGCATTGGAGGAAGCTGATGCTGATGCTGATGCTGAGGGCAGCAAGATGGAGGAAGTTGATTAA XM_024023953
+    [2]  2115 ATGGCTGACGTTCAAATGGGAGACAGAGACACAGAGACCTTCGCGTTTCAGGCAGAGATCAACCAG...GATGCTGAAATGCCTACATTGGAGGAGGATGGCAATGAGGAGAGCAAGATGGAGGAAGTCGACTGA XM_024034418
+    [3]  2127 ATGGCGTCGGAGACTGAGACGTTCGCATTCCAAGCCGAGATAAACCAGCTTCTCAGCTTGATCATC...GAGATGCCTGCTCTAGAGGAGGCTGATGCTGACGCAGAGGGTAGCAAGATGGAGGAGGTCGACTAA XM_024071645
+
+Write  a multi-fasta file with the CDS sequences  
+
+    writeXStringSet(cds, "myCDS.fa")  
+
+      
+  
+
+
+
 ## Editorial
 Córdoba, Nov 12, 2023.   
 Through five studies involving 21 researchers, this [Research Topic](https://www.frontiersin.org/articles/10.3389/fpls.2023.1332117/full) showcases recent advancements across various disciplines pertaining to the preservation, characterization, and utilization of asparagus genetic resources. The Research Topic highlights recent findings and literature demonstrating the potential and complexity of utilizing garden asparagus germplasm resources. 
