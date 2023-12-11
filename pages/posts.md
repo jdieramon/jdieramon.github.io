@@ -39,14 +39,12 @@ See also this [post](#from-accession-id-to-sequence).
   
     xps = c("XP_023879721.1", "XP_023890186.1", "XP_023927413.1")
 
-  Use the function `getXM` [package = 'refseqR'](https://github.com/jdieramon/refseqR) to extract the mRNA ids   
+  Use the function `getXM` ([package = 'refseqR'](https://github.com/jdieramon/refseqR)) to extract the mRNA ids   
   
     xms = sapply(xps, function(xp) getXM(xp), USE.NAMES = FALSE)
     
     
-  Use the function [`getCDS`](https://github.com/jdieramon/my_scripts/blob/master/genomics/genomics.R) to extract the CDS sequence  
-  
-                             
+  Use the function `getCDS` (repo [genomics.R](https://github.com/jdieramon/my_scripts/blob/master/genomics/genomics.R)) to extract the CDS sequence  
                           
     cds = getCDS(xms)
     cds
