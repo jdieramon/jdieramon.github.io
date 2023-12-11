@@ -28,7 +28,7 @@ description: Jose V. Die's blog
 <br>
   
 ## From protein accession to fasta file with CDS sequence.   
-See also this [post](#from-accession-id.-to-sequence).   
+See also this [post](#from-accession-id-to-sequence).
 
     # Dependencies 
     library(Biostrings)
