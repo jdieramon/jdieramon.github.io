@@ -28,6 +28,7 @@ description: Jose V. Die's blog
 <br>
   
 ## From protein accession to fasta file with CDS sequence.   
+Córdoba, Dec 11, 2023.     
 See also this [post](#from-accession-id-to-sequence).
 
     # Dependencies 
@@ -43,7 +44,7 @@ See also this [post](#from-accession-id-to-sequence).
     xms = sapply(xps, function(xp) getXM(xp), USE.NAMES = FALSE)
     
     
-  Use the function [`getCDS`](https://github.com/jdieramon/my_scripts/master/genomics/genomics.R) to extract the CDS sequence  
+  Use the function [`getCDS`](https://github.com/jdieramon/my_scripts/blob/master/genomics/genomics.R) to extract the CDS sequence  
   
                              
                           
