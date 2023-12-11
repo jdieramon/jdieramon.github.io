@@ -43,7 +43,8 @@ See also this [post](#from-accession-id-to-sequence).
     xms = sapply(xps, function(xp) getXM(xp), USE.NAMES = FALSE)
     
     
-  Use the function [`getCDS`](https://github.com/jdieramon/my_scripts/genomics/genomics.R) to extract the CDS sequence  
+  Use the function [`getCDS`](https://github.com/jdieramon/my_scripts) to extract the CDS sequence  
+                             
                           
     cds = getCDS(xms)
     cds
