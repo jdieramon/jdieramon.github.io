@@ -26,7 +26,34 @@ description: Jose V. Die's blog
 * <a href="#pycon-charlas">May</a>   
   
 <br>
-  
+
+## Getting taxonomy with lineage
+Córdoba, Apr 14, 2024.     
+See also this [post](#getting-taxonomy-description).
+
+    # Dependencies
+    library(rentrez)
+    
+    # get the "nucleotide" ids from a given search
+    search_term <- "large[All Fields] AND subunit[All Fields] AND ribosomal[All Fields] AND diatoms[All Fields]"
+    db <- "nucleotide"
+    
+    esearch = entrez_search(db = 'nuccore', term = search_term)
+    esearch
+    
+    # link those nucleotide ids. to the "taxonomy" database (taxonomy ids.)
+    esearch$ids
+    etax = entrez_link(dbfrom = 'nuccore', db = 'taxonomy', id = esearch$ids)
+    ids = etax$links$nuccore_taxonomy
+    
+    # get the taxonomy lineages for those taxonomy ids.
+    get_taxonomy_lineage(ids)
+
+
+    ![](files/taxonomy_lineage.png)
+ 
+<br>
+
 ## From protein accession to fasta file with CDS sequence.   
 Córdoba, Dec 11, 2023.     
 See also this [post](#from-accession-id-to-sequence).
