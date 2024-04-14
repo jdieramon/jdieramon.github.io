@@ -50,7 +50,7 @@ See also this [post](#getting-taxonomy-description).
     get_taxonomy_lineage(ids)
 
 
-    ![](files/taxonomy_lineage.png)
+![](files/taxonomy_lineage.png)
  
 <br>
 
