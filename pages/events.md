@@ -19,6 +19,11 @@ description: Jose V. Die's events
 ![](files/front_bioinfo.png).   
 We are pleased to invite you to submit a paper to this [Research Topic]([https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding](https://www.frontiersin.org/research-topics/47337/widely-applicable-biological-data-science-algorithms-across-the-fields-of-genomics-clinical-science-agriculture-and-drug-design)).  
      
+### 2024
+* Mar  
+Serving as a PhD final defense committee member. [IAS-CSIC](https://www.ias.csic.es/eventos/defensa-tesis-doctoral-salvador-osuna-caballero/)  “Pea genetic breeding to enhance rust resistance in Mediterranean environments”. PhD candidate: Salvador Osuna Caballero.
+  
+  
 ### 2023       
 * Nov
   
