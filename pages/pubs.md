@@ -17,6 +17,8 @@ description: Jose V. Die's publications
   
 ### <a name="articles"></a>selected articles
   
++ Castro P, Carmona A, Perez-Rial A, Millan T, Rubio J, Gil J, ***Die JV**(2024), Finding Consensus on the Reference Genomes : A Chickpea Case Study. [Legume Science](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leg3.224), 6: e224.
+  
 + Moreno R, Castro P, **Die JV.** (2023) [Editorial: Advances in conservation, characterization, and use of asparagus genetic resources](https://www.frontiersin.org/articles/10.3389/fpls.2023.1332117/full). Frontiers in Plant Science 14:1332117  
   
 + Carmona A, Castro P, Perez-Rial A, **Die JV**. (2023) [Genomic data of two chickpea populations sharing a potential Ascochyta blight resistance region](https://www.sciencedirect.com/science/article/pii/S2352340923007096?via%3Dihub). Data in Brief  50, 109624.
