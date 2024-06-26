@@ -26,6 +26,8 @@
   
   * Bioinformatics: introduction to sequence analysis. 1st edition. Universidad Politécnica de Madrid. Madrid, Spain. Sept 2011  
   * NGS Sequence Analysis. 13th edition. Universidad Politécnica de Valencia, Valencia, Spain. Dec 2017  
+
+* I Curso Nacional de Genómica (0) “From DNA to Annotated Genomes” ([Sociedad Española de Genética](https://segenetica.es/curso-nacional-practico-de-genomica/)). La Cristalera, Miraflores de la Sierra, Madrid. Jun 2024.  
   
 * Massachusetts Institute of Technology, [MITx](https://www.edx.org/school/mitx). 
   
