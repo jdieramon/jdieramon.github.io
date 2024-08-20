@@ -9,8 +9,8 @@ description: Jose V. Die's software
     
 ---
 #### CRAN packages    
-* [refseqR](https://CRAN.R-project.org/package=refseqR){:target="_blank"}. A framework of common computational operations working with RefSeq entries (GenBank).   
-  
+* [refseqR](https://CRAN.R-project.org/package=refseqR){:target="_blank"}. A framework of common computational operations working with RefSeq entries (GenBank). refseqR provides summary information at three different levels : gene, transcript, and protein sequences.   
+    
 * [airqualityES](https://cran.r-project.org/web/packages/airqualityES/index.html){:target="_blank"}.These dataset contains daily quality air measurements in Spain over a period of 18 years (from 2001 to 2018). The measurements refer to several pollutants. These data are openly published by the Government of Spain. The datasets were originally scattered over a number of files and formats. Here, the same information is contained in simple dataframe for convenience of researches, journalists or general public.
   
 #### Annotation packages    
