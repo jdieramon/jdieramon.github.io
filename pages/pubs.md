@@ -17,6 +17,10 @@ description: Jose V. Die's publications
   
 ### <a name="articles"></a>selected articles
   
++ **Die JV** (2024) [refseqR : an R package for common computational operations with records on RefSeq collection](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae122/7738122). Bioinformatic Advances vbae122, DOI: 10.1093/bioadv/vbae122  
+  
++ Pérez-Rial  A, Carmona A, Latifah Ali L, Rubio J, Millan T, Castro P, **Die JV** (2024) [Phenotypic and genetic characterization of a near‐isogenic line pair: insights into flowering time in chickpea](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y). BMC Plant Biology  24, 709.
+  
 + Castro P, Carmona A, Perez-Rial A, Millan T, Rubio J, Gil J, **Die JV** (2024) [Finding Consensus on the Reference Genomes : A Chickpea Case Study](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leg3.224). Legume Science, 6: e224.
   
 + Moreno R, Castro P, **Die JV** (2023) [Editorial: Advances in conservation, characterization, and use of asparagus genetic resources](https://www.frontiersin.org/articles/10.3389/fpls.2023.1332117/full). Frontiers in Plant Science 14:1332117  
