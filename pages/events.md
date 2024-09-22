@@ -18,6 +18,9 @@ description: Jose V. Die's events
      
 
 ### 2024
+* Sep
+  - In connection with my participation in the ['Smart Agrifood AI Congress'](https://www.openaiagrifood.com/), I have made some [statements](https://www.eldiadecordoba.es/cordoba/cordoba-epicentro-innovacion-agroalimentaria-inteligencia-artificial_0_2002407287.html) to the local press.    
+      
 * Jul  
   - In our latest publication in [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y), we developed and studied a pair of near-isogenic lines for flowering-time. The NIL pair resulted in differences not only in days to flowering (DTF) but also in traits related to shoot architecture. By DNA sequencing and bioinformatics, we identified several differential variants between the NIL pair associated with flowering time. The allelic distribution of genes MED16 and STO/BBX24 revealed their preservation within chickpea diversity and our results will allow us to develop molecular markers for use in breeding programs.
   
