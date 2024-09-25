@@ -19,6 +19,7 @@ description: Jose V. Die's events
 
 ### 2024
 * Sep
+  - Direction of the Final Master Degree thesis "Dashboard development for genomic data magement in the Fagaceae family" by **Rafael Postigo Luque**.  Máster en Transformación Digital en el Sector Agroalimentario y Forestal. Córdoba SEP 23, 2024.  
   - In connection with my participation in the ['Smart Agrifood AI Congress'](https://www.openaiagrifood.com/), I have made some statements to the local press [here](https://www.eldiadecordoba.es/cordoba/cordoba-epicentro-innovacion-agroalimentaria-inteligencia-artificial_0_2002407287.html) and [here](https://www.diariocordoba.com/agricultura-medio-ambiente/2024/09/19/expertos-fian-futuro-sector-agrario-108312176.html).
       
         
