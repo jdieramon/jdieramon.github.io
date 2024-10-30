@@ -18,6 +18,9 @@ description: Jose V. Die's events
      
 
 ### 2024
+* Oct
+  - Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos. [The Converstaion](https://theconversation.com/mejora-genetica-vegetal-diez-mil-anos-aumentando-la-produccion-y-la-calidad-de-los-alimentos-241527).   
+  
 * Sep
   - Direction of the Final Master Degree thesis "Dashboard development for genomic data magement in the Fagaceae family" by **Rafael Postigo Luque**.  Máster en Transformación Digital en el Sector Agroalimentario y Forestal. Córdoba SEP 23.  
   - Direction of the Final Degree thesis “Nucleotide Composition and Gene Structure in the Cultivated Chickpea Genome” by **David Carrera Natera**. Dept. Genetics, University of Cordoba.  
