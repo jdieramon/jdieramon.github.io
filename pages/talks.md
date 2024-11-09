@@ -12,6 +12,10 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2024
+* **Oral presentation** "Common computational operations with records on RefSeq collection". [III Congreso y XIV Jornadas de Usuarios de R](https://www.imus.us.es/congresos/IIIRqueR/), Sevilla 6-8 NOV. [slides](https://github.com/rhisp/IIIRqueR/blob/main/Ponencias/2024refseqR_JVDie.pdf)
+    
+  
 ### 2023
 * **Invited lecturer** "Open data in the post-genomic era". Jornada institucional Fundación Carolina, University of Cordoba, 8 NOV.
 
@@ -27,7 +31,7 @@ description: Jose V. Die's talks
   
 #### 2019    
   
-* **Invited speaker** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
+* **Oral presentation** "[genehummus](https://canal.uned.es/video/5dd249c95578f2755170d7e1): Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados.". [XI Jornadas Usuarios R](http://r-es.org/XIjuR/). Madrid. Nov 16, 2019.    
 
 * **Invited seminar** "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era". Organized by PhD Students,  University of Cordoba. Jun 7, 2019.  
 
