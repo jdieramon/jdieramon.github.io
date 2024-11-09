@@ -19,7 +19,7 @@ description: Jose V. Die's events
 
 ### 2024
 * Nov
-  - [III Congreso y XIV Jornadas de Usuarios de R](https://github.com/jdieramon/jdieramon.github.io/blob/master/pages/talks.md#2024), Sevilla 6-8 NOV.
+  - [III Congreso y XIV Jornadas de Usuarios de R](talks.md#2024), Sevilla 6-8 NOV.
 
         
 * Oct
