@@ -18,6 +18,10 @@ description: Jose V. Die's events
      
 
 ### 2024
+* Nov
+  - [III Congreso y XIV Jornadas de Usuarios de R](https://github.com/jdieramon/jdieramon.github.io/blob/master/pages/talks.md#2024), Sevilla 6-8 NOV.
+
+        
 * Oct
   - Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos. [The Converstaion](https://theconversation.com/mejora-genetica-vegetal-diez-mil-anos-aumentando-la-produccion-y-la-calidad-de-los-alimentos-241527).   
   
