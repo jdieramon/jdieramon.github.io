@@ -14,6 +14,7 @@ description: Jose V. Die's talks
 
 ### 2024
 * *refseqR* workshop [[slides](https://jdieramon.quarto.pub/refseqr--workshop-/)]
+    
 * **Invited speaker** "CRISPR technology: a tribute to curiosity and attention". [Global Innovation Forum ECONATUR](https://www.gifeconatur.com/), Córdoba 18-19 NOV.  
   
 * **Oral presentation** "Common computational operations with records on RefSeq collection". [III Congreso y XIV Jornadas de Usuarios de R](https://www.imus.us.es/congresos/IIIRqueR/), Sevilla 6-8 NOV. [[slides](https://github.com/rhisp/IIIRqueR/blob/main/Ponencias/2024refseqR_JVDie.pdf)]
