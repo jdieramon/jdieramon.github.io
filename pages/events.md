@@ -19,7 +19,7 @@ description: Jose V. Die's events
 
 ### 2024
 * Nov
-  - Workshop *refseqR* [slides](https://jdieramon.quarto.pub/refseqr--workshop-/)
+  - Workshop [[*refseqR*](talks.md#2024)]
    ![](files/refseq_JVD.png)
      
   -  [Global Innovation Forum ECONATUR](talks.md#2024), Córdoba 18-19 NOV.
