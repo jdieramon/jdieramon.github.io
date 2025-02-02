@@ -7,18 +7,24 @@ description: Jose V. Die's events
   
 ### Calendar Events
 
-|   |  |  |  |  |  
-|---|---|---|---|--|
-| <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> | <a href="#2017">2017</a> |
-| <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
+|   |   |  |  |  |  |  
+|---|---|---|---|---|--|
+| <a href="#2023">2023</a> | <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> |
+| <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
   
 <br>  
   
 ### Coming Events 
      
+### 2025
+* JAN
+  - Serving as a PhD final defense committee member. [Universities Miguel Hernández](https://www.umh.es/agenda/738/eventos_val.html) “Herramientas moleculares para la caracterización genética de *Allium sativum* L. y otras especies vegetales”. PhD candidate: **Ricardo Parreño Montoro**.
+  
 
+
+  
 ### 2024
-* Nov
+* NOV  
   - Workshop [*refseqR*](talks.md#2024)
    ![](files/refseq_JVD.png)
      
@@ -27,7 +33,7 @@ description: Jose V. Die's events
   - [III Congreso y XIV Jornadas de Usuarios de R](talks.md#2024), Sevilla 6-8 NOV.
 
         
-* Oct
+* OCT  
   - Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos. [The Converstaion](https://theconversation.com/mejora-genetica-vegetal-diez-mil-anos-aumentando-la-produccion-y-la-calidad-de-los-alimentos-241527).   
   
 * Sep
@@ -37,20 +43,20 @@ description: Jose V. Die's events
   - Chair of the panel discussion 'Artificial Intelligence in the Agri-food Chain and Food Experience’. ['Smart Agrifood AI Congress'](https://www.openaiagrifood.com/), Córdoba 19-20 SEP.   
 
         
-* Jul  
+* JUL    
   - In our latest publication in [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y), we developed and studied a pair of near-isogenic lines for flowering-time. The NIL pair resulted in differences not only in days to flowering (DTF) but also in traits related to shoot architecture. By DNA sequencing and bioinformatics, we identified several differential variants between the NIL pair associated with flowering time. The allelic distribution of genes MED16 and STO/BBX24 revealed their preservation within chickpea diversity and our results will allow us to develop molecular markers for use in breeding programs.
   
   
-* Jun      
+* JUN        
   - A brief overview of the work we do in our group in the local press : [Usan herramientas de ADN para mejorar cultivos](https://www.diariocordoba.com/universidad/2024/06/05/herramientas-adn-mejorar-cultivos-103349325.html).  
     
   - The journal Forest Ecology and Management just published [our latest study](https://pdf.sciencedirectassets.com/271259/1-s2.0-S0378112724X00092/1-s2.0-S0378112724002342/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDrdG%2BAZSwayKioB6%2B4IElTEBDzKhMJ6aT3HE1ppGHEWwIhALiSgeOm3Ym1NMc%2FKpdi%2FDeADC0gb5%2FPOWeDaCcEA0JYKrMFCHIQBRoMMDU5MDAzNTQ2ODY1Igx3om%2FJeJxGguLE9LYqkAUYonAZvC0LQqyK%2FtZ3JVeAW4Hp%2BBMjq9U8clwfEDrpXjF%2FWpGtycEOANGsDQt5gzAQPVwlFpElCaQZ27GTLqpNzS0z6a6sq4GIW4020ntJlHosp0Ic2TTkDqLbnwRvhp96ey5Y4bFYm%2FDqmlBZJitIWaysIeZNp%2Fu2cRx4Nh9Zf0ceT1cXN%2FpgAtl8%2BnFrTpgYWlIPlkZZiNNCyoOq3e4Yc8VgzZYhcqCG3G5EdiuVtiaG1XRIMCAKUDv3UfKnLUUqS3nd8kpnWrhSCykr%2BgaVNP0u4PpOapcQxnB5tAE7iXEh0%2FzbkAd3qB%2F3sKKsPQLBetlQa7Rq9LxvFkV4CXUBXiqiIIvx6gpa02%2F%2FO4ETfwLj5n16DFk7zNylEtGzsJ41h68Qb%2BoK6waE%2F63MTVO%2Fu3G2H0o34Gmd6Iw5DRNiFg3vSeNhLSs3k6pQetJLCOqqYqRgjzhpiuPpCSIefThS6OroxYn5OwAeVkFX1jRamsuNC709dWlHkCaWqarJnoCTMhcoPT5FKvF90GAu2G7C317RloSx0LidN3GysLHb8Q%2BcH8pwtnarfRr%2F8rgouYgg4lpWP%2FTgNgeloj3D0TJA4vF88dhN0Ros6JfDikwvUvfsqvSuzTi1kC8PA%2B%2BntZnqZnb0HukXMDFOq31uYOhWObsqVURTzzLfQCbPTtzkeoIqWDc%2BphzgJCPgH5zJH8hvfAuh2mmk8apWVlYnmT7f6iWAjuCny4GVW8QLqe5AmdxnaJcwoxGNnzIcu%2F8DOFK5BO4ddVrQ4CzCVJlKO1XGSJJi5y3jZ5vZuh01fgmSLNuyM1cjRtDiYqWu2ocoO5Zm0O8IvaNmuycTrVOW1rK9U78TLk0y19rYeZOACC4lXDCpiLyyBjqwAUQad2l1%2By0PRET1SbbzkgF3YaLqoKyMFzOvoUlW3yBEXDpWmsVlSKJqowdyhdPkLqgAY6XAbcuyh%2FwXSWg4Kfg1yHfc%2FxAERjt86UR6aYcpsjwM2qXYmqZLTtDiICdyCRa2qDA7RYwI7vtF8BjLSwW446xbpA4LrgOV4LgLx9bnL7e0zhgOCtmKwSUmgrpkWDSCf6n6V%2FZoGE0vhJSikCgrwcGQp%2BL0AzZM4Wz611F3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240523T092325Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWZWXN7WC%2F20240523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07ce6e86dbc7c7ff1a9afef865894ea8ebba1635eef125e64cfd7fa5fe9d5b09&hash=6d6d64e93aacaf7e8e8de763401bb474108c3866f3497dec946a33d25d102e26&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0378112724002342&tid=spdf-bccfc967-ea94-4c2f-aebe-61065e157d14&sid=7b8aa8111814a74cdd3ad3f7b041c5b08b94gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=031757575f55080c0157&rr=8883fcb648a74895&cc=es). Here, we analyzed the distribution, diversity, and genetic structure of alder species in Spain, where the diploid *Alnus glutinosa* coexists with the tetraploid *A. lusitanica*. We report their geographic distribution, quantify local genetic diversity, and explore the presence of putative hybrids. Notably, no hybrids were detected, not even in the only population where both species co-occur. By combining chromosome counts, flow cytometry, and microsatellite markers (SSRs) analyses, we found that *A. lusitanica* is the most representative, widespread, and genetically variable alder species in Spain. *A. glutinosa* is restricted to the northeast of the country. The Ebro riverbank is a contact zone between *A. lusitanica* and *A. glutinosa*, yet no hybridization was detected.
 Special thanks to [Dr. A. Martín](https://www.uco.es/genetica/es/personal/profesorado), who led the investigation and organized the research team. 
 
-* May  
+* MAY    
   - We have written an opinion piece for the journal [Legume Science](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leg3.224). We acknowledge that the availability of several genomes will have a massive impact in a variety of ways (diversity assessment, genome structure validation, and gene trait association...). However, different results often arise from the specific genome sequences each research group uses. This variation can lead to substantial differences in genetic information organization. We believe that selecting a reference sequence shouldn't be up to reviewers, editors, or even researchers alone. Centralized availability of sequences (like those at NCBI) provides convenient updates on the latest genome versions. This centralization would streamline research, ensuring that everyone uses the most up-to-date and consistent genome sequences.   
     
-* Mar  
+* MAR    
   - Serving as a PhD final defense committee member. [IAS-CSIC](https://www.ias.csic.es/eventos/defensa-tesis-doctoral-salvador-osuna-caballero/)  “Pea genetic breeding to enhance rust resistance in Mediterranean environments”. PhD candidate: **Salvador Osuna Caballero**.
   
   
