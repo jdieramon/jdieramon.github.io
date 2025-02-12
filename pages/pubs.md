@@ -17,6 +17,8 @@ description: Jose V. Die's publications
   
 ### <a name="articles"></a>selected articles
   
++ Estudillo C, Perez-Rial A, Guerrero-Paez FA, Diez CM, Moral J, **Die JV** (2025) [Characterization of Olive-Resistant Genes Against Spilocaea oleagina, the Causal Agent of Scab](https://www.mdpi.com/2073-4395/15/2/452). Agronomy 2025, 15(2), 452.  
+  
 + **Die JV** (2024) [refseqR : an R package for common computational operations with records on RefSeq collection](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae122/7738122). Bioinformatic Advances vbae122, DOI: 10.1093/bioadv/vbae122  
   
 + Pérez-Rial  A, Carmona A, Latifah Ali L, Rubio J, Millan T, Castro P, **Die JV** (2024) [Phenotypic and genetic characterization of a near‐isogenic line pair: insights into flowering time in chickpea](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y). BMC Plant Biology  24, 709.
