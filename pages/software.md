@@ -36,3 +36,8 @@ An [R](http://www.r-project.org/) package to get a graphical representation of y
 [R](http://www.r-project.org/) script designed to identify the optimal sampling plan for a qPCR experiment within the limits of a given budget by using replicates (RNA, cDNA, qPCR)  when they are expected to have the greatest benefit.  
   
 ---
+
+**Other apps**     
+Chickpea [pangenome](https://josevdie.shinyapps.io/pangenome/)  
+Genehummus [app](https://josevdie.shinyapps.io/testshiny/)  
+
