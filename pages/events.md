@@ -17,6 +17,10 @@ description: Jose V. Die's events
 ### Coming Events 
      
 ### 2025
+* MAY
+  - III [Jornadas Andaluzas de Bioinformática](talks.md#2025), Málaga 12-14 MAY.   
+   
+       
 * JAN
   - Serving as a PhD final defense committee member. [Universities Miguel Hernández](https://www.umh.es/agenda/738/eventos_val.html) “Herramientas moleculares para la caracterización genética de *Allium sativum* L. y otras especies vegetales”. PhD candidate: **Ricardo Parreño Montoro**.
   
