@@ -12,6 +12,10 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2025
+* **Oral presentation** "Common computational operations with records on RefSeq collection". [III Jornadas Andaluzas de Bioinformática](https://jabi2025.uma.es/), Málaga 12-14 MAY. [[slides](https://github.com/rhisp/IIIRqueR/blob/main/Ponencias/2025refseqR_JVDie.pdf)]
+
+
 ### 2024
 * *refseqR* workshop [[slides](https://jdieramon.quarto.pub/refseqr--workshop-/)]
     
