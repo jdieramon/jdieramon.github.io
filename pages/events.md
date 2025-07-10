@@ -17,6 +17,11 @@ description: Jose V. Die's events
 ### Coming Events 
      
 ### 2025
+* JUL 
+  - XXXVIII International Conference ASEPELT 2025, Alcalá de Henares
+
+     - Guest speaker : *CRISPR gene editing: reshaping the future of Agriculture*
+     - Experts panel : Dr. Jose V. Die (UCO), **Dr. Viviane Naimy** (Notre Dame University-Louaize), **Dr. Justus Wesseler** (Wageningen University), and                             **Sir Richard J. Roberts, Ph.D., F.R.S.**, 1993 Nobel Laureate in Physiology or Medicine.
 * MAY
   - III [Jornadas Andaluzas de Bioinformática](talks.md#2025), Málaga 12-14 MAY.   
    
