@@ -17,6 +17,12 @@ description: Jose V. Die's events
 ### Coming Events 
      
 ### 2025
+* OCT
+  -  Corteva Symposia Series - [Córdoba 2025](https://sites.google.com/view/prfhcordoba2025/home?authuser=2&fbclid=PAQ0xDSwLHNA5leHRuA2Flb)  
+ 
+     - Guest speaker : Fine-mapping strategy: an approach for precision chickpea breeding
+
+      
 * JUL 
   - XXXVIII International Conference ASEPELT 2025, Alcalá de Henares
 
