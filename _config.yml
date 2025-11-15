@@ -2,6 +2,9 @@ theme: jekyll-theme-minimal
 
 exclude: ["ReadMe.md", "License.md"]
 
+include: 
+ - pages
+
 title: [Jose V. Die]
 description: [Ramon y Cajal Research Fellow <br> 
     Department of Genetics-ETSIAM <br>
