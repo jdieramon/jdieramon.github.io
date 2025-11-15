@@ -2,6 +2,7 @@
 layout: default
 title: posts
 description: Jose V. Die's blog
+permalink: /pages/posts/
 ---
 [Home](../index.html)
 
