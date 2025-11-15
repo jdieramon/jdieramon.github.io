@@ -4,7 +4,7 @@ title: posts
 description: Jose V. Die's blog
 permalink: /pages/posts/
 ---
-[Home](/index.html)
+[Home](/)
 
 ### 2020
 * <a href="#global-yields">Oct</a>
