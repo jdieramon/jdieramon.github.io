@@ -27,6 +27,26 @@ description: Jose V. Die's blog
   
 <br>
 
+## Congreso Usuarios R 
+Se cumple una semana desde la celebración del [IV Congreso & XV Jornadas de Usuarios de R](https://rvalencia.webs.upv.es/), que este año tuvo lugar en Valencia. Para quienes no pudieron asistir —y también para quienes sí estuvieron allí—, se está recopilando el material que la organización pondrá a disposición de todos en cuanto sea posible. 
+
+Este congreso es, sin duda, mi conferencia favorita del año. Es donde más disfruto y donde la idea de comunidad se percibe con mayor claridad. Son varios los factores que contribuyen a ello, pero, en mi opinión, los más determinantes tienen que ver con su carácter transversal, capaz de reunir a disciplinas muy diversas, y con la clara disposición de los participantes a aportar valor a la comunidad mediante sus contribuciones generosas.
+
+Ya desde el acto inaugural se habló de esta comunidad como una “tribu”, expresión que me parece un acierto enorme. Los usuarios compartimos usos, costumbres, un lenguaje común y una organización social articulada a través de la [Comunidad R Hispano](https://r-es.org/). Formar parte de esta sociedad ofrece tantas ventajas que superan ampliamente cualquier posible coste. Un coste que, por cierto, es de 0 euros al año.
+
+En este congreso no he presentado contribución oral, lo cual me ha permitido disfrutar aún más de ponencias, charlas, seminarios, talleres, la mesa redonda y de un gran número de interacciones con los asistentes. A fuerza de participación en ediciones, los lazos personales se fortalecen más allá de lo académico, creando un vínculo fundamental que da cohesión a la organización y consolida una comunidad —una tribu— cada vez más cercana.
+
+A diferencia de otros años, en los que el trasfondo del Big Data era evidente, este año el protagonismo indiscutible ha sido para la inteligencia artificial. La mesa de debate, los talleres de modelización avanzada y varias ponencias giraron en torno a esta temática, ocupando un lugar central en el IV Congreso. El mismo día de apertura, **David Hervás** —comité organizador— señalaba que no utilizar la IA sería, hoy en día, tan absurdo como no recurrir a una calculadora para operaciones complejas o prescindir del ordenador para limpiar datos. Sin embargo, señalaba que no podemos utilizar la IA sin supervisión humana. Creo que a esa misma idea se refería nuestro presidente, **Emilio López Cano**, cuando en la inauguración del congreso planteó la idea de transitar del concepto de inteligencia artificial al de inteligencia aumentada.
+
+Como miembro de la comunidad universitaria, me interesó especialmente la sesión dedicada a la enseñanza y divulgación. Y, como ocurre en cada congreso, salgo con una recomendación de lectura: Modern Psychometrics With R , que apuntó **José Luis Cañadas**. Tras varios años siguiendo los trabajos que José Luis sugiere, no puedo sino insistir en la recomendación de atender a sus recomendaciones.
+
+También me ha encantado la mirada profunda y sensible de la organización al invitar, para la plenaria del último día, a **Íñigo Ballester Gúrpide** (UNICEF), quien impartió la conferencia “Aplicaciones de R en contextos humanitarios: de la consolidación de datos a la toma de decisiones en terreno”. En aquellos momentos en los que nos perdamos en discusiones menores sobre qué lenguaje de programación es “mejor” o quién gana la supuesta batalla tecnológica, recordaré esta conferencia y aquellos valores que la conferencia de Íñigo Ballester puso en perspectiva. 
+
+Espero poder ver a todos el año que viene en [San Cristóbal de la Laguna](https://x.com/R_Hisp/status/1986699907642642693?s=20).
+
+ 
+<br>
+
 ## Getting taxonomy with lineage
 Córdoba, Apr 14, 2024.     
 See also this [post](#getting-taxonomy-description).
