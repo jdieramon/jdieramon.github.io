@@ -12,7 +12,11 @@ description: Jose V. Die's talks
 ---
 ### Talks and Seminars
 
+### 2026  
+* **Invited speaker** "Smarter Plant Breeding: Where Bioinformatics Meets the Field". [Universidad Miguel Hernández](https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/), Elche 13 FEB.
+  
 ### 2025
+* **Invited speaker** "Fine-mapping strategy: an approach for precision chickpea breeding". [Corteva Symposia Series](https://sites.google.com/view/prfhcordoba2025/home?authuser=2&fbclid=PAQ0xDSwLHNA5leHRuA2Flb), Córdoba 22-23 OCT.
 * **Oral presentation** "Common computational operations with records on RefSeq collection". [III Jornadas Andaluzas de Bioinformática](https://jabi2025.uma.es/), Málaga 12-14 MAY.  
   
 
