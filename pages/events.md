@@ -18,7 +18,7 @@ description: Jose V. Die's events
      
 ### 2026
 * FEB
-  -  Seminarios Instituto de Bioingeniería [Universidad Miguel Hernández]([https://sites.google.com/view/prfhcordoba2025/home?authuser=2&fbclid=PAQ0xDSwLHNA5leHRuA2Flb](https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/)  
+  -  Seminarios Instituto de Bioingeniería [Universidad Miguel Hernández](https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/)  
  
      - Guest speaker : Smarter Plant Breeding: Where Bioinformatics Meets the Field  
   
