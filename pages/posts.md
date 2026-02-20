@@ -28,7 +28,19 @@ permalink: /pages/posts/
   
 <br>
 
+
+## The *Pseudocercospora cladosporioides* genome 
+Córdoba, Feb 17, 2026.  
+Olives have shaped Mediterranean culture for millennia, but diseases like olive scab and cercosporiosis can severely reduce yield and oil quality. Until now, genomic resources to study these pathogens have been limited. By combining long-read and short-read sequencing, we generated a near-complete genome assembly with tens of thousands of genes—including many likely linked to infection and host interaction.We didn’t just sequence DNA—we annotated key gene families, including secreted enzymes and candidate effectors that may help the pathogen invade olive tissues. Prime targets for future research. This genomic resource opens the door to better molecular diagnostics, host–pathogen interaction studies, and ultimately #breeding more resistant olive varieties. Collaboration between geneticists, plant pathologists, and farmers is essential to turn these data into real disease-control strategies—and protect global olive production. With a reference genome now available, researchers worldwide can track pathogen evolution, identify virulence factors, and design better monitoring and early-detection tools. Beyond olives: this work adds to fungal genomics and helps us understand how plant pathogens adapt, spread, and overcome host defenses. 
+  
+Read the paper in [Plan Pathology](https://www.researchgate.net/publication/400643521_The_Genome_of_Pseudocercospora_cladosporioides_A_Step_Toward_Understanding_Olive_Cercosporiosis).   
+
+
+ 
+<br>
+  
 ## Congreso Usuarios R 
+Córdoba, Nov 15, 2025.    
 Se cumple una semana desde la celebración del [IV Congreso & XV Jornadas de Usuarios de R](https://rvalencia.webs.upv.es/), que este año tuvo lugar en Valencia. Para quienes no pudieron asistir —y también para quienes sí estuvieron allí—, se está recopilando el material que la organización pondrá a disposición de todos en cuanto sea posible. 
 
 Este congreso es, sin duda, mi conferencia favorita del año. Es donde más disfruto y donde la idea de comunidad se percibe con mayor claridad. Son varios los factores que contribuyen a ello, pero, en mi opinión, los más determinantes tienen que ver con su carácter transversal, capaz de reunir a disciplinas muy diversas, y con la clara disposición de los participantes a aportar valor a la comunidad mediante sus contribuciones generosas.
@@ -47,6 +59,20 @@ Espero poder ver a todos el año que viene en [San Cristóbal de la Laguna](http
 
  
 <br>
+
+## Decoding drought tolerance in European chestnut
+Córdoba, Nov 10, 2025.   
+Climate change poses a serious threat to European chestnut forests, as recurrent episodes of extreme drought and heat increasingly compromise tree vitality and productivity. Understanding the genetic basis of drought tolerance in European chestnut (Castanea sativa) is therefore essential to support conservation and breeding efforts. However, progress in this area has been hindered by the absence of a high-quality reference genome for this species, which limits the identification and characterization of genes underlying adaptive traits.  
+In this study, we addressed this limitation by leveraging the close evolutionary relationship between chestnut and oak. Using publicly available sequence data, we mapped candidate drought-responsive genes onto related genomic resources and reconstructed gene sequences for European chestnut. Candidate *loci* were subsequently validated through Sanger sequencing, enabling the identification of sequence variants potentially associated with drought tolerance.  
+This integrative approach resulted in the development of a comprehensive drought tolerance gene atlas for European chestnut. Among the identified candidates, two genes stood out: one encoding an oleosin-like protein and another encoding a two-component response regulator. Both genes exhibited substantial sequence variation, providing a mechanistic basis for their potential involvement in stress adaptation. These findings suggest that they represent strong candidate genes contributing to the ability of European chestnut to cope with water deficit and heat stress.  
+Beyond the identification of specific loci, this work establishes a robust framework for genetic studies in species lacking a complete reference genome. By demonstrating that comparative genomics combined with targeted validation can yield biologically meaningful insights, our study provides a practical strategy applicable to other non-model tree species.  
+Collectively, these results deliver valuable genomic resources for European chestnut and lay the foundation for the development of molecular markers to screen and select drought-tolerant genotypes. Ultimately, this work contributes to strengthening the resilience of chestnut forests in the context of ongoing climate change.  
+  
+Read the paper in [The Plant Genome](https://pubmed.ncbi.nlm.nih.gov/41208305/).
+
+ 
+<br>
+
 
 ## Getting taxonomy with lineage
 Córdoba, Apr 14, 2024.     
