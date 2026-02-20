@@ -7,8 +7,8 @@ description: Jose V. Die's events
   
 ### Calendar Events
 
-|   |   |  |  |  |  |  
-|---|---|---|---|---|--|
+|   |   |   |  |  |  |  |  
+|---|---|---|---|---|---|--|
 | <a href="#2025">2025</a> | <a href="#2024">2024</a> | <a href="#2023">2023</a> | <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a> | <a href="#2018">2018</a> |
 | <a href="#2017">2017</a> | <a href="#2016">2016</a> | <a href="#2015">2015</a> | <a href="#2014">2014</a> | <a href="#2013">2013</a> | <a href="#2012">2012</a> |
   
@@ -23,7 +23,7 @@ description: Jose V. Die's events
      - Guest speaker : Smarter Plant Breeding: Where Bioinformatics Meets the Field  
   
  
- ### 2025
+### 2025
 * OCT
   -  Corteva Symposia Series - [Córdoba 2025](https://sites.google.com/view/prfhcordoba2025/home?authuser=2&fbclid=PAQ0xDSwLHNA5leHRuA2Flb)  
  
