@@ -16,7 +16,8 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
-  
++ Pérez-Rial  A, Castro P, Solla A, Martín MA, **Die JV** (2025) Decoding drought tolerance from a genomic approach in *Castanea sativa* Mill. Plant Genome, 18(4): e70116. DOI: 10.1002/tpg2.70116   
+      
 + Estudillo C, Perez-Rial A, Guerrero-Paez FA, Diez CM, Moral J, **Die JV** (2025) [Characterization of Olive-Resistant Genes Against Spilocaea oleagina, the Causal Agent of Scab](https://www.mdpi.com/2073-4395/15/2/452). Agronomy 2025, 15(2), 452.  
   
 + **Die JV** (2024) [Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos](https://doi.org/10.64628/AAO.5gpqvtc6w). The Conversation, Oct 17, 2024. DOI: 0.64628/AAO.5gpqvtc6w
