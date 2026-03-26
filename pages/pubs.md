@@ -16,17 +16,18 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
-  + Gutierrez N, Castro P, Rubio J, **Die JV** (2026) [Identification and characterization of the KNOTTED1-like homeobox as an active regulator of leaf development in chickpea](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1803976/full). Frontiers in Plant Science, 17:1803976. doi: 10.3389/fpls.2026.1803976
-   
-+ Estudillo C, Tercero-Alcázar C, Orduña L, Jiménez-Morcuende M, Díez CM, **Die JV**, Moral J (2026) [The Genome of *Pseudocercospora cladosporioides*: A Step Toward Understanding Olive Cercosporiosis](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/ppa.70130). Plant Pathology, 75:e70130. DOI:10.1111/ppa.70130        
-+ Pérez-Rial  A, Castro P, Solla A, Martín MA, **Die JV** (2025) [Decoding drought tolerance from a genomic approach in *Castanea sativa* Mill.](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.70116) Plant Genome, 18(4): e70116. DOI: 10.1002/tpg2.70116   
-      
+  + Gutierrez N, Castro P, Rubio J, **Die JV** (2026) [Identification and characterization of the KNOTTED1-like homeobox as an active regulator of leaf development in chickpea](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1803976/full). Frontiers in Plant Science, 17:1803976.
+       
++ Estudillo C, Tercero-Alcázar C, Orduña L, Jiménez-Morcuende M, Díez CM, **Die JV**, Moral J (2026) [The Genome of *Pseudocercospora cladosporioides*: A Step Toward Understanding Olive Cercosporiosis](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/ppa.70130). Plant Pathology, 75:e70130.
+            
++ Pérez-Rial  A, Castro P, Solla A, Martín MA, **Die JV** (2025) [Decoding drought tolerance from a genomic approach in *Castanea sativa* Mill.](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/tpg2.70116) Plant Genome, 18(4): e70116.    
+        
 + Estudillo C, Perez-Rial A, Guerrero-Paez FA, Diez CM, Moral J, **Die JV** (2025) [Characterization of Olive-Resistant Genes Against Spilocaea oleagina, the Causal Agent of Scab](https://www.mdpi.com/2073-4395/15/2/452). Agronomy 2025, 15(2), 452.  
   
 + **Die JV** (2024) [Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos](https://doi.org/10.64628/AAO.5gpqvtc6w). The Conversation, Oct 17, 2024. DOI: 0.64628/AAO.5gpqvtc6w
   
-+ **Die JV** (2024) [refseqR : an R package for common computational operations with records on RefSeq collection](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae122/7738122). Bioinformatic Advances vbae122, DOI: 10.1093/bioadv/vbae122  
-  
++ **Die JV** (2024) [refseqR : an R package for common computational operations with records on RefSeq collection](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae122/7738122). Bioinformatic Advances vbae122.     
+    
 + Pérez-Rial  A, Carmona A, Latifah Ali L, Rubio J, Millan T, Castro P, **Die JV** (2024) [Phenotypic and genetic characterization of a near‐isogenic line pair: insights into flowering time in chickpea](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y). BMC Plant Biology  24, 709.
   
 + Castro P, Carmona A, Perez-Rial A, Millan T, Rubio J, Gil J, **Die JV** (2024) [Finding Consensus on the Reference Genomes : A Chickpea Case Study](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leg3.224). Legume Science, 6: e224.
