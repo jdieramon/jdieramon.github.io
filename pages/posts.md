@@ -33,7 +33,16 @@ permalink: /pages/posts/
 Córdoba, Feb 17, 2026.  
 Olives have shaped Mediterranean culture for millennia, but diseases like olive scab and cercosporiosis can severely reduce yield and oil quality. Until now, genomic resources to study these pathogens have been limited. By combining long-read and short-read sequencing, we generated a near-complete genome assembly with tens of thousands of genes—including many likely linked to infection and host interaction.We didn’t just sequence DNA—we annotated key gene families, including secreted enzymes and candidate effectors that may help the pathogen invade olive tissues. Prime targets for future research. This genomic resource opens the door to better molecular diagnostics, host–pathogen interaction studies, and ultimately #breeding more resistant olive varieties. Collaboration between geneticists, plant pathologists, and farmers is essential to turn these data into real disease-control strategies—and protect global olive production. With a reference genome now available, researchers worldwide can track pathogen evolution, identify virulence factors, and design better monitoring and early-detection tools. Beyond olives: this work adds to fungal genomics and helps us understand how plant pathogens adapt, spread, and overcome host defenses. 
   
-Read the paper in [Plan Pathology](https://www.researchgate.net/publication/400643521_The_Genome_of_Pseudocercospora_cladosporioides_A_Step_Toward_Understanding_Olive_Cercosporiosis).   
+Read the **scientific paper** in [Plan Pathology](https://www.researchgate.net/publication/400643521_The_Genome_of_Pseudocercospora_cladosporioides_A_Step_Toward_Understanding_Olive_Cercosporiosis).   
+
+Watch the **video** in [UCONEWS](https://www.youtube.com/watch?v=a9r54Ph7HFE).     
+    
+Read the news in the **local press**: 
+    
+  * [El Día de Córdoba](https://www.eldiadecordoba.es/cordoba/universidad-cordoba-genoma-hongo-emplomado-olivo_0_2006281630.html)  
+  * [ABC Sevilla](https://sevilla.abc.es/agronoma/noticias/cultivos/aceites-de-oliva/un-paso-decisivo-contra-el-emplomado-la-genetica-abre-la-puerta-a-olivos-mas-resistentes/)
+  * [Cordópolis](https://cordopolis.eldiario.es/cordoba-hoy/sociedad/descifran-genoma-completo-hongo-causa-enfermedad-olivo-perdidas-millonarias_1_13092535.html)
+
 
 
  
