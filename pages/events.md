@@ -17,6 +17,10 @@ description: Jose V. Die's events
 ### Coming Events 
      
 ### 2026
+* APR
+  - [IV Jornadas Andaluzas de Bioinformática](https://www.uco.es/servicios/actualidad/ciencia/item/165493-las-jornadas-andaluzas-de-bioinformatica-reunen-a-mas-de-un-centenar-de-especialistas-en-cordoba)  
+  
+        
 * FEB
   -  Seminarios Instituto de Bioingeniería [Universidad Miguel Hernández](https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/)  
  
