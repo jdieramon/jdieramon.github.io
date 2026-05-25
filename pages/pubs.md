@@ -16,7 +16,9 @@ description: Jose V. Die's publications
 
   
 ### <a name="articles"></a>selected articles
-  + Gutierrez N, Castro P, Rubio J, **Die JV** (2026) [Identification and characterization of the KNOTTED1-like homeobox as an active regulator of leaf development in chickpea](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1803976/full). Frontiers in Plant Science, 17:1803976.
++ **Die JV** (2026) [El análisis genético y la bioinformática son herramientas clave para entender brotes como el hantavirus](https://theconversation.com/el-analisis-genetico-y-la-bioinformatica-son-herramientas-clave-para-entender-brotes-como-el-hantavirus-283543). The Conversation, May 25, 2026. DOI: 0.64628/AAO.7xvr465pa  
+    
++ Gutierrez N, Castro P, Rubio J, **Die JV** (2026) [Identification and characterization of the KNOTTED1-like homeobox as an active regulator of leaf development in chickpea](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1803976/full). Frontiers in Plant Science, 17:1803976.
        
 + Estudillo C, Tercero-Alcázar C, Orduña L, Jiménez-Morcuende M, Díez CM, **Die JV**, Moral J (2026) [The Genome of *Pseudocercospora cladosporioides*: A Step Toward Understanding Olive Cercosporiosis](https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/ppa.70130). Plant Pathology, 75:e70130.
             
