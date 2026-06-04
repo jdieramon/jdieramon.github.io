@@ -24,7 +24,7 @@ description: Jose V. Die's software
 
 ---
 
-#### <a name="hindex"></a>[hIndexOveryears](https://github.com/jdieramon/hIndex){:target="_blank"}
+#### <a name="hindex"></a>[hIndexOveryears](https://jdieramon.github.io/hIndex/index.html){:target="_blank"}
 
 An [R](http://www.r-project.org/) package to get a graphical representation of your h Index over the years.  
 
