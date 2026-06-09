@@ -18,7 +18,7 @@ description: Jose V. Die's events
      
 ### 2026
 * JUN  
-  - Guest speaker : Mejora genética vegetal: de los cruzamiento de Mendel a los modelos predictivos en la Agricultura del siglo XXI. Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible.
+  - Guest speaker : Mejora genética vegetal: de los cruzamiento de Mendel a los modelos predictivos en la Agricultura del siglo XXI. [Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible](files/Programa_Seminario_IA.pdf).
     
 
 
