@@ -13,6 +13,8 @@ description: Jose V. Die's talks
 ### Talks and Seminars
 
 ### 2026  
+*  **Invited speaker** : Mejora genética vegetal: de los cruzamiento de Mendel a los modelos predictivos en la Agricultura del siglo XXI. [Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible](files/Programa_Seminario_IA.pdf), Córdoba 9 JUN.
+    
 * **Invited speaker** "Smarter Plant Breeding: Where Bioinformatics Meets the Field". [Universidad Miguel Hernández](https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/), Elche 13 FEB.
   
 ### 2025
