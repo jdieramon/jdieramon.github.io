@@ -10,7 +10,7 @@ This is a summary of different projects we are working on.
 
   * **[Asparagus project](https://jdieramon.github.io/AsparagusProject/asparagus.html)**.
 
-  * * **[Blueberry project](https://jdieramon.github.io/BlueberryProject/)**.
+  * **[Blueberry project](https://jdieramon.github.io/BlueberryProject/)**.
 
     
     <br>
