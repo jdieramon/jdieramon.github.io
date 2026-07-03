@@ -4,11 +4,14 @@ My research is focused on problems in plant genetics and genomics – particular
 
 This is a summary of different projects we are working on.
 
-  * **[Blueberry project](https://jdieramon.github.io/BlueberryProject/)**.
+  * **[European chestnut project](https://jdieramon.github.io/CastaneaProject/)**.
 
   * **[Chickpea project](https://jdieramon.github.io/ChickpeaProject/)**.
 
-  * **[Asparagus project](https://jdieramon.github.io/AsparagusProject/asparagus.html)**. 
+  * **[Asparagus project](https://jdieramon.github.io/AsparagusProject/asparagus.html)**.
+
+  * * **[Blueberry project](https://jdieramon.github.io/BlueberryProject/)**.
+
     
     <br>
  
