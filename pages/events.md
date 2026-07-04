@@ -18,6 +18,8 @@ description: Jose V. Die's events
      
 ### 2026
 * JUN  
+  - Co-direction of the Final Degree thesis “Análisis computacional del ADN repetitivo en el castaño europeo (*Castanea sativa* Mill.)” by **Alejandro Arévalo Sánchez**, Dept. Genetics, ETSIAM, University of Cordoba. JUN 25, 2026
+    
   - Guest speaker : Mejora genética vegetal: de los cruzamiento de Mendel a los modelos predictivos en la Agricultura del siglo XXI. [Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible](files/Programa_Seminario_IA.pdf).
     
 
