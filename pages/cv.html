@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:860px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:24px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:64px 0 48px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:20px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2rem, 4.2vw, 2.9rem); line-height:1.12; letter-spacing:-0.01em; margin:0 0 16px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:16.5px; max-width:66ch; margin:0; }
+
+  .jump{ display:flex; flex-wrap:wrap; gap:8px; margin-top:26px; }
+  .jump a{ font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--ink-muted); border:1px solid var(--line); border-radius:20px; padding:5px 12px; transition:all .2s ease; }
+  .jump a:hover{ border-color:var(--green); color:var(--green); }
+
+  main.archive{ padding:8px 0 0; }
+  section.block{ padding:48px 0; border-bottom:1px solid var(--line); }
+  .section-head{ margin-bottom:28px; }
+  .section-head .eyebrow{ margin-bottom:12px; }
+  h2.title{ font-family:var(--serif); font-size:clamp(1.35rem, 2.4vw, 1.7rem); font-weight:600; margin:0; letter-spacing:-0.01em; }
+
+  ul.cv-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:14px; }
+  ul.cv-list li{ font-size:15px; color:var(--ink); line-height:1.55; padding-left:18px; position:relative; }
+  ul.cv-list li::before{ content:"—"; position:absolute; left:0; top:0; color:var(--ink-muted); }
+  ul.cv-list li a{ color:var(--green); text-decoration:none; border-bottom:1px solid var(--green-light); }
+  ul.cv-list .yr{ font-family:var(--mono); font-size:13px; color:var(--gold); }
+
+  .subgroup{ margin-top:18px; }
+  .subgroup h4{ font-family:var(--mono); font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--green); margin:0 0 10px; }
+  ul.sub-list{ list-style:none; margin:0 0 0 0; padding:0; display:flex; flex-direction:column; gap:8px; }
+  ul.sub-list li{ font-size:14px; color:var(--ink-muted); padding-left:16px; position:relative; }
+  ul.sub-list li::before{ content:"·"; position:absolute; left:0; top:0; color:var(--green-light); }
+
+  .service-grid{ display:flex; flex-direction:column; }
+  .service-item{ display:flex; justify-content:space-between; gap:16px; padding:14px 0; border-top:1px solid var(--line); }
+  .service-item:last-child{ border-bottom:1px solid var(--line); }
+  .service-item .role{ font-weight:500; font-size:14.5px; }
+  .service-item .venue{ font-size:13.5px; color:var(--ink-muted); }
+  .service-item .venue a{ color:var(--green); text-decoration:none; border-bottom:1px solid var(--green-light); }
+  .service-item .when{ font-family:var(--mono); font-size:12px; color:var(--gold); white-space:nowrap; }
+
+  .pill-cloud{ display:flex; flex-wrap:wrap; gap:8px; }
+  .pill-cloud span{ font-family:var(--mono); font-size:12.5px; color:var(--ink-muted); border:1px solid var(--line); border-radius:20px; padding:6px 13px; }
+
+  .contact-links{ display:flex; flex-direction:column; gap:12px; align-items:flex-start; }
+  .contact-links a{ text-decoration:none; font-family:var(--mono); font-size:14.5px; color:var(--ink); border-bottom:1px solid var(--line); padding-bottom:2px; transition:border-color .2s ease, color .2s ease; }
+  .contact-links a:hover{ color:var(--green); border-color:var(--green); }
+
+  footer{ padding:56px 0 40px; max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 620px){
+    nav.links{ display:none; }
+    .service-item{ flex-direction:column; gap:4px; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<div class="page-hero">
+  <div class="eyebrow">Curriculum Vitae</div>
+  <h1 class="display">Education, funding, training, and service.</h1>
+  <p class="lead">The full record behind the research: degrees, grants I've led, the courses that shaped how I work with data, and the journals and societies I contribute to.</p>
+  <div class="jump">
+    <a href="#education">Education</a>
+    <a href="#projects">Projects</a>
+    <a href="#training">Training</a>
+    <a href="#societies">Societies</a>
+    <a href="#honors">Honors</a>
+    <a href="#editorial">Editorial</a>
+    <a href="#peer-review">Peer review</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
+
+<main class="archive">
+  <div class="wrap">
+
+    <!-- EDUCATION -->
+    <section class="block" id="education">
+      <div class="section-head">
+        <div class="eyebrow">Education</div>
+        <h2 class="title">Degrees</h2>
+      </div>
+      <ul class="cv-list">
+        <li><span class="yr">2009</span> — Ph.D. Plant Genetics. <em>Cum laude</em> honors. <a href="http://www.uco.es/internacional/extranjeros/" target="_blank" rel="noopener">University of Córdoba</a>. Córdoba, Spain.</li>
+        <li><span class="yr">2003</span> — Agronomic Engineering, Biotechnology and Breeding. <a href="https://www.upv.es/index-en.html" target="_blank" rel="noopener">Polytechnic University of Valencia</a>. Valencia, Spain. Diploma Thesis in Institut für Pflanzenbau und Pflanzenzüchtung, <a href="https://www.uni-goettingen.de/en/1.html" target="_blank" rel="noopener">Georg-August-Universität</a>, Göttingen, Germany.</li>
+      </ul>
+    </section>
+
+    <!-- PROJECTS / FUNDING -->
+    <section class="block" id="projects">
+      <div class="section-head">
+        <div class="eyebrow">Projects</div>
+        <h2 class="title">Grants as Principal Investigator</h2>
+      </div>
+      <ul class="cv-list">
+        <li><span class="yr">2023–2026</span> — Proyectos de Generación de Conocimiento, Convocatoria 2022. "Development and evaluation of pre-breeding populations and use of genomic tools for Asparagus breeding." Ref: PID2022-142876OB-I00. Ministerio de Ciencia e Innovación. <strong>PI1: P. Castro, PI2: Jose V. Die</strong>. 1 Sep 2023 – 31 Aug 2026. Budget: €175,000.</li>
+        <li><span class="yr">2023–2025</span> — Proyecto Excelencia, Convocatoria 2021. "Desarrollo y aplicación de herramientas genómicas para selección de individuos tolerantes a sequía en castaño." Junta de Andalucía. <strong>PI: Jose V. Die</strong>. 1 Jan 2023 – 31 Dec 2025. Budget: €137,000.</li>
+        <li><span class="yr">2020–2021</span> — Programa Operativo FEDER 2014-2020. "Integración de herramientas genéticas y genómicas para el estudio del carácter fecha de floración en el cultivo del garbanzo." <strong>PI: Jose V. Die</strong>. Junta de Andalucía. Budget: 23.953,00€.</li>
+        <li><span class="yr">2018–2020</span> — FORCE — Molecular basis underlying the QTL responsible for the genetic control of flowering time in chickpea: an integrative approach (H2020-MSCA-IF-2018). Project ID: 844431. <strong>PI: Jose V. Die</strong>. European Commission, €160,932.48.</li>
+      </ul>
+    </section>
+
+    <!-- TRAINING -->
+    <section class="block" id="training">
+      <div class="section-head">
+        <div class="eyebrow">Training</div>
+        <h2 class="title">Transcriptomic &amp; Bioinformatics Training</h2>
+      </div>
+      <ul class="cv-list">
+        <li><span class="yr">2004</span> — Workshop on Transcriptomics and Bioinformatics. <a href="http://www.cebitec.uni-bielefeld.de" target="_blank" rel="noopener">Center for Biotechnology</a>, University of Bielefeld. Bielefeld, Germany.</li>
+        <li><span class="yr">2008</span> — Rethink the way you do real-time PCR. Bio-Rad. Málaga, Spain.</li>
+        <li><span class="yr">2008</span> — Real-time PCR Course. TATAA Biocenter. Freising, Germany.</li>
+        <li><span class="yr">2011 / 2017</span> — <a href="https://bioinf.comav.upv.es/courses.html" target="_blank" rel="noopener">Genomics &amp; Bioinformatics</a>, COMAV's Group: Bioinformatics — introduction to sequence analysis (1st ed.), Universidad Politécnica de Madrid; NGS Sequence Analysis (13th ed.), Universidad Politécnica de Valencia.</li>
+        <li><span class="yr">2024</span> — I Curso Nacional de Genómica "From DNA to Annotated Genomes" (<a href="https://segenetica.es/curso-nacional-practico-de-genomica/" target="_blank" rel="noopener">Sociedad Española de Genética</a>). La Cristalera, Miraflores de la Sierra, Madrid.</li>
+        <li><span class="yr">2014</span> — NCBI-USDA Workshop.</li>
+      </ul>
+
+      <div class="subgroup">
+        <h4>Massachusetts Institute of Technology — MITx</h4>
+        <ul class="sub-list">
+          <li>6.00.1x Introduction to Computer Science and Programming. Oct–Dec 2013</li>
+          <li>6.00.2x Introduction to Computational Thinking and Data Science. Oct–Dec 2014</li>
+        </ul>
+      </div>
+
+      <div class="subgroup">
+        <h4>HarvardX — Data Analysis for Genomics series</h4>
+        <ul class="sub-list">
+          <li>PH525.1x Statistics and R for the Life Sciences. Jan–Feb 2015</li>
+          <li>PH525.2x Matrix Algebra and Linear Models. Feb 2015</li>
+          <li>PH525.3x Advanced Statistics for the Life Sciences. Mar 2015</li>
+          <li>PH525.4x Introduction to Bioconductor. Apr 2015</li>
+          <li>PH525.5x Case Study: RNA-seq data analysis. May 2015</li>
+          <li>PH526x Using Python for Research. Jun 2017</li>
+        </ul>
+      </div>
+
+      <div class="subgroup">
+        <h4>Johns Hopkins University — Data Science Specialization (Coursera)</h4>
+        <ul class="sub-list">
+          <li>The Data Scientist's Toolbox. Jul 2015</li>
+          <li>R Programming. Jun 2015</li>
+          <li>Getting and Cleaning Data. Jul 2015</li>
+          <li>Exploratory Data Analysis. Aug 2015</li>
+          <li>Reproducible Research. Sep 2015</li>
+          <li>Statistical Inference. Feb 2016</li>
+          <li>The Unix Workbench. Jan 2018</li>
+        </ul>
+      </div>
+
+      <div class="subgroup">
+        <h4>Johns Hopkins University — Genomic Data Science Specialization (Coursera)</h4>
+        <ul class="sub-list">
+          <li>Introduction to Genomic Technologies. Dec 2015</li>
+          <li>Python for Genomic Data Science. Aug 2015</li>
+          <li>Algorithms for DNA Sequencing. Apr 2016</li>
+          <li>Bioconductor for Genomic Data Science. Sep 2015</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- BIOETHICS -->
+    <section class="block">
+      <div class="section-head">
+        <div class="eyebrow">Bioethics</div>
+        <h2 class="title">Ethics training</h2>
+      </div>
+      <ul class="cv-list">
+        <li><span class="yr">2014</span> — Georgetown University. Introduction to Bioethics (phlx101-01). GeorgetownX. Apr–Jun 2014.</li>
+      </ul>
+    </section>
+
+    <!-- SOCIETIES -->
+    <section class="block" id="societies">
+      <div class="section-head">
+        <div class="eyebrow">Scientific societies</div>
+        <h2 class="title">Memberships</h2>
+      </div>
+      <ul class="cv-list">
+        <li>Sociedad Española de Bioinformática y Biología Computacional <span class="yr">(2021–present)</span></li>
+        <li>American Society of Plant Biologists <span class="yr">(2015–present)</span></li>
+        <li>The American Phytopathological Society <span class="yr">(2015–present)</span></li>
+        <li>Sociedad Española de Bioquímica y Biología Molecular <span class="yr">(2014–present)</span></li>
+        <li>Sociedad Española de Genética <span class="yr">(2008–present)</span></li>
+      </ul>
+    </section>
+
+    <!-- HONORS -->
+    <section class="block" id="honors">
+      <div class="section-head">
+        <div class="eyebrow">Honors &amp; awards</div>
+        <h2 class="title">Recognition</h2>
+      </div>
+      <ul class="cv-list">
+        <li><span class="yr">2017</span> — Seal of Excellence. Marie Skłodowska-Curie actions call H2020-MSCA-IF-2017. European Commission.</li>
+        <li><span class="yr">2011</span> — Extraordinary Doctorate Award. University of Córdoba. Córdoba, Spain.</li>
+        <li><span class="yr">2009</span> — European Doctor Mention. University of Córdoba. Córdoba, Spain.</li>
+      </ul>
+    </section>
+
+    <!-- EDITORIAL -->
+    <section class="block" id="editorial">
+      <div class="section-head">
+        <div class="eyebrow">Editorial roles</div>
+        <h2 class="title">Academic editing</h2>
+      </div>
+      <div class="service-grid">
+        <div class="service-item">
+          <div><div class="role">Editorial Board Member</div><div class="venue"><a href="https://link.springer.com/journal/12864/editorial-board" target="_blank" rel="noopener">BMC Genomics</a></div></div>
+          <div class="when">Ongoing</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Senior Academic Editor</div><div class="venue"><a href="https://www.mdpi.com/journal/horticulturae/sectioneditors/genetics_genomics_breeding_biotechnology" target="_blank" rel="noopener">Horticulturae</a> — Genetics, Genomics, Breeding &amp; Biotechnology</div></div>
+          <div class="when">Ongoing</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Guest Associate Editor</div><div class="venue"><a href="https://www.frontiersin.org/research-topics/47337/widely-applicable-biological-data-science-algorithms-across-the-fields-of-genomics-clinical-science-agriculture-and-drug-design" target="_blank" rel="noopener">Frontiers in Bioinformatics</a> — Biological data science algorithms</div></div>
+          <div class="when">Jun 2023</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Guest Associate Editor</div><div class="venue"><a href="https://www.mdpi.com/journal/horticulturae/special_issues/Asparagus_Breeding" target="_blank" rel="noopener">Horticulturae</a> — Advances in Asparagus Production, Genomics and Breeding</div></div>
+          <div class="when">Jun 2023</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Guest Associate Editor</div><div class="venue"><a href="https://www.frontiersin.org/research-topics/45062/advances-in-conservation-characterization-and-use-of-asparagus-genetic-resources" target="_blank" rel="noopener">Frontiers in Plant Science</a> — Asparagus genetic resources</div></div>
+          <div class="when">Mar 2023</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Guest Associate Editor</div><div class="venue"><a href="https://www.mdpi.com/journal/plants/special_issues/Development_Application" target="_blank" rel="noopener">Plants</a> — Advanced genetics methods for orphan crops</div></div>
+          <div class="when">Oct 2021</div>
+        </div>
+        <div class="service-item">
+          <div><div class="role">Guest Associate Editor</div><div class="venue">Frontiers in Genetics</div></div>
+          <div class="when">Jan 2021</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PEER REVIEW -->
+    <section class="block" id="peer-review">
+      <div class="section-head">
+        <div class="eyebrow">Peer review</div>
+        <h2 class="title">Journals reviewed for</h2>
+      </div>
+      <div class="pill-cloud">
+        <span>Agronomy</span><span>Annals of Applied Biology</span><span>BMC Genomics</span><span>BMC Molecular Biology</span>
+        <span>BMC Plant Biology</span><span>Cytogenetic and Genome Research</span><span>Ecotoxicology</span>
+        <span>Evolutionary Bioinformatics</span><span>Forests</span><span>Frontiers in Plant Science</span><span>Gene</span>
+        <span>Genetica</span><span>Genes</span><span>Genome</span><span>Horticultural Science &amp; Biotechnology</span>
+        <span>International Journal of Molecular Sciences</span><span>Journal of the American Society for Horticultural Science</span>
+        <span>Journal of Experimental Botany</span><span>Journal of Plant Physiology</span><span>Microorganisms</span>
+        <span>Molecular Biology Reports</span><span>Molecules</span><span>PeerJ</span><span>Phytopathologia Mediterranea</span>
+        <span>Plant Methods</span><span>Plant Molecular Biology Reporter</span><span>Plant Physiology and Biochemistry</span>
+        <span>Planta</span><span>PLOS ONE</span><span>Scientific Reports</span><span>Weed Research</span>
+      </div>
+      <div style="margin-top:20px;">
+        <a class="nav-cta" href="https://publons.com/author/420232/jose-v-die#profile" target="_blank" rel="noopener" style="display:inline-block;">More on Publons →</a>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="block" id="contact" style="border-bottom:none;">
+      <div class="section-head">
+        <div class="eyebrow">Contact</div>
+        <h2 class="title">Get in touch</h2>
+      </div>
+      <div class="contact-links">
+        <a href="mailto:jose.die@uco.es">jose.die@uco.es</a>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="foot-bottom">
+    <span>© Jose V. Die — University of Córdoba</span>
+    <a href="../index.html">← Back to home</a>
+  </div>
+</footer>
+
+</body>
+</html>
