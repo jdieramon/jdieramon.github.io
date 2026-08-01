@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Events — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:920px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:28px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:64px 0 48px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:20px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2rem, 4.2vw, 2.9rem); line-height:1.12; letter-spacing:-0.01em; margin:0 0 16px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:16.5px; max-width:66ch; margin:0; }
+
+  .jump{ display:flex; flex-wrap:wrap; gap:8px; margin-top:26px; }
+  .jump a{ font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--ink-muted); border:1px solid var(--line); border-radius:20px; padding:5px 12px; transition:all .2s ease; }
+  .jump a:hover{ border-color:var(--green); color:var(--green); }
+
+  main.archive{ padding:48px 0 80px; }
+
+  .year-block{ border-top:1px solid var(--line); }
+  .year-block:last-of-type{ border-bottom:1px solid var(--line); }
+  .year-block summary{
+    cursor:pointer; padding:22px 0; list-style:none;
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-family:var(--serif); font-size:22px; font-weight:600;
+  }
+  .year-block summary::-webkit-details-marker{ display:none; }
+  .year-block summary .toggle{ font-family:var(--mono); font-size:16px; color:var(--gold); }
+  .year-body{ padding:0 0 32px; }
+  .month{ margin:22px 0 10px; font-family:var(--mono); font-size:12px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); }
+  .month:first-child{ margin-top:0; }
+  ul.entries{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:11px; }
+  ul.entries li{ font-size:14.5px; color:var(--ink); line-height:1.55; padding-left:16px; position:relative; }
+  ul.entries li::before{ content:"—"; position:absolute; left:0; top:0; color:var(--ink-muted); }
+  ul.entries li a{ color:var(--green); text-decoration:none; border-bottom:1px solid var(--green-light); }
+  ul.entries li .who{ color:var(--ink); font-weight:600; }
+
+  .stat-strip{ display:flex; gap:48px; flex-wrap:wrap; padding:56px 0; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .stat-strip .stat .num{ font-family:var(--serif); font-size:26px; color:var(--green); display:block; }
+  .stat-strip .stat .label{ font-size:13px; color:var(--ink-muted); }
+
+  footer{ padding:56px 0 40px; max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 620px){
+    nav.links{ display:none; }
+    .year-block summary{ font-size:19px; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a class="active" href="#events">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<div class="page-hero">
+  <div class="eyebrow">Events</div>
+  <h1 class="display">The full record, year by year.</h1>
+  <p class="lead">Every talk, thesis direction, committee, review assignment, and piece of press coverage since 2012 — kept complete and chronological so it doubles as a working log for updating my CV.</p>
+  <div class="jump">
+    <a href="#y2026">2026</a><a href="#y2025">2025</a><a href="#y2024">2024</a><a href="#y2023">2023</a>
+    <a href="#y2022">2022</a><a href="#y2021">2021</a><a href="#y2020">2020</a><a href="#y2019">2019</a>
+    <a href="#y2018">2018</a><a href="#y2017">2017</a><a href="#y2016">2016</a><a href="#y2015">2015</a>
+    <a href="#y2014">2014</a><a href="#y2013">2013</a><a href="#y2012">2012</a>
+  </div>
+</div>
+
+<main class="archive">
+  <div class="wrap">
+
+    <details class="year-block" id="y2026" open>
+      <summary>2026 <span class="toggle">−</span></summary>
+      <div class="year-body">
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>News feature: <a href="pubs.html#rne-interview" target="_blank" rel="noopener">RNE interview</a>. "Spanish researchers identify the factors that advance flowering."</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Co-direction of the Final Degree thesis "Análisis computacional del ADN repetitivo en el castaño europeo (<em>Castanea sativa</em> Mill.)" by <span class="who">Alejandro Arévalo Sánchez</span>, Dept. Genetics, ETSIAM, University of Córdoba. Jun 25, 2026.</li>
+          <li>Guest speaker: "Mejora genética vegetal: de los cruzamientos de Mendel a los modelos predictivos en la Agricultura del siglo XXI." <a href="https://jdieramon.github.io/pages/files/Programa_Seminario_IA.pdf" target="_blank" rel="noopener">Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible</a>.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li><a href="https://www.uco.es/servicios/actualidad/ciencia/item/165493-las-jornadas-andaluzas-de-bioinformatica-reunen-a-mas-de-un-centenar-de-especialistas-en-cordoba" target="_blank" rel="noopener">IV Jornadas Andaluzas de Bioinformática</a>, Córdoba.</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Guest speaker: "Smarter Plant Breeding: Where Bioinformatics Meets the Field." <a href="https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/" target="_blank" rel="noopener">Seminarios Instituto de Bioingeniería, Universidad Miguel Hernández</a>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2025" open>
+      <summary>2025 <span class="toggle">−</span></summary>
+      <div class="year-body">
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Guest speaker: "Fine-mapping strategy: an approach for precision chickpea breeding." <a href="https://sites.google.com/view/prfhcordoba2025/home?authuser=2" target="_blank" rel="noopener">Corteva Symposia Series — Córdoba 2025</a>.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Guest speaker: "CRISPR gene editing: reshaping the future of Agriculture." XXXVIII International Conference ASEPELT 2025, Alcalá de Henares.</li>
+          <li>Experts panel with Dr. <strong>Jose V. Die</strong> (UCO), Dr. <strong>Viviane Naimy</strong> (Notre Dame University-Louaize), Dr. <strong>Justus Wesseler</strong> (Wageningen University), and Sir <strong>Richard J. Roberts</strong>, Ph.D., F.R.S., 1993 Nobel Laureate in Physiology or Medicine.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>III Jornadas Andaluzas de Bioinformática, Málaga, 12–14 May.</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Serving as a PhD final defense committee member, <a href="https://www.umh.es/agenda/738/eventos_val.html" target="_blank" rel="noopener">Universidad Miguel Hernández</a>: "Herramientas moleculares para la caracterización genética de <em>Allium sativum</em> L. y otras especies vegetales." PhD candidate: <span class="who">Ricardo Parreño Montoro</span>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2024">
+      <summary>2024 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>Workshop <em>refseqR</em> (<a href="https://jdieramon.quarto.pub/refseqr--workshop-/" target="_blank" rel="noopener">slides available</a>).</li>
+          <li>Global Innovation Forum ECONATUR, Córdoba, 18–19 Nov.</li>
+          <li>III Congreso y XIV Jornadas de Usuarios de R, Sevilla, 6–8 Nov.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>"Mejora genética vegetal: diez mil años aumentando la producción y la calidad de los alimentos." <a href="https://doi.org/10.64628/AAO.5gpqvtc6w" target="_blank" rel="noopener">The Conversation</a>.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Direction of the Final Master Degree thesis "Dashboard development for genomic data management in the Fagaceae family" by <span class="who">Rafael Postigo Luque</span>, Máster en Transformación Digital en el Sector Agroalimentario y Forestal, Córdoba, Sep 23.</li>
+          <li>Direction of the Final Degree thesis "Nucleotide Composition and Gene Structure in the Cultivated Chickpea Genome" by <span class="who">David Carrera Natera</span>, Dept. Genetics, University of Córdoba.</li>
+          <li>News feature: statements to the local press in connection with participation in the <a href="https://www.openaiagrifood.com/" target="_blank" rel="noopener">Smart Agrifood AI Congress</a>: <a href="https://www.eldiadecordoba.es/cordoba/cordoba-epicentro-innovacion-agroalimentaria-inteligencia-artificial_0_2002407287.html" target="_blank" rel="noopener">El Día de Córdoba</a> and <a href="https://www.diariocordoba.com/agricultura-medio-ambiente/2024/09/19/expertos-fian-futuro-sector-agrario-108312176.html" target="_blank" rel="noopener">Diario Córdoba</a>.</li>
+          <li>Chair of the panel discussion "Artificial Intelligence in the Agri-food Chain and Food Experience," <a href="https://www.openaiagrifood.com/" target="_blank" rel="noopener">Smart Agrifood AI Congress</a>, Córdoba, 19–20 Sep.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Publication in <a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-024-05411-y" target="_blank" rel="noopener">BMC Plant Biology</a>: developed and studied a near-isogenic line pair for flowering time, with differences in days to flowering and shoot architecture; identified differential variants in <em>MED16</em> and <em>STO/BBX24</em>.</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>News feature: <strong>Molecular Breeding Group</strong>'s work profiled in the local press: <a href="https://www.diariocordoba.com/universidad/2024/06/05/herramientas-adn-mejorar-cultivos-103349325.html" target="_blank" rel="noopener">"Usan herramientas de ADN para mejorar cultivos"</a>, Diario Córdoba.</li>
+          <li>Study on alder species diversity and genetic structure in Spain (<em>Alnus glutinosa</em> and <em>A. lusitanica</em>) published in Forest Ecology and Management, led by <strong>Dr. A. Martín</strong>.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>Opinion piece on genome reference selection and centralized sequence availability, published in <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/leg3.224" target="_blank" rel="noopener">Legume Science</a>.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving as a PhD final defense committee member, <a href="https://www.ias.csic.es/eventos/defensa-tesis-doctoral-salvador-osuna-caballero/" target="_blank" rel="noopener">IAS-CSIC</a>: "Pea genetic breeding to enhance rust resistance in Mediterranean environments." PhD candidate: <span class="who">Salvador Osuna Caballero</span>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2023">
+      <summary>2023 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>Conference "Datos abiertos en la era post-genómica," <a href="https://www.fundacioncarolina.es/mas-de-40-becarios-y-becarias-de-fundacion-carolina-se-reunen-en-cordoba/" target="_blank" rel="noopener">Jornada Institucional Fundación Carolina</a>.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Direction of the Final Master Degree thesis "Desarrollo de metodología qPCR para identificación de plantas 'supermacho' poliploides en espárrago" by <span class="who">Rafael Postigo Luque</span>, Dept. Genetics, ETSIAM, University of Córdoba, Sep 26.</li>
+          <li>Direction of the Final Master Degree thesis "Genomics tools for the analysis of flowering time in chickpea" by <span class="who">Ilaria Inserra</span>, Dept. Genetics, ETSIAM, University of Córdoba, Sep 26.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Direction of the Final Degree thesis "Identificación y caracterización de la respuesta molecular del Castaño a la sequía" by <span class="who">Clara Ávila Ledesma</span>, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2022">
+      <summary>2022 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>VII Congreso Científico de Investigadores Noveles (UCO), Rectorado Universidad de Córdoba, 14 Dic.</li>
+        </ul>
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>News feature: <a href="https://www.uco.es/ucci/es/noticias-gen/item/3997-un-congreso-en-la-uco-resalta-la-importancia-del-lenguaje-de-programacion-r" target="_blank" rel="noopener">Unidad de Cultura Científica UCO</a>, on the R programming conference at UCO.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Plant Breeding and Phytopathologia Mediterranea.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Direction of the Final Master Degree thesis "Characterization of candidate genes for flowering time in chickpea using a pair of Near-isogenic lines" by <span class="who">Adrián Pérez-Rial</span> — Extraordinary MSc Thesis Award, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+          <li><strong>Guijo-Rubio D.</strong>, <strong>Vargas V. M.</strong>, <strong>Barbero-Gómez J.</strong>, <strong>Die J. V.</strong>, &amp; <strong>González-Moreno P.</strong> (2022). "Hackathon en docencia: Aprendizaje Automático aplicado a Ciencias de la Vida." Revista de Innovación y Buenas Prácticas Docentes, 11(2), 19–37.</li>
+          <li>Serving as reviewer for Phytopathologia Mediterranea and Plant Breeding.</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Invited closing conference, Master in Biotechnology, University of Córdoba, class 2021/22: "Open data in the post-genomic era," 30 Jun.</li>
+          <li>Oral presentation "Asparagus Breeding Program in Córdoba (Spain)," Session Genetics and Breeding, <a href="https://www.ias2022.com/" target="_blank" rel="noopener">XV International Asparagus Symposium</a>, 12–15 Jun.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>Teaching at Universita di Napoli Federico II, Italy, 23–27 May, stay supported by the Erasmus+ Program and ceiA3.</li>
+          <li>Serving as reviewer for Plant Physiology and Biochemistry.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Phytopathologia Mediterranea, Plant Physiology and Biochemistry, and Genetica.</li>
+          <li>Joined the Editorial Board of the journal <a href="https://www.mdpi.com/journal/horticulturae" target="_blank" rel="noopener">Horticulturae</a>.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving as a PhD final defense committee member, <a href="https://www.unex.es/?set_language=en" target="_blank" rel="noopener">Universidad de Extremadura</a>: "Diversidad de <em>Castanea sativa</em> Mill. en base a marcadores genéticos relacionados con el estrés hídrico y la tolerancia a <em>Phytophthora cinnamomi</em> Rands." PhD candidate: <span class="who">Francisco Alcaide Romero</span>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2021">
+      <summary>2021 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>Dec 9–17, Córdoba. New edition of the course <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">"Introduction to R programming for Data Science"</a> (30h), University of Córdoba.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Scientific Reports, Gene, and Plant Breeding.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Plant Physiology and Biochemistry, Plant and Molecular Biology of Plants, and Horticulturae.</li>
+          <li>Direction of the Final Degree thesis "Aprendizaje supervisado para determinación de emergencia en maceta" by <span class="who">Rafael Postigo Luque</span>, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Invited panel discussion "Investiga, Publica y Twittea," XI Encuentro Estudiantes de Doctorado, Instituto de Agricultura Sostenible-CSIC, Córdoba.</li>
+          <li>Direction of the Final Master Degree thesis "Anotación estructural y funcional del cromosoma 4 de <em>Cicer reticulatum</em>" by <span class="who">Alejandro Carmona Jiménez</span>, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>Hackathon Biodata UCO — awards ceremony.</li>
+          <li>Serving as reviewer for Evolutionary Bioinformatics.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Analytical Biochemistry.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Hackathon Biodata UCO, Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).</li>
+          <li>Named Marie Skłodowska-Curie Actions "Fellow of the Week."</li>
+          <li>Serving as reviewer for Cytogenetic and Genome Research.</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Scientific Reports, BMC Plant Biology, Forests, and Frontiers in Plant Science.</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Serving as reviewer for BMC Plant Biology.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2020">
+      <summary>2020 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>Direction of the Final Degree thesis "Estructura y composición de las regiones no-recombinantes del garbanzo (<em>Cicer arietinum</em>)" by <span class="who">Juan Casado Marmol</span>, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Sustainability (Open Access).</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Microorganisms, BMC Genomics, and BMC Plant Biology (all Open Access).</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Microorganisms (Open Access).</li>
+          <li>Paper on mutations in a blueberry <em>MYB</em> transcription factor affecting anthocyanin biosynthesis regulation — selected as the journal issue cover.</li>
+        </ul>
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Serving as reviewer for BMC Plant Biology.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Invited speaker: "Automated Clustering of Plant Gene Families from NCBI Databases," Plant Bioinformatics Resources Workshop, <a href="https://plantbiology.aspb.org/" target="_blank" rel="noopener">Plant Biology Worldwide Summit</a>, 27–31 Jul.</li>
+          <li>Direction of the final thesis "Análisis bioinformático de genes candidatos para resistencia a <em>Fusarium oxysporum</em> en garbanzo" by <span class="who">Alejandro Carmona Jiménez</span> (Bachelor degree), Dept. Genetics, ETSIAM, University of Córdoba.</li>
+          <li>News feature: "Outbreak: COVID-19 Pandemic Shutters Chickpea Lab," <a href="https://www.mariecuriealumni.eu/newsletters/23rd-mcaa-newsletter/special-coverage-covid-19-newsletter-july-2020" target="_blank" rel="noopener">Marie Curie Alumni Association Newsletter</a>.</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Scientific Reports and Agronomy.</li>
+          <li>Final degree thesis (TFG) defense committee member, ETSIAM, University of Córdoba: "Detección de la posible introgresión genética en una población de <em>Castanea sativa</em> Mill. en Galicia." Undergraduate student: <span class="who">Mireya Salas Molina</span>, Jun 25.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>Serving as reviewer for BMC Genomics, BMC Genetics, and Genomics.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Apr 21, Córdoba. Invited Lecturer, "Big Data in Plant Genomics," Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+          <li>Serving as reviewer for Scientific Reports.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Molecular Biology Reports, BMC Microbiology, and Cytogenetic and Genome Research.</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Serving as reviewer for The Journal of Horticultural Science &amp; Biotechnology and Molecular Biology Reports.</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Serving as PyCon Charlas reviewer, PyCon Conference, Pittsburgh, PA, USA, Apr 15–23.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2019">
+      <summary>2019 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>Nov 25 – Dec 4, Córdoba. New edition of the course <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">"Introduction to R programming for Data Science"</a> (30h), University of Córdoba.</li>
+          <li>Serving as reviewer for Revista Española de Estudios Agrosociales y Pesqueros (REEAP).</li>
+        </ul>
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>Serving as reviewer for International Journal of Molecular Sciences (Open Access).</li>
+          <li>Invited speaker: presentation of the <a href="https://cran.r-project.org/web/packages/geneHummus/index.html" target="_blank" rel="noopener">geneHummus</a> package — automatic annotation of gene families, XI Jornadas de Usuarios R, Madrid, 14–16 Nov.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Plant Physiology and Biochemistry and International Journal of Molecular Sciences.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Plant Physiology and Biochemistry and International Journal of Molecular Sciences.</li>
+        </ul>
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Genome.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Academic director and lecturer, <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">"Introduction to R programming for Data Science"</a>, 3rd edition (30h), University of Córdoba.</li>
+          <li>Direction of the final thesis "Búsqueda bioinformática de familias génicas en genomas de cultivos" by <span class="who">Rocío Sánchez Gil</span> (Bachelor degree), Dept. Genetics, ETSIAM, University of Córdoba.</li>
+          <li>Serving as reviewer for BMC Genomics and Frontiers in Plant Science.</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Invited seminar (organized by PhD Students IdEP, UCO): "Museo del Prado, Lumière Brothers and Open Data in the Molecular Era," University of Córdoba, Jun 7.</li>
+          <li>Serving as reviewer for Scientific Reports and Agronomy (Open Access).</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li><a href="http://iclgg2019.com/" target="_blank" rel="noopener">International Conference on Legume Genetics and Genomics</a>, Dijon, France, 13–17 May.</li>
+          <li>Serving as reviewer for International Journal of Molecular Sciences, Frontiers in Plant Science, and Genome.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Serving as reviewer for International Journal of Molecular Sciences and Agronomy (Open Access).</li>
+          <li>Apr 30, Córdoba. Lecture, "Big Data in Plant Genomics," Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Molecules (Open Access).</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Serving as reviewer for International Journal of Molecular Sciences (Open Access).</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Serving as reviewer for International Journal of Molecular Sciences (Open Access) and PyCon 2019 Charlas.</li>
+          <li>Jan 31, Córdoba. Molecular Breeding Group Lab Meeting, seminar "Museo del Prado, Hermanos Lumière y Datos Abiertos en la Era Molecular."</li>
+          <li>Jan 15, San Diego, CA, USA. Invited speaker: "GeneHummus: A Computational Pipeline to Define Gene Families and their Expression in Legumes and other Plant Species," Plant and Animal Genome XXVII Conference (PAG).</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2018">
+      <summary>2018 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Genes, International Journal of Molecular Sciences, PeerJ, and Plant Methods (all Open Access).</li>
+          <li>Dec 10–20, Córdoba. Academic director and lecturer, <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">"Introduction to R programming for Data Science"</a>, 2nd edition (30h), University of Córdoba.</li>
+          <li>Dec 5, Córdoba. Co-direction of the final thesis "Genetic control of androsterility in celery" by <span class="who">Maria Jurado Cañas</span> (MSc), Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+        <div class="month">Nov</div>
+        <ul class="entries">
+          <li>Nov 27–29, Córdoba. Lectures on "Introduction to R programming for Data Science," Master's Degree in Representation and Design in Engineering and Architecture (9h), University of Córdoba.</li>
+          <li>Serving as reviewer for Genes.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Oct 22–23, Córdoba. Invited speaker: "An automated pipeline to study plant gene families based on protein domain organization," Jornada Científico-Técnica y VI Jornadas Asociación Española de Leguminosas (AEL).</li>
+          <li>Oct 18, Córdoba. Co-direction of the final thesis "Identification and characterization of the superfamily ALDH in chickpea (<em>Cicer arietinum</em> L.) using bioinformatics open-based tools" by <span class="who">Rocio Carmona Molero</span> (MSc) — Extraordinary MSc Thesis Award, Dept. Genetics, ETSIAM, University of Córdoba.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Sep 5–7, Ancona, Italy. XXIV National Congress of the Italian Phytopathological Society (SIPaV).</li>
+        </ul>
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Aug 27–31, Dubrovnik, Croatia. 69th Annual Meeting of the European Federation of Animal Science (EAAP 2018).</li>
+          <li>Serving as reviewer for the Journal of Plant Breeding and Crop Science (Open Access).</li>
+          <li>Aug 12–15, Orono, Maine, USA. North American Blueberry Research and Extension Workers Conference (NABREW 2018).</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Molecules (Open Access).</li>
+          <li>Jul 9–13, Córdoba. Academic director and lecturer, <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">"Introduction to R programming for Data Science"</a>, 1st edition (30h), University of Córdoba.</li>
+          <li>Jul 9–13, Córdoba. Reviewer of the final thesis "Evaluación de la resistencia a odio en <em>Vicia faba</em>" by <span class="who">Lucía García Castilla</span> (MSc), Dept. Biochemistry and Molecular Biology, University of Córdoba.</li>
+        </ul>
+        <div class="month">May</div>
+        <ul class="entries">
+          <li>May 1–30, Bethesda, MD, USA. Scientific Visitor Program, National Center for Biotechnology Information (NCBI-NIH).</li>
+          <li>May 12–15, Marrakech, Morocco. 7th International Food Legume Research Conference (IFLRC-VII).</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Talk Selection Committee, "PyCon Charlas," PyCon US, Cleveland 2018.</li>
+          <li>Serving on the Student Travel Award Committee, American Phytopathological Society Foundation.</li>
+          <li>Serving as reviewer for Genes.</li>
+          <li>Apr 16, Córdoba. Lecture: "Molecular regulation of anthocyanins in blueberry," Master's Degree in Plant Production, Protection and Improvement, University of Córdoba.</li>
+          <li>Apr 12, Córdoba. Lecture: "Big Data in Plant Genomics," Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Feb 7, Córdoba. Lecture: "Big Data in Plant Genomics," Molecular Markers in Plant Breeding, Master's Degree in Biotechnology, University of Córdoba.</li>
+          <li>Serving as reviewer for Plant Physiology and Biochemistry.</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Jan 13–17, San Diego, CA, USA. Plant &amp; Animal Genome Conference (PAG XXVI).</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2017">
+      <summary>2017 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Dec</div>
+        <ul class="entries">
+          <li>Dec 18–22, Valencia. Course "NGS sequence analysis," COMAV.</li>
+          <li>Serving as reviewer for Methods and Protocols (Open Access).</li>
+          <li>Dec 18, Córdoba. Co-direction of the final thesis "Caracterización del QTLAR3 para resistencia a rabia en garbanzo (<em>Cicer arietinum</em> L.)" by <span class="who">Julián García Muñoz</span> (MSc), Dept. Genetics, ETSIAM, University of Córdoba.</li>
+          <li>Dec 12, Córdoba. Lecture: "Fundamentals of real-time qPCR," Marcadores Moleculares y su uso en Mejora Vegetal, Master's Degree in Plant Production, Protection and Improvement, University of Córdoba, 6–7pm.</li>
+        </ul>
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Oct 19, Córdoba. Lecture: "Big Data en Genómica de Plantas," Marcadores Moleculares y su uso en Mejora Vegetal, Master's Degree in Plant Production, Protection and Improvement, University of Córdoba.</li>
+          <li>Oct 5, Córdoba. Seminar: "Big Data en Genómica de Plantas," "Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0," University of Córdoba.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Sep 25, Córdoba. Co-direction of the final thesis "Búsqueda de marcadores ligados al gen de la androesterilidad en apio" by <span class="who">María Jurado Cañas</span> (Bachelor degree), Dept. Genetics, ETSIAM, University of Córdoba.</li>
+          <li>Sep 18–22, Siofok, Hungary. 8th International Conference on Legume Genetics and Genomics (ICGL2017).</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving on the Student Travel Award Committee, American Phytopathological Society Foundation.</li>
+        </ul>
+        <div class="month">Feb</div>
+        <ul class="entries">
+          <li>Feb 23, Córdoba. Invited seminar: "Regulación molecular de la biosíntesis de las antocianinas en arándano," Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica.</li>
+          <li>Feb 10, Córdoba. Invited seminar: "Regulación molecular de la biosíntesis de las antocianinas en arándano," Seminarios Interdepartamentales Bioquímica, Biología Molecular y Genética, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2016">
+      <summary>2016 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Oct 28, Granada. Invited seminar: "Transparencia y buenas prácticas en experimentos qPCR," Estación Experimental del Zaidín-CSIC.</li>
+          <li>Oct 20–21, London, UK. Invited speaker: "Quality Control and Technical Variance in plant qPCR analysis," 4th qPCR &amp; Digital PCR Congress.</li>
+        </ul>
+        <div class="month">Summer</div>
+        <ul class="entries">
+          <li>USDA-ARS, Beltsville, MD. Mentorship and supervision to <span class="who">Luis Antonio Delgado</span> (University of California, Riverside).</li>
+        </ul>
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Aug 8–11, Atlanta, GA. American Society for Horticultural Science (ASHS) annual meeting.</li>
+          <li>Serving as reviewer for PLOS ONE.</li>
+        </ul>
+        <div class="month">Jul</div>
+        <ul class="entries">
+          <li>Serving as reviewer for Scientific Reports.</li>
+          <li>Advisory Panel, 2nd qPCR &amp; Digital PCR Congress USA, Jul 11–12, Philadelphia, PA.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Serving on the Student Travel Award Committee, American Phytopathological Society Foundation.</li>
+          <li>GIFVL meeting seminar: "Understanding the molecular regulation of anthocyanin biosynthesis in blueberry," Mar 9.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2015">
+      <summary>2015 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Oct</div>
+        <ul class="entries">
+          <li>Serving as External Expert Reviewer for grants panel, National Science Centre, Poland.</li>
+        </ul>
+        <div class="month">Sep</div>
+        <ul class="entries">
+          <li>Sep 28, Bethesda, MD. "Presenting Data &amp; Information" course by Edward Tufte.</li>
+        </ul>
+        <div class="month">Summer</div>
+        <ul class="entries">
+          <li>USDA-ARS, Beltsville, MD. Mentorship and supervision to <span class="who">Andrea Irizarry</span> (Inter American University of Puerto Rico).</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Jun 25–26, San Diego, CA. Session Chairman, "Plant, Food and Environmental Case Studies," qPCR &amp; Digital PCR Congress USA.</li>
+          <li>Jun 25–26, San Diego, CA. Invited speaker: "Quality control and Technical Variance in plant qPCR analysis," qPCR &amp; Digital PCR Congress USA.</li>
+          <li>Jun 11, Beltsville, MD. GIFVL meeting seminar: "Global patterns of protein abundance during the development of cold hardiness in blueberry."</li>
+          <li>Jun 4, Córdoba. External referee report on the PhD thesis "Suitability of summer squash cultivars to be processed as fresh-cut products," University of Córdoba. PhD candidate: <span class="who">María Teresa Blanco Díaz</span>.</li>
+        </ul>
+        <div class="month">Jan</div>
+        <ul class="entries">
+          <li>Jan 14, Almería. Serving as a PhD final defense committee member, University of Almería: "Nuevos recursos para la mejora genética de la especie <em>Cucurbita pepo</em>: colección de mutantes y plataforma de selección TILLING." PhD candidate: <span class="who">Nelly Vicente Dólera</span>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2014">
+      <summary>2014 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Aug 23. Free access link released for "Elucidating cold acclimation pathway in blueberry by transcriptome profiling," <strong>Die</strong> and <strong>Rowland</strong> (2014).</li>
+          <li>Aug 21–22, Laurel, MD. 31st MAPMBS Conference.</li>
+        </ul>
+        <div class="month">Jun</div>
+        <ul class="entries">
+          <li>Jun 23–26, Atlantic City, NJ. 12th North American Blueberry Research and Extension Workers (NABREW) Conference.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2013">
+      <summary>2013 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Aug 15–16, Laurel, MD. 30th MAPMBS Conference.</li>
+        </ul>
+        <div class="month">Mar</div>
+        <ul class="entries">
+          <li>Mar 14, Beltsville, MD. GIFVL meeting seminar: "Quality controls in qPCR."</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2012">
+      <summary>2012 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <div class="month">Aug</div>
+        <ul class="entries">
+          <li>Aug 16–17, Laurel, MD. 29th MAPMBS Conference.</li>
+        </ul>
+        <div class="month">Apr</div>
+        <ul class="entries">
+          <li>Apr 16–20, Almería. XIII Congreso Nacional de Ciencias Hortícolas (SECH).</li>
+        </ul>
+      </div>
+    </details>
+
+  </div>
+</main>
+
+<div class="stat-strip">
+  <div class="stat"><span class="num">15</span><span class="label">Years of continuous record (2012–2026)</span></div>
+  <div class="stat"><span class="num">10+</span><span class="label">Thesis &amp; PhD committees directed or examined</span></div>
+  <div class="stat"><span class="num">30+</span><span class="label">Peer-review assignments across journals</span></div>
+</div>
+
+<footer>
+  <div class="foot-bottom">
+    <span>© Jose V. Die — University of Córdoba</span>
+    <a href="../index.html">← Back to home</a>
+  </div>
+</footer>
+
+</body>
+</html>

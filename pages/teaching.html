@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teaching — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:920px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:24px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:64px 0 48px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:20px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2rem, 4.2vw, 2.9rem); line-height:1.12; letter-spacing:-0.01em; margin:0 0 16px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:16.5px; max-width:66ch; margin:0; }
+
+  .jump{ display:flex; flex-wrap:wrap; gap:8px; margin-top:26px; }
+  .jump a{ font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--ink-muted); border:1px solid var(--line); border-radius:20px; padding:5px 12px; transition:all .2s ease; }
+  .jump a:hover{ border-color:var(--green); color:var(--green); }
+
+  main.archive{ padding:48px 0 0; }
+  section.block{ padding:0 0 72px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  section.block .section-head{ max-width:640px; margin-bottom:36px; padding-top:56px; }
+  section.block .section-head .eyebrow{ margin-bottom:14px; }
+  h2.title{ font-family:var(--serif); font-size:clamp(1.5rem, 2.6vw, 2rem); font-weight:600; margin:0 0 12px; letter-spacing:-0.01em; }
+  section.block .section-head p{ color:var(--ink-muted); font-size:15.5px; margin:0; }
+
+  .year-block{ border-top:1px solid var(--line); max-width:920px; margin:0 auto; }
+  .year-block:last-of-type{ border-bottom:1px solid var(--line); }
+  .year-block summary{
+    cursor:pointer; padding:20px 0; list-style:none;
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-family:var(--serif); font-size:20px; font-weight:600;
+  }
+  .year-block summary::-webkit-details-marker{ display:none; }
+  .year-block summary .toggle{ font-family:var(--mono); font-size:16px; color:var(--gold); }
+  .year-body{ padding:0 0 28px; }
+  ul.entries{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:11px; }
+  ul.entries li{ font-size:14.5px; color:var(--ink); line-height:1.55; padding-left:16px; position:relative; }
+  ul.entries li::before{ content:"—"; position:absolute; left:0; top:0; color:var(--ink-muted); }
+  ul.entries li a{ color:var(--green); text-decoration:none; border-bottom:1px solid var(--green-light); }
+
+  /* TEACHING MATERIALS */
+  .material-list{ display:flex; flex-direction:column; gap:2px; }
+  .material{ display:flex; justify-content:space-between; gap:16px; padding:14px 0; border-top:1px solid var(--line); align-items:baseline; }
+  .material:last-child{ border-bottom:1px solid var(--line); }
+  .material a{ text-decoration:none; font-size:14.5px; border-bottom:1px solid transparent; transition:border-color .2s ease; }
+  .material a:hover{ border-color:var(--ink); }
+  .material .venue{ font-family:var(--mono); font-size:12.5px; color:var(--ink-muted); white-space:nowrap; }
+
+  /* COURSE LINKS */
+  .course-links{ display:flex; flex-wrap:wrap; gap:14px; margin-top:28px; }
+
+  footer{ padding:56px 0 40px; max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 620px){
+    nav.links{ display:none; }
+    .year-block summary{ font-size:18px; }
+    .material{ flex-direction:column; gap:2px; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a class="active" href="#lectures">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<div class="page-hero">
+  <div class="eyebrow">Teaching</div>
+  <h1 class="display">Lectures, courses, and the materials behind them.</h1>
+  <p class="lead">A complete record of the lectures and courses I teach (2017–2021), plus the courses I currently run and the readings I bring into the classroom.</p>
+  <div class="jump">
+    <a href="#lectures">Lectures</a>
+    <a href="#courses">Courses</a>
+    <a href="#materials">Teaching materials</a>
+  </div>
+</div>
+
+<main class="archive">
+
+  <!-- LECTURES -->
+  <section class="block" id="lectures">
+    <div class="section-head">
+      <div class="eyebrow">Lectures</div>
+      <h2 class="title">Teaching, 2017 – 2021</h2>
+      <p>Invited lectures and the "Introduction to R programming for Data Science" course.</p>
+    </div>
+
+    <details class="year-block" open>
+      <summary>2021 <span class="toggle">−</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Apr 14, Córdoba. Invited Lecture: "Big Data in Plant Genomics." Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block">
+      <summary>2020 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Apr 21, Córdoba. Invited Lecture: "Big Data in Plant Genomics." Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block">
+      <summary>2019 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Nov 25 – Dec 4, Córdoba. <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">Introduction to R programming for Data Science</a>, 4th edition (30h), University of Córdoba.</li>
+          <li>Jun 17–27, Córdoba. <a href="https://jdieramon.github.io/CursoAnalisisDatos/" target="_blank" rel="noopener">Introduction to R programming for Data Science</a>, 3rd edition (30h), University of Córdoba.</li>
+          <li>Apr 30, Córdoba. Invited Lecture: "Big Data in Plant Genomics." Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block">
+      <summary>2018 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Dec 10–20, Córdoba. Introduction to R programming for Data Science, 2nd edition (30h), University of Córdoba.</li>
+          <li>Nov 27–29, Córdoba. Invited Lecture series: "Introduction to R programming for Data Science" (10h). Master's Degree in Representation and Design in Engineering and Architecture, University of Córdoba.</li>
+          <li>Jul 9–13, Córdoba. Introduction to R programming for Data Science, 1st edition (30h), University of Córdoba.</li>
+          <li>May 25, Bethesda, MD. Invited Lecture on Data Analysis and Visualization for The City University of New York (CUNY), 2h. Visiting Bioinformaticians Program, NCBI.</li>
+          <li>Apr 16, Córdoba. Invited Lecture: "Molecular regulation of anthocyanins in blueberry." Master's Degree in Plant Production, Protection and Improvement, University of Córdoba.</li>
+          <li>Apr 12, Córdoba. Invited Lecture: "Big Data in Plant Genomics." Biotechnology and Plant Breeding, Master's Degree in Agronomic Engineering, University of Córdoba.</li>
+          <li>Feb 7, Córdoba. Invited Lecture: "Big Data in Plant Genomics." Molecular Markers in Plant Breeding, Master's Degree in Biotechnology, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block">
+      <summary>2017 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Dec 12, Córdoba. Invited Lecture: "Fundamentals of real-time qPCR." Marcadores Moleculares y su uso en Mejora Vegetal, Master's Degree in Plant Production, Protection and Improvement, University of Córdoba.</li>
+          <li>Oct 19, Córdoba. Invited Lecture: "Big Data en Genómica de Plantas." Marcadores Moleculares y su uso en Mejora Vegetal, Master's Degree in Plant Production, Protection and Improvement, University of Córdoba.</li>
+          <li>Oct 5, Córdoba. Invited Lecture: "Big Data en Genómica de Plantas." Big Data y Machine Learning. Agroalimentación, Agricultura y Montes 4.0, University of Córdoba.</li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+  <!-- COURSES -->
+  <section class="block" id="courses">
+    <div class="section-head">
+      <div class="eyebrow">Courses</div>
+      <h2 class="title">Courses I currently teach</h2>
+      <p>Self-contained courses, open to researchers who want to turn their own data into results.</p>
+    </div>
+    <div class="course-links">
+      <a class="nav-cta" href="https://jdieramon.github.io/CursoAnalisisDatos/cursoR.html" target="_blank" rel="noopener" style="display:inline-block;">Introduction to R for Data Analysis (course) →</a>
+      <a class="nav-cta" href="https://jdieramon.github.io/CursoSentiment/curso.html" target="_blank" rel="noopener" style="display:inline-block;">Text mining and sentiment analysis with R (course) →</a>
+    </div>
+  </section>
+
+  <!-- TEACHING MATERIALS -->
+  <section class="block" id="materials" style="border-bottom:none;">
+    <div class="section-head">
+      <div class="eyebrow">Teaching materials</div>
+      <h2 class="title">Readings I use in my lectures</h2>
+      <p>Background reading on genome sequencing that comes up often in my Big Data and plant genomics courses.</p>
+    </div>
+    <div class="material-list">
+      <div class="material">
+        <a href="http://www.nytimes.com/2011/12/01/business/dna-sequencing-caught-in-deluge-of-data.html" target="_blank" rel="noopener">DNA Sequencing Caught in Deluge of Data</a>
+        <span class="venue">The New York Times, 2011</span>
+      </div>
+      <div class="material">
+        <a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-8-125" target="_blank" rel="noopener">The real cost of sequencing</a>
+        <span class="venue">Genome Biology, 2011</span>
+      </div>
+      <div class="material">
+        <a href="https://jdieramon.github.io/pages/files/2014PlantGenomes.pdf" target="_blank" rel="noopener">Plant genome sequencing — applications for crop improvement</a>
+        <span class="venue">Curr Op Plant Biol, 2014</span>
+      </div>
+      <div class="material">
+        <a href="https://jdieramon.github.io/pages/files/2016%20History%20of%20Sequencing.pdf" target="_blank" rel="noopener">The sequence of sequencers: the history of sequencing DNA</a>
+        <span class="venue">Genomics, 2016</span>
+      </div>
+      <div class="material">
+        <a href="https://jdieramon.github.io/pages/files/2018%20Guide%20to%20sequence%20your%20genomes.pdf" target="_blank" rel="noopener">A guide to sequence your favorite plant genomes</a>
+        <span class="venue">Applications in Plant Sciences, 2018</span>
+      </div>
+      <div class="material">
+        <a href="https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes" target="_blank" rel="noopener">Sequenced plant genomes</a>
+        <span class="venue">Reference wiki</span>
+      </div>
+      <div class="material">
+        <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_blank" rel="noopener">Bad News Wrapped in Protein: Inside the Coronavirus Genome</a>
+        <span class="venue">The New York Times, 2020</span>
+      </div>
+      <div class="material">
+        <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_blank" rel="noopener">How Coronavirus Mutates and Spreads</a>
+        <span class="venue">The New York Times, 2020</span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="foot-bottom">
+    <span>© Jose V. Die — University of Córdoba</span>
+    <a href="../index.html">← Back to home</a>
+  </div>
+</footer>
+
+</body>
+</html>

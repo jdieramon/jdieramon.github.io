@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Software — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:1080px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:24px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:72px 0 56px; border-bottom:1px solid var(--line); }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:22px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2.1rem, 4.4vw, 3.1rem); line-height:1.1; letter-spacing:-0.01em; margin:0 0 18px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:17px; max-width:62ch; margin:0; }
+
+  section{ padding:64px 0; border-bottom:1px solid var(--line); }
+  section.alt{ background:var(--bg-alt); }
+  .section-head{ margin-bottom:36px; max-width:640px; }
+  .section-head .eyebrow{ margin-bottom:14px; }
+  h2.title{ font-family:var(--serif); font-size:clamp(1.4rem, 2.4vw, 1.8rem); font-weight:600; margin:0 0 10px; letter-spacing:-0.01em; }
+  .section-head p{ color:var(--ink-muted); font-size:15px; margin:0; }
+
+  .card-grid{ display:grid; grid-template-columns:repeat(2, 1fr); gap:20px; }
+  .card{ background:var(--paper); border:1px solid var(--line); border-radius:var(--radius); padding:26px; transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease; }
+  .card:hover{ transform:translateY(-3px); border-color:var(--green-light); box-shadow:0 10px 24px -14px rgba(47,74,60,0.35); }
+  .card .tag{ font-family:var(--mono); font-size:11.5px; color:var(--gold); letter-spacing:0.06em; text-transform:uppercase; display:block; margin-bottom:12px; }
+  .card h3{ font-family:var(--serif); font-size:18px; margin:0 0 10px; font-weight:600; }
+  .card h3 a{ text-decoration:none; color:var(--ink); border-bottom:1px solid var(--green-light); }
+  .card h3 a:hover{ color:var(--green); }
+  .card p{ font-size:14.5px; color:var(--ink-muted); margin:0; }
+  .card .sub-links{ margin-top:12px; display:flex; flex-wrap:wrap; gap:8px; }
+  .card .sub-links a{ font-family:var(--mono); font-size:12px; text-decoration:none; color:var(--ink); border:1px solid var(--line); border-radius:20px; padding:5px 12px; transition:all .2s ease; }
+  .card .sub-links a:hover{ border-color:var(--green); color:var(--green); }
+
+  .single-grid{ display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+
+  footer{ padding:56px 0 40px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 760px){
+    .card-grid, .single-grid{ grid-template-columns:1fr; }
+    nav.links{ display:none; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<main>
+
+  <section class="page-hero">
+    <div class="wrap">
+      <div class="eyebrow">Software</div>
+      <h1 class="display">R packages, tools, and apps I build and maintain.</h1>
+      <p class="lead">From CRAN packages for genomic data to Shiny apps for exploring chickpea pangenome data — code written to make plant genomics analysis more reproducible.</p>
+    </div>
+  </section>
+
+  <!-- CRAN PACKAGES -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">CRAN packages</div>
+        <h2 class="title">Published, peer-reviewed R packages</h2>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <span class="tag">R package</span>
+          <h3><a href="https://CRAN.R-project.org/package=refseqR" target="_blank" rel="noopener">refseqR</a></h3>
+          <p>A framework of common computational operations working with RefSeq entries (GenBank). Provides summary information at three levels: gene, transcript, and protein sequences.</p>
+        </div>
+        <div class="card">
+          <span class="tag">R package · dataset</span>
+          <h3><a href="https://cran.r-project.org/web/packages/airqualityES/index.html" target="_blank" rel="noopener">airqualityES</a></h3>
+          <p>Daily air quality measurements in Spain over 18 years (2001–2018), across several pollutants. Openly published by the Government of Spain, tidied into a single dataframe for researchers, journalists, or the general public.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ANNOTATION PACKAGES -->
+  <section class="alt">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">Annotation packages</div>
+        <h2 class="title">Gene family &amp; genome resources</h2>
+      </div>
+      <div class="card-grid">
+        <div class="card">
+          <span class="tag">Pipeline</span>
+          <h3><a href="https://github.com/NCBI-Hackathons/GeneHummus" target="_blank" rel="noopener">GeneHummus</a></h3>
+          <p>An automated pipeline with high specificity and sensitivity in extracting proteins from the RefSeq database (NCBI) based on protein domain organization. Useful for plant gene family characterization, phylogenetic construction, or gene expression profiling.</p>
+          <div class="sub-links">
+            <a href="https://cran.r-project.org/web/packages/geneHummus/index.html" target="_blank" rel="noopener">Also on CRAN →</a>
+          </div>
+        </div>
+        <div class="card">
+          <span class="tag">Bioconductor</span>
+          <h3>Full genome sequences</h3>
+          <p>Full genome sequences stored in Biostrings objects, installable from Bioconductor.</p>
+          <div class="sub-links">
+            <a href="https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Carietinum.NCBI.v1.html" target="_blank" rel="noopener">BSgenome.Carietinum.NCBI.v1 →</a>
+            <a href="https://bioconductor.org/packages/devel/data/annotation/html/BSgenome.Aofficinalis.NCBI.V1.html" target="_blank" rel="noopener">BSgenome.Aofficinalis.NCBI.V1 →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TOOLS & SCRIPTS -->
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">Tools &amp; scripts</div>
+        <h2 class="title">Standalone tools</h2>
+      </div>
+      <div class="single-grid">
+        <div class="card">
+          <span class="tag">R package</span>
+          <h3><a href="https://jdieramon.github.io/hIndex/index.html" target="_blank" rel="noopener">hIndexOveryears</a></h3>
+          <p>An R package to get a graphical representation of your h-index over the years.</p>
+        </div>
+        <div class="card">
+          <span class="tag">R script</span>
+          <h3><a href="https://github.com/jdieramon/BlueberryProject/blob/master/Optimal%20Plan/optimal_Plan.md" target="_blank" rel="noopener">optimalPlan</a></h3>
+          <p>Identifies the optimal sampling plan for a qPCR experiment within a given budget, allocating replicates (RNA, cDNA, qPCR) where they're expected to have the greatest benefit.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WEB APPS -->
+  <section class="alt">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">Web apps</div>
+        <h2 class="title">Other apps</h2>
+      </div>
+      <div class="single-grid">
+        <div class="card">
+          <span class="tag">Shiny app</span>
+          <h3><a href="https://josevdie.shinyapps.io/pangenome/" target="_blank" rel="noopener">Chickpea pangenome</a></h3>
+          <p>Interactive explorer for chickpea pangenome data.</p>
+        </div>
+        <div class="card">
+          <span class="tag">Shiny app</span>
+          <h3><a href="https://josevdie.shinyapps.io/testshiny/" target="_blank" rel="noopener">GeneHummus app</a></h3>
+          <p>Interactive companion app for the GeneHummus pipeline.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-bottom">
+      <span>© Jose V. Die — University of Córdoba</span>
+      <a href="../index.html">← Back to home</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

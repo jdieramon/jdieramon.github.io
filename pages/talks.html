@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Talks — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:920px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:28px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:64px 0 48px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:20px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2rem, 4.2vw, 2.9rem); line-height:1.12; letter-spacing:-0.01em; margin:0 0 16px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:16.5px; max-width:66ch; margin:0; }
+
+  .jump{ display:flex; flex-wrap:wrap; gap:8px; margin-top:26px; }
+  .jump a{ font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--ink-muted); border:1px solid var(--line); border-radius:20px; padding:5px 12px; transition:all .2s ease; }
+  .jump a:hover{ border-color:var(--green); color:var(--green); }
+
+  main.archive{ padding:48px 0 0; }
+  section.block{ padding:0 0 72px; border-bottom:1px solid var(--line); max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  section.block .section-head{ max-width:640px; margin-bottom:36px; padding-top:56px; }
+  section.block .section-head .eyebrow{ margin-bottom:14px; }
+  h2.title{ font-family:var(--serif); font-size:clamp(1.5rem, 2.6vw, 2rem); font-weight:600; margin:0 0 12px; letter-spacing:-0.01em; }
+  section.block .section-head p{ color:var(--ink-muted); font-size:15.5px; margin:0; }
+
+  .year-block{ border-top:1px solid var(--line); max-width:920px; margin:0 auto; }
+  .year-block:last-of-type{ border-bottom:1px solid var(--line); }
+  .year-block summary{
+    cursor:pointer; padding:20px 0; list-style:none;
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-family:var(--serif); font-size:20px; font-weight:600;
+  }
+  .year-block summary::-webkit-details-marker{ display:none; }
+  .year-block summary .toggle{ font-family:var(--mono); font-size:16px; color:var(--gold); }
+  .year-body{ padding:0 0 28px; }
+  ul.entries{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:11px; }
+  ul.entries li{ font-size:14.5px; color:var(--ink); line-height:1.55; padding-left:16px; position:relative; }
+  ul.entries li::before{ content:"—"; position:absolute; left:0; top:0; color:var(--ink-muted); }
+  ul.entries li a{ color:var(--green); text-decoration:none; border-bottom:1px solid var(--green-light); }
+  ul.entries li .where{ color:var(--ink-muted); }
+
+
+  footer{ padding:56px 0 40px; max-width:1080px; margin:0 auto; padding-left:32px; padding-right:32px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 620px){
+    nav.links{ display:none; }
+    .year-block summary{ font-size:18px; }
+    .material{ flex-direction:column; gap:2px; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a class="active" href="#talks">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<div class="page-hero">
+  <div class="eyebrow">Talks &amp; Seminars</div>
+  <h1 class="display">Every invited talk and seminar, in full.</h1>
+  <p class="lead">A complete record of invited talks, oral presentations, and conference appearances (2013–2026), kept exhaustive so it works as a running log for updating my CV.</p>
+  <div class="jump">
+    <a href="#y2026">2026</a><a href="#y2025">2025</a><a href="#y2024">2024</a><a href="#y2023">2023</a>
+    <a href="#y2022">2022</a><a href="#y2020">2020</a><a href="#y2019">2019</a><a href="#y2018">2018</a>
+    <a href="#y2017">2017</a><a href="#y2016">2016</a><a href="#y2015">2015</a><a href="#y2013">2013</a>
+  </div>
+</div>
+
+<main class="archive">
+
+  <!-- TALKS AND SEMINARS -->
+  <section class="block" id="talks">
+    <div class="section-head">
+      <div class="eyebrow">Talks &amp; Seminars</div>
+      <h2 class="title">2013 – 2026</h2>
+      <p>Invited talks, oral presentations, and conference appearances, most recent first.</p>
+    </div>
+
+    <details class="year-block" id="y2026" open>
+      <summary>2026 <span class="toggle">−</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited speaker: "Mejora genética vegetal: de los cruzamientos de Mendel a los modelos predictivos en la Agricultura del siglo XXI." <a href="https://jdieramon.github.io/pages/files/Programa_Seminario_IA.pdf" target="_blank" rel="noopener">Seminarios de actualidad sobre los retos de la investigación en la ingeniería agraria, alimentaria, forestal y del desarrollo rural sostenible</a>, Córdoba, 9 Jun.</li>
+          <li>Invited speaker: "Smarter Plant Breeding: Where Bioinformatics Meets the Field." <a href="https://master-biotecnologia-bioingenieria.umh.es/2026/02/11/seminario-smarter-plant-breeding-where-bioinformatics-meets-the-field/" target="_blank" rel="noopener">Universidad Miguel Hernández</a>, Elche, 13 Feb.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2025" open>
+      <summary>2025 <span class="toggle">−</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited speaker: "Fine-mapping strategy: an approach for precision chickpea breeding." <a href="https://sites.google.com/view/prfhcordoba2025/home?authuser=2" target="_blank" rel="noopener">Corteva Symposia Series</a>, Córdoba, 22–23 Oct.</li>
+          <li>Oral presentation: "Common computational operations with records on RefSeq collection." <a href="https://jabi2025.uma.es/" target="_blank" rel="noopener">III Jornadas Andaluzas de Bioinformática</a>, Málaga, 12–14 May.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2024">
+      <summary>2024 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li><em>refseqR</em> workshop — <a href="https://jdieramon.quarto.pub/refseqr--workshop-/" target="_blank" rel="noopener">slides</a>.</li>
+          <li>Invited speaker: "CRISPR technology: a tribute to curiosity and attention." <a href="https://www.gifeconatur.com/" target="_blank" rel="noopener">Global Innovation Forum ECONATUR</a>, Córdoba, 18–19 Nov.</li>
+          <li>Oral presentation: "Common computational operations with records on RefSeq collection." <a href="https://www.imus.us.es/congresos/IIIRqueR/" target="_blank" rel="noopener">III Congreso y XIV Jornadas de Usuarios de R</a>, Sevilla, 6–8 Nov — <a href="https://github.com/rhisp/IIIRqueR/blob/main/Ponencias/2024refseqR_JVDie.pdf" target="_blank" rel="noopener">slides</a>.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2023">
+      <summary>2023 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited lecturer: "Open data in the post-genomic era." Jornada institucional Fundación Carolina, University of Córdoba, 8 Nov.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2022">
+      <summary>2022 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited lecturer: "Open data in the post-genomic era." Closing Conference, Graduation Master in Biotechnology, University of Córdoba, class 2021/22, 30 Jun.</li>
+          <li>Oral presentation: "Asparagus Breeding Program in Córdoba (Spain)." Session Genetics and Breeding, <a href="https://www.ias2022.com/" target="_blank" rel="noopener">XV International Asparagus Symposium</a>, 12–15 Jun.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2020">
+      <summary>2020 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited speaker: "Automated Clustering of Plant Gene Families from NCBI Databases." Plant Bioinformatics Resources Workshop, <a href="https://plantbiology.aspb.org/" target="_blank" rel="noopener">Plant Biology Worldwide Summit</a>, 29 Jul.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2019">
+      <summary>2019 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Oral presentation: "<a href="https://canal.uned.es/video/5dd249c95578f2755170d7e1" target="_blank" rel="noopener">geneHummus</a>: Automatización computacional para el estudio de familias génicas basadas en la organización de los dominios conservados." <a href="http://r-es.org/XIjuR/" target="_blank" rel="noopener">XI Jornadas Usuarios R</a>, Madrid, 16 Nov.</li>
+          <li>Invited seminar: "Museo del Prado, Lumière Brothers and Open Data in the Genomic Era." Organized by PhD Students, University of Córdoba, 7 Jun.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2018">
+      <summary>2018 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited speaker: "GeneHummus: An automated pipeline to study plant gene families based on protein domain organization." Jornada Científico-Técnica y VI Jornadas <a href="http://www.leguminosas.es/" target="_blank" rel="noopener">Asociación Española de Leguminosas</a>, Córdoba, 22–23 Oct.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2017">
+      <summary>2017 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited seminar: "Regulación molecular de la biosíntesis de las antocianinas en arándano." Instituto Andaluz de Investigación, Formación Agraria, Pesquera y Agroalimentaria y de la Producción Ecológica, Córdoba, 23 Feb.</li>
+          <li>Invited seminar: "Regulación molecular de la biosíntesis de las antocianinas en arándano." Seminarios Interdepartamentales Bioquímica, Biología Molecular, Genética, Universidad de Córdoba, 10 Feb.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2016">
+      <summary>2016 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited seminar: "Transparencia y buenas prácticas en experimentos qPCR." <a href="http://www2.eez.csic.es/?q=es/node/7457" target="_blank" rel="noopener">Estación Experimental del Zaidín-CSIC</a>, Granada, 28 Oct.</li>
+          <li>Invited speaker: "Quality Control and Technical Variance in plant qPCR analysis." <a href="http://www.global-engage.com/event/qpcr-digital-pcr/" target="_blank" rel="noopener">4th qPCR &amp; Digital PCR Congress</a>, London, UK, 20–21 Oct.</li>
+          <li>"Understanding anthocyanins molecular regulation in blueberry." USDA, Genetic Improvement Fruits Vegetables Laboratory meeting, Beltsville, MD, 9 Mar.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2015">
+      <summary>2015 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>Invited speaker: "Quality Control and Technical Variance in plant qPCR analysis." qPCR &amp; Digital PCR Congress USA, San Diego, CA, 25–26 Jun.</li>
+          <li>"Global patterns of protein abundance during the development of cold hardiness in blueberry." USDA, Genetic Improvement Fruits Vegetables Laboratory meeting, Beltsville, MD, 11 Jun.</li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="year-block" id="y2013">
+      <summary>2013 <span class="toggle">+</span></summary>
+      <div class="year-body">
+        <ul class="entries">
+          <li>"Quality controls in qPCR." USDA, Genetic Improvement Fruits Vegetables Laboratory meeting, Beltsville, MD, 16 Mar.</li>
+        </ul>
+      </div>
+    </details>
+  </section>
+
+</main>
+
+<footer>
+  <div class="foot-bottom">
+    <span>© Jose V. Die — University of Córdoba</span>
+    <a href="../index.html">← Back to home</a>
+  </div>
+</footer>
+
+</body>
+</html>

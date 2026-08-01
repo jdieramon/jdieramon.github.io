@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projects — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1; --bg-alt: #ECEFE6; --ink: #1D231E; --ink-muted: #5B6358;
+    --green: #2F4A3C; --green-light: #6B8F72; --gold: #C6963A; --line: #D9DACE; --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:1080px; margin:0 auto; padding:0 32px; }
+
+  header.nav{ position:sticky; top:0; z-index:50; background:rgba(246,246,241,0.88); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner{ display:flex; align-items:center; justify-content:space-between; padding:18px 32px; max-width:1080px; margin:0 auto; }
+  .brand{ font-family:var(--mono); font-size:14px; letter-spacing:0.06em; text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:24px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{ font-size:14px; text-decoration:none; padding:8px 16px; border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink); transition:all .2s ease; white-space:nowrap; }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  .page-hero{ padding:72px 0 56px; border-bottom:1px solid var(--line); }
+  .eyebrow{ font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase; color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:22px; }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{ font-family:var(--serif); font-weight:600; font-size:clamp(2.1rem, 4.4vw, 3.1rem); line-height:1.1; letter-spacing:-0.01em; margin:0 0 18px; max-width:24ch; }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:17px; max-width:62ch; margin:0; }
+
+  section{ padding:64px 0; }
+  .card-grid{ display:grid; grid-template-columns:repeat(2, 1fr); gap:22px; }
+  .card{
+    background:var(--paper); border:1px solid var(--line); border-radius:var(--radius);
+    padding:30px 28px; transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+  }
+  .card:hover{ transform:translateY(-3px); border-color:var(--green-light); box-shadow:0 10px 24px -14px rgba(47,74,60,0.35); }
+  .card .tag{ font-family:var(--mono); font-size:12px; color:var(--gold); letter-spacing:0.06em; display:block; margin-bottom:14px; }
+  .card h3{ font-family:var(--serif); font-size:20px; margin:0 0 10px; font-weight:600; }
+  .card h3 a{ text-decoration:none; color:var(--ink); }
+  .card h3 a:hover{ color:var(--green); }
+  .card p{ font-size:14.5px; color:var(--ink-muted); margin:0 0 16px; }
+  .card a.visit{ font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--green); border-bottom:1px solid var(--green-light); }
+
+  footer{ padding:56px 0 40px; }
+  .foot-bottom{ display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:24px; font-size:13px; color:var(--ink-muted); flex-wrap:wrap; gap:12px; }
+
+  @media (max-width: 700px){
+    .card-grid{ grid-template-columns:1fr; }
+    nav.links{ display:none; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<main>
+
+  <section class="page-hero">
+    <div class="wrap">
+      <div class="eyebrow">Projects</div>
+      <h1 class="display">Four species, one research approach.</h1>
+      <p class="lead">My research focuses on problems in plant genetics and genomics — genome-wide analyses, sequencing, and annotation — with the ultimate goal of integrating that work into breeding programs and better crop improvement strategies. Here's a summary of the projects I'm working on.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="card-grid">
+        <div class="card">
+          <span class="tag">Project site</span>
+          <h3><a href="https://jdieramon.github.io/CastaneaProject/" target="_blank" rel="noopener">European chestnut project</a></h3>
+          <p>Drought tolerance and genomic resources for <em>Castanea sativa</em>.</p>
+          <a class="visit" href="https://jdieramon.github.io/CastaneaProject/" target="_blank" rel="noopener">Visit project →</a>
+        </div>
+        <div class="card">
+          <span class="tag">Project site</span>
+          <h3><a href="https://jdieramon.github.io/ChickpeaProject/" target="_blank" rel="noopener">Chickpea project</a></h3>
+          <p>Molecular genetics of flowering time and adaptation in chickpea.</p>
+          <a class="visit" href="https://jdieramon.github.io/ChickpeaProject/" target="_blank" rel="noopener">Visit project →</a>
+        </div>
+        <div class="card">
+          <span class="tag">Project site</span>
+          <h3><a href="https://jdieramon.github.io/AsparagusProject/asparagus.html" target="_blank" rel="noopener">Asparagus project</a></h3>
+          <p>Genetics and genomics behind agronomic traits in garden asparagus.</p>
+          <a class="visit" href="https://jdieramon.github.io/AsparagusProject/asparagus.html" target="_blank" rel="noopener">Visit project →</a>
+        </div>
+        <div class="card">
+          <span class="tag">Project site</span>
+          <h3><a href="https://jdieramon.github.io/BlueberryProject/" target="_blank" rel="noopener">Blueberry project</a></h3>
+          <p>Gene expression and cold acclimation in blueberry.</p>
+          <a class="visit" href="https://jdieramon.github.io/BlueberryProject/" target="_blank" rel="noopener">Visit project →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-bottom">
+      <span>© Jose V. Die — University of Córdoba</span>
+      <a href="../index.html">← Back to home</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
