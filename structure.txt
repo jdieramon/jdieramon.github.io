@@ -1,0 +1,13 @@
+jdieramon.github.io/
+├── index.html                  ← reemplaza index.md
+└── pages/
+    ├── research.html           ← nuevo
+    ├── teaching.html           ← nuevo
+    ├── pubs.html                ← reemplaza pubs.md
+    ├── talks.html                 ← reemplaza talks.md
+    ├── events.html                  ← reemplaza events.md
+    ├── software.html                  ← reemplaza software.md
+    ├── projects.html                    ← reemplaza projects.md
+    ├── cv.html                            ← reemplaza CV.md
+    ├── posts.md / posts/                    ← sin tocar (tu blog original)
+    └── files/audio/rne-cultivos-espana-2026.mp3   ← nuevo
