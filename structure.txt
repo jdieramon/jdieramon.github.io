@@ -9,5 +9,5 @@ jdieramon.github.io/
     ├── software.html                  ← reemplaza software.md
     ├── projects.html                    ← reemplaza projects.md
     ├── cv.html                            ← reemplaza CV.md
-    ├── posts.md / posts/                    ← sin tocar (tu blog original)
+    ├── posts.md / posts/                    ← sin tocar (blog original)
     └── files/audio/rne-cultivos-espana-2026.mp3   ← nuevo
