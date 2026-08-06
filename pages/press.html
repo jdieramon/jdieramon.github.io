@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Press — Jose V. Die</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F6F6F1;
+    --bg-alt: #ECEFE6;
+    --ink: #1D231E;
+    --ink-muted: #5B6358;
+    --green: #2F4A3C;
+    --green-light: #6B8F72;
+    --gold: #C6963A;
+    --line: #D9DACE;
+    --paper: #FFFFFF;
+    --radius: 3px;
+    --serif: 'Source Serif 4', Georgia, serif;
+    --sans: 'IBM Plex Sans', -apple-system, sans-serif;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--sans); font-size:16px; line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{ color:inherit; }
+  ::selection{ background:var(--gold); color:#fff; }
+  .wrap{ max-width:1080px; margin:0 auto; padding:0 32px; }
+
+  /* NAV (shared) */
+  header.nav{
+    position:sticky; top:0; z-index:50;
+    background:rgba(246,246,241,0.88); backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line);
+  }
+  .nav-inner{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:18px 32px; max-width:1080px; margin:0 auto;
+  }
+  .brand{
+    font-family:var(--mono); font-size:14px; letter-spacing:0.06em;
+    text-decoration:none; color:var(--ink); display:flex; align-items:center; gap:8px;
+  }
+  .brand .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); display:inline-block; }
+  nav.links{ display:flex; gap:28px; }
+  nav.links a{ text-decoration:none; font-size:14px; color:var(--ink-muted); transition:color .2s ease; }
+  nav.links a:hover, nav.links a.active{ color:var(--green); }
+  .nav-cta{
+    font-size:14px; text-decoration:none; padding:8px 16px;
+    border:1px solid var(--ink); border-radius:var(--radius); color:var(--ink);
+    transition:all .2s ease; white-space:nowrap;
+  }
+  .nav-cta:hover{ background:var(--ink); color:var(--bg); }
+
+  /* PAGE HERO */
+  .page-hero{ padding:72px 0 56px; border-bottom:1px solid var(--line); }
+  .eyebrow{
+    font-family:var(--mono); font-size:13px; letter-spacing:0.08em; text-transform:uppercase;
+    color:var(--green); display:flex; align-items:center; gap:10px; margin-bottom:22px;
+  }
+  .eyebrow::before{ content:""; width:28px; height:1px; background:var(--gold); }
+  h1.display{
+    font-family:var(--serif); font-weight:600; font-size:clamp(2.1rem, 4.4vw, 3.1rem);
+    line-height:1.1; letter-spacing:-0.01em; margin:0 0 18px; max-width:22ch;
+  }
+  .page-hero p.lead{ color:var(--ink-muted); font-size:17px; max-width:60ch; margin:0 0 34px; }
+
+  .stat-row{ display:flex; gap:32px; flex-wrap:nowrap; }
+  .stat{ flex:0 0 auto; }
+  .stat .num{ font-family:var(--serif); font-size:26px; color:var(--green); display:block; white-space:nowrap; }
+  .stat .label{ font-size:13px; color:var(--ink-muted); white-space:nowrap; }
+
+  /* SECTION */
+  section{ padding:72px 0; border-bottom:1px solid var(--line); }
+  section.alt{ background:var(--bg-alt); }
+  .section-head{ margin-bottom:40px; max-width:640px; }
+  .section-head .eyebrow{ margin-bottom:14px; }
+  h2.title{
+    font-family:var(--serif); font-size:clamp(1.5rem, 2.6vw, 2rem);
+    font-weight:600; margin:0 0 12px; letter-spacing:-0.01em;
+  }
+  .section-head p{ color:var(--ink-muted); font-size:15.5px; margin:0; }
+
+  /* PRESS LIST (shared pub-list pattern) */
+  .pub-list{ display:flex; flex-direction:column; }
+  .pub{
+    display:grid;
+    grid-template-columns:88px 1fr auto;
+    gap:24px;
+    align-items:start;
+    padding:28px 0;
+    border-top:1px solid var(--line);
+    transition:background .2s ease;
+    scroll-margin-top:90px;
+  }
+  .pub:last-child{ border-bottom:1px solid var(--line); }
+  .pub:hover{ background:var(--paper); }
+  .pub .year{
+    font-family:var(--mono); font-size:14px; color:var(--gold); padding-top:3px; white-space:nowrap;
+  }
+  .pub h3{
+    font-family:var(--serif); font-size:19px; font-weight:600; margin:0 0 8px; line-height:1.35;
+  }
+  .pub .meta{ font-size:13.5px; color:var(--ink-muted); margin:0 0 6px; }
+  .pub .journal{ color:var(--green); font-weight:500; }
+  .pub .summary{ font-size:14.5px; color:var(--ink-muted); margin:8px 0 0; max-width:64ch; }
+  .pub .link{
+    align-self:start;
+    font-family:var(--mono); font-size:12.5px; text-decoration:none; color:var(--ink);
+    border:1px solid var(--line); border-radius:20px; padding:7px 14px;
+    white-space:nowrap; transition:all .2s ease;
+  }
+  .pub .link:hover{ border-color:var(--green); color:var(--green); }
+  .pub .listen{ margin-top:12px; }
+  .pub audio{
+    width:100%; max-width:420px; height:36px; border-radius:20px; accent-color: var(--green);
+  }
+  .pub .watch{
+    position:relative; display:block; margin-top:14px; max-width:480px; aspect-ratio:16/9;
+    border-radius:6px; overflow:hidden; border:1px solid var(--line);
+  }
+  .pub .watch img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .pub .watch .play-badge{
+    position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+    background:linear-gradient(180deg, rgba(29,35,30,0) 55%, rgba(29,35,30,0.35) 100%);
+  }
+  .pub .watch .play-badge span{
+    width:54px; height:54px; border-radius:50%;
+    background:rgba(29,35,30,0.78);
+    display:flex; align-items:center; justify-content:center;
+    transition:background .2s ease, transform .2s ease;
+  }
+  .pub .watch:hover .play-badge span{ background:var(--green); transform:scale(1.08); }
+  .pub .watch .play-icon{
+    width:0; height:0; margin-left:4px;
+    border-top:10px solid transparent; border-bottom:10px solid transparent;
+    border-left:16px solid #fff;
+  }
+
+  footer{ padding:64px 0 40px; }
+  .foot-bottom{
+    display:flex; justify-content:space-between; align-items:center;
+    border-top:1px solid var(--line); padding-top:24px; font-size:13px;
+    color:var(--ink-muted); flex-wrap:wrap; gap:12px;
+  }
+
+  @media (max-width: 760px){
+    .stat-row{ gap:18px; }
+    .stat .num{ font-size:20px; }
+    .stat .label{ font-size:11px; }
+    .pub{ grid-template-columns:1fr; gap:8px; }
+    .pub .link{ justify-self:flex-start; }
+    nav.links{ display:none; }
+  }
+  :focus-visible{ outline:2px solid var(--green); outline-offset:2px; }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="../index.html"><span class="dot"></span>JOSE&nbsp;V.&nbsp;DIE</a>
+    <nav class="links">
+      <a href="../index.html#about">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="pubs.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="events.html">Events</a>
+    </nav>
+    <a class="nav-cta" href="mailto:jose.die@uco.es">Contact</a>
+  </div>
+</header>
+
+<main>
+
+  <!-- PAGE HERO -->
+  <section class="page-hero">
+    <div class="wrap">
+      <div class="eyebrow">Press</div>
+      <h1 class="display">Our research, covered in the media.</h1>
+      <p class="lead">Interviews, features, and news coverage of our work — from chickpea flowering time and climate adaptation to olive disease genomics and AI in agriculture. Chronological, most recent first.</p>
+      <div class="stat-row">
+        <div class="stat"><span class="num">12</span><span class="label">Press &amp; media features</span></div>
+        <div class="stat"><span class="num">9</span><span class="label">Outlets</span></div>
+        <div class="stat"><span class="num">2020–2026</span><span class="label">Coverage span</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRESS COVERAGE -->
+  <section id="press">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">Coverage</div>
+        <h2 class="title">In the news</h2>
+      </div>
+
+      <div class="pub-list">
+
+        <div class="pub" id="canalsur-interview">
+          <span class="year">Jul 2026</span>
+          <div>
+            <h3>University of Córdoba researchers develop molecular markers linked to early flowering in chickpea</h3>
+            <p class="meta"><span class="journal">Canal Sur</span> · TV interview</p>
+            <a class="watch" href="https://youtu.be/PteRYitC5cc" target="_blank" rel="noopener" aria-label="Watch the Canal Sur interview on YouTube">
+              <img src="https://img.youtube.com/vi/PteRYitC5cc/hqdefault.jpg" alt="Canal Sur TV interview — video thumbnail" loading="lazy">
+              <span class="play-badge"><span class="play-icon"></span></span>
+            </a>
+          </div>
+        </div>
+
+        <div class="pub" id="rne-interview">
+          <span class="year">Jul 2026</span>
+          <div>
+            <h3>Spanish researchers study different crop varieties to identify the factors that advance flowering</h3>
+            <p class="meta"><span class="journal">RNE — Radio Nacional de España</span> · Radio interview</p>
+            <div class="listen">
+              <audio controls controlsList="nodownload" preload="none">
+                <source src="files/audio/rne-cultivos-espana-2026.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+
+        <div class="pub">
+          <span class="year">Mar 2026</span>
+          <div>
+            <h3>Researchers decode the complete genome of the fungus behind an olive disease with losses in the millions</h3>
+            <p class="meta"><span class="journal">Cordópolis</span> (eldiario.es)</p>
+            <p class="summary">Coverage of the full genome sequencing of <em>Pseudocercospora cladosporioides</em>, the fungus that causes Cercospora leaf spot, published in <em>Plant Pathology</em>.</p>
+          </div>
+          <a class="link" href="https://cordopolis.eldiario.es/cordoba-hoy/sociedad/descifran-genoma-completo-hongo-causa-enfermedad-olivo-perdidas-millonarias_1_13092535.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Mar 2026</span>
+          <div>
+            <h3>A decisive step against Cercospora leaf spot: genetics opens the door to more resistant olive trees</h3>
+            <p class="meta"><span class="journal">ABC Sevilla</span>, Agrónoma</p>
+            <p class="summary">On how the newly sequenced fungal genome could accelerate breeding for resistance to Cercospora leaf spot (emplomado).</p>
+          </div>
+          <a class="link" href="https://sevilla.abc.es/agronoma/noticias/cultivos/aceites-de-oliva/un-paso-decisivo-contra-el-emplomado-la-genetica-abre-la-puerta-a-olivos-mas-resistentes/" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Mar 2026</span>
+          <div>
+            <h3>University of Córdoba sequences the genome of the fungus behind Cercospora leaf spot</h3>
+            <p class="meta"><span class="journal">El Día de Córdoba</span></p>
+            <p class="summary">Local coverage of the genome study and its implications for olive growers.</p>
+          </div>
+          <a class="link" href="https://www.eldiadecordoba.es/cordoba/universidad-cordoba-genoma-hongo-emplomado-olivo_0_2006281630.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Mar 2026</span>
+          <div>
+            <h3>Video feature on the Cercospora leaf spot genome research</h3>
+            <p class="meta"><span class="journal">UCONews</span>, University of Córdoba · Video</p>
+            <p class="summary">A short video piece on the fungal genome work and its impact for olive cultivation.</p>
+          </div>
+          <a class="link" href="https://www.youtube.com/watch?v=a9r54Ph7HFE" target="_blank" rel="noopener">Watch →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Sep 2024</span>
+          <div>
+            <h3>Experts weigh in on the future of the agricultural sector</h3>
+            <p class="meta"><span class="journal">Diario Córdoba</span> · Artificial intelligence</p>
+            <p class="summary">Statements to the press in connection with participation in the Smart Agrifood AI Congress, Córdoba.</p>
+          </div>
+          <a class="link" href="https://www.diariocordoba.com/agricultura-medio-ambiente/2024/09/19/expertos-fian-futuro-sector-agrario-108312176.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Sep 2024</span>
+          <div>
+            <h3>Córdoba, epicentre of agri-food innovation and artificial intelligence</h3>
+            <p class="meta"><span class="journal">El Día de Córdoba</span> · Artificial intelligence</p>
+            <p class="summary">Coverage of the Smart Agrifood AI Congress, chaired panel discussion on AI in the agri-food chain.</p>
+          </div>
+          <a class="link" href="https://www.eldiadecordoba.es/cordoba/cordoba-epicentro-innovacion-agroalimentaria-inteligencia-artificial_0_2002407287.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Mar 2021</span>
+          <div>
+            <h3>Chickpea and climate adaptation: breeding varieties suited to local conditions</h3>
+            <p class="meta"><span class="journal">ABC Sevilla</span>, Agrónoma · Project FORCE</p>
+            <p class="summary">On Project FORCE and the molecular basis of flowering time in chickpea as a driver of climate adaptation.</p>
+          </div>
+          <a class="link" href="https://sevilla.abc.es/agronoma/noticias/cultivos/garbanzo/garbanzo-adaptacion-clima/" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Jul 2020</span>
+          <div>
+            <h3>University of Córdoba works on chickpeas adapted to specific climatic conditions</h3>
+            <p class="meta"><span class="journal">El Día de Córdoba</span> · Project FORCE</p>
+            <p class="summary">Local coverage of Project FORCE, identifying chickpea genotypes best adapted to specific climates.</p>
+          </div>
+          <a class="link" href="https://www.eldiadecordoba.es/cordoba/uco-garbanzos-adaptados-condiciones-climaticas-concretas_0_1481251987.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">Jul 2020</span>
+          <div>
+            <h3>University of Córdoba project seeks chickpea varieties best adapted to specific climate conditions</h3>
+            <p class="meta"><span class="journal">Europa Press</span> · Project FORCE</p>
+            <p class="summary">National wire coverage of Project FORCE (Marie Skłodowska-Curie Actions, Horizon 2020).</p>
+          </div>
+          <a class="link" href="https://www.europapress.es/andalucia/noticia-proyecto-universidad-cordoba-busca-identificar-garbanzos-mas-adaptados-condiciones-climaticas-concretas-20200709102331.html" target="_blank" rel="noopener">Read →</a>
+        </div>
+
+        <div class="pub">
+          <span class="year">2020</span>
+          <div>
+            <h3>Project FORCE: molecular basis of flowering time in chickpea</h3>
+            <p class="meta"><span class="journal">European Commission</span> · Project fact sheet — Marie Skłodowska-Curie Actions, Horizon 2020</p>
+            <p class="summary">Official project summary describing the aims and scope of Project FORCE, on the molecular basis of flowering time in chickpea.</p>
+          </div>
+          <a class="link" href="https://www.uco.es/internacional/proyectosinternacionales/wp-content/uploads/2020/10/FORCE-ENG.pdf" target="_blank" rel="noopener">View PDF →</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <div class="foot-bottom">
+        <span>© Jose V. Die — University of Córdoba</span>
+        <a href="../index.html">← Back to home</a>
+      </div>
+    </div>
+  </footer>
+
+</main>
+
+</body>
+</html>
